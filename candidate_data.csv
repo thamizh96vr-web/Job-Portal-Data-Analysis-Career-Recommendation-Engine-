@@ -1,0 +1,501 @@
+Candidate_ID,Skills,Experience,Education,Certifications,Shortlisted
+C001,"Python, Machine Learning",3,M.Sc,Data Analytics,0
+C002,"Python, ML, SQL",6,B.E,Data Analytics,1
+C003,"Excel, Power BI",3,B.E,AWS,1
+C004,"Machine Learning, Python, SQL",5,B.Com,Excel,1
+C005,"Python, SQL",5,M.Sc,"Python, SQL",1
+C006,"Python, ML, TensorFlow",2,B.Tech,Machine Learning,0
+C007,"Excel, SQL",8,B.E,Excel,1
+C008,"Python, Machine Learning",1,B.Tech,"Python, SQL",1
+C009,"Python, SQL, AWS",1,B.Com,"Python, SQL",1
+C010,"Python, SQL, AWS",7,MBA,SQL,1
+C011,"Machine Learning, Python, SQL",0,B.Tech,Python,0
+C012,"Python, Pandas, NumPy",5,B.Com,Power BI,1
+C013,"Python, Pandas, NumPy",1,B.Com,Python,1
+C014,"Excel, SQL, Tableau",7,MCA,Machine Learning,1
+C015,"Python, SQL, AWS",8,MCA,Data Analytics,1
+C016,"Excel, SQL, Tableau",4,B.Com,"Python, SQL",1
+C017,"Python, SQL, AWS",8,M.Sc,None,1
+C018,"Python, SQL",7,MBA,SQL,1
+C019,"Python, SQL",7,B.E,SQL,1
+C020,"Python, Machine Learning",8,B.Tech,Python,1
+C021,"Python, SQL",6,MBA,Data Analytics,1
+C022,"Python, Pandas, NumPy",2,B.Sc,SQL,1
+C023,"Excel, Power BI",2,B.Sc,Excel,1
+C024,"Python, Machine Learning",8,MBA,"Power BI, SQL",1
+C025,"Python, ML, TensorFlow",2,MBA,Machine Learning,1
+C026,"Excel, SQL",4,MBA,Machine Learning,0
+C027,"Python, SQL, Statistics",3,M.Sc,Machine Learning,1
+C028,"Python, SQL, Power BI",8,M.Sc,AWS,1
+C029,"Python, SQL, AWS",3,MCA,"Power BI, SQL",1
+C030,"Machine Learning, Python, SQL",0,B.Sc,"Python, SQL",0
+C031,"SQL, Excel, Power BI",8,B.Tech,"Python, SQL",1
+C032,"SQL, Excel, Power BI",8,MCA,Excel,1
+C033,"Python, SQL",2,B.Com,Data Analytics,1
+C034,"SQL, Power BI, Excel",8,B.Tech,None,1
+C035,"Machine Learning, Python, SQL",0,B.Com,Power BI,1
+C036,"Python, ML, SQL",0,M.Sc,None,0
+C037,"SQL, Power BI, Excel",0,B.E,None,0
+C038,"Python, Machine Learning",4,B.Sc,None,1
+C039,"Python, ML, SQL",1,M.Sc,"Power BI, SQL",1
+C040,"SQL, Excel, Power BI",0,MBA,AWS,0
+C041,"SQL, Power BI, Excel",4,B.Tech,Python,1
+C042,"Python, SQL",8,B.Tech,AWS,1
+C043,"Python, SQL, Statistics",2,B.Tech,Power BI,1
+C044,"Python, ML, SQL",3,MBA,Power BI,1
+C045,"Python, SQL, Tableau",0,MBA,Python,0
+C046,"Python, SQL, Tableau",8,B.Com,Machine Learning,1
+C047,"Excel, SQL, Tableau",2,MBA,"Power BI, SQL",0
+C048,"Python, SQL",1,B.Sc,Excel,1
+C049,"Excel, Power BI",6,B.Sc,"Python, SQL",1
+C050,"Python, ML, SQL",3,MCA,Data Analytics,1
+C051,"Python, SQL",7,B.Tech,None,1
+C052,"Python, SQL, Statistics",1,MCA,Python,0
+C053,"Python, SQL, Power BI",5,B.E,"Python, SQL",1
+C054,"SQL, Power BI, Excel",7,MBA,SQL,1
+C055,"Python, SQL",0,B.Tech,SQL,0
+C056,"Machine Learning, Python, SQL",5,MCA,SQL,1
+C057,"Python, Pandas, NumPy",7,B.E,Python,1
+C058,"Excel, SQL, Tableau",0,M.Sc,SQL,0
+C059,"Excel, SQL",2,B.Sc,None,0
+C060,"Machine Learning, Python, SQL",4,MCA,SQL,1
+C061,"Python, SQL, AWS",8,M.Sc,Data Analytics,1
+C062,"Excel, SQL, Tableau",2,B.Tech,None,0
+C063,"Excel, SQL",4,MBA,None,0
+C064,"Python, SQL, Tableau",5,B.Com,SQL,1
+C065,"SQL, Power BI, Excel",7,B.Com,AWS,1
+C066,"Python, ML, TensorFlow",1,B.Com,None,0
+C067,"SQL, Power BI, Excel",0,B.Sc,AWS,0
+C068,"Python, Machine Learning",2,B.Com,"Python, SQL",0
+C069,"SQL, Power BI, Excel",6,B.Sc,Power BI,1
+C070,"Machine Learning, Python, SQL",2,MBA,Python,1
+C071,"Python, SQL, Power BI",6,MBA,AWS,1
+C072,"Machine Learning, Python, SQL",5,B.Com,"Power BI, SQL",1
+C073,"Python, Pandas, NumPy",0,B.Tech,"Power BI, SQL",0
+C074,"Python, SQL, AWS",4,B.Sc,Data Analytics,1
+C075,"Excel, Power BI",4,MBA,Power BI,1
+C076,"Machine Learning, Python, SQL",2,MBA,Data Analytics,1
+C077,"Excel, SQL",1,B.Tech,"Power BI, SQL",1
+C078,"Excel, SQL, Tableau",2,B.Tech,"Power BI, SQL",0
+C079,"Python, Machine Learning",4,B.Com,Excel,1
+C080,"Python, SQL, AWS",4,B.Sc,"Power BI, SQL",1
+C081,"Python, ML, TensorFlow",0,MBA,Python,0
+C082,"Python, SQL, Tableau",7,M.Sc,Excel,1
+C083,"Python, SQL",6,MBA,Excel,1
+C084,"Python, SQL, AWS",2,M.Sc,AWS,1
+C085,"Python, SQL, Tableau",4,MBA,None,1
+C086,"Excel, SQL",0,MCA,Excel,0
+C087,"Python, Machine Learning",5,M.Sc,Power BI,1
+C088,"Python, ML, TensorFlow",2,B.Com,None,0
+C089,"SQL, Power BI, Excel",4,M.Sc,Power BI,1
+C090,"Python, SQL, Power BI",0,B.Tech,Power BI,1
+C091,"SQL, Power BI, Excel",1,B.E,None,1
+C092,"Excel, Power BI",2,B.Sc,None,0
+C093,"SQL, Power BI, Excel",1,M.Sc,SQL,0
+C094,"Python, ML, TensorFlow",7,M.Sc,"Power BI, SQL",1
+C095,"Python, ML, TensorFlow",1,B.E,"Python, SQL",1
+C096,"Python, SQL, Power BI",7,B.Tech,"Python, SQL",1
+C097,"Excel, Power BI",8,B.Tech,"Power BI, SQL",1
+C098,"Python, ML, SQL",0,B.E,Power BI,0
+C099,"Python, SQL, Power BI",0,MBA,Data Analytics,1
+C100,"Python, SQL, AWS",0,MBA,Machine Learning,1
+C101,"Python, SQL, Tableau",2,B.Sc,None,0
+C102,"Python, SQL, Tableau",5,M.Sc,SQL,1
+C103,"Python, SQL",3,B.Tech,"Python, SQL",1
+C104,"Python, SQL, AWS",3,B.E,"Power BI, SQL",1
+C105,"Excel, SQL, Tableau",4,M.Sc,SQL,1
+C106,"Excel, Power BI",3,M.Sc,Machine Learning,1
+C107,"Python, SQL, Tableau",6,M.Sc,Excel,1
+C108,"Excel, SQL, Tableau",4,B.E,Machine Learning,1
+C109,"Python, SQL, Statistics",1,MBA,"Python, SQL",1
+C110,"Python, SQL, Statistics",5,MBA,Data Analytics,1
+C111,"Python, ML, TensorFlow",8,B.Com,"Power BI, SQL",1
+C112,"Python, Pandas, NumPy",2,M.Sc,None,0
+C113,"Python, Pandas, NumPy",3,B.Sc,Machine Learning,0
+C114,"Python, SQL, Statistics",5,MBA,"Power BI, SQL",1
+C115,"Python, ML, TensorFlow",2,MBA,SQL,0
+C116,"Machine Learning, Python, SQL",3,B.Tech,Data Analytics,1
+C117,"Python, SQL, Statistics",8,MBA,None,1
+C118,"Python, SQL, Tableau",0,B.Sc,Data Analytics,1
+C119,"Python, SQL",5,M.Sc,AWS,1
+C120,"Python, Pandas, NumPy",4,B.E,Excel,1
+C121,"Excel, SQL",2,B.E,Power BI,0
+C122,"Python, SQL",4,MCA,AWS,1
+C123,"Python, ML, SQL",6,B.Sc,"Power BI, SQL",1
+C124,"SQL, Power BI, Excel",3,B.Com,Data Analytics,0
+C125,"Python, ML, TensorFlow",1,B.Tech,Excel,1
+C126,"Python, SQL",4,B.Tech,SQL,1
+C127,"Python, SQL, Statistics",5,B.Com,SQL,1
+C128,"Python, SQL, Power BI",7,MCA,Python,1
+C129,"SQL, Excel, Power BI",4,MBA,Data Analytics,1
+C130,"Excel, SQL, Tableau",0,B.E,Excel,0
+C131,"Python, ML, TensorFlow",8,MCA,None,1
+C132,"Python, ML, SQL",0,M.Sc,Machine Learning,1
+C133,"Python, Pandas, NumPy",0,M.Sc,Excel,0
+C134,"Excel, Power BI",4,M.Sc,"Power BI, SQL",1
+C135,"Python, ML, TensorFlow",2,B.Sc,Excel,0
+C136,"Python, ML, SQL",3,MCA,None,1
+C137,"Python, SQL",7,B.Com,Data Analytics,1
+C138,"Python, Pandas, NumPy",5,B.E,Python,1
+C139,"Python, SQL, AWS",0,MCA,Excel,0
+C140,"Python, Machine Learning",4,M.Sc,Python,1
+C141,"SQL, Excel, Power BI",2,MBA,AWS,1
+C142,"Python, SQL, Power BI",1,B.Com,SQL,1
+C143,"Excel, SQL, Tableau",1,B.Tech,"Python, SQL",1
+C144,"Python, SQL, AWS",6,B.Com,SQL,1
+C145,"Python, SQL",4,M.Sc,Power BI,1
+C146,"Python, SQL",3,M.Sc,Python,1
+C147,"Python, Pandas, NumPy",4,B.Com,SQL,0
+C148,"Excel, SQL, Tableau",5,B.Tech,Data Analytics,1
+C149,"Excel, SQL",7,B.Sc,SQL,1
+C150,"Python, SQL, Power BI",2,B.E,Excel,1
+C151,"Excel, Power BI",1,B.Tech,"Power BI, SQL",0
+C152,"Python, ML, TensorFlow",1,B.Sc,"Power BI, SQL",0
+C153,"Python, SQL, Statistics",8,B.Com,"Python, SQL",1
+C154,"SQL, Power BI, Excel",0,B.Com,Power BI,0
+C155,"Python, SQL",7,B.Sc,SQL,1
+C156,"Excel, SQL, Tableau",7,MCA,"Power BI, SQL",1
+C157,"Python, SQL, AWS",6,MCA,Data Analytics,1
+C158,"SQL, Excel, Power BI",7,B.E,Machine Learning,1
+C159,"Python, ML, SQL",6,MCA,Python,1
+C160,"Excel, SQL, Tableau",8,MBA,Excel,1
+C161,"Python, SQL, AWS",6,B.Sc,None,1
+C162,"Python, SQL, AWS",8,B.Sc,Power BI,1
+C163,"Python, SQL, Tableau",3,B.Com,SQL,1
+C164,"Excel, SQL",5,B.Com,Data Analytics,1
+C165,"SQL, Power BI, Excel",0,B.Tech,SQL,0
+C166,"Excel, SQL",1,B.E,Data Analytics,0
+C167,"SQL, Excel, Power BI",5,M.Sc,"Python, SQL",1
+C168,"Python, Pandas, NumPy",5,MBA,Power BI,1
+C169,"Machine Learning, Python, SQL",7,MBA,"Python, SQL",1
+C170,"SQL, Power BI, Excel",4,B.Tech,Data Analytics,1
+C171,"Excel, SQL, Tableau",5,B.Com,Power BI,1
+C172,"SQL, Power BI, Excel",5,B.E,"Python, SQL",1
+C173,"Python, SQL, Power BI",7,B.Com,SQL,1
+C174,"Python, ML, TensorFlow",5,B.Tech,SQL,1
+C175,"Excel, SQL",0,B.Tech,None,1
+C176,"Machine Learning, Python, SQL",5,M.Sc,Power BI,1
+C177,"Python, SQL, Statistics",2,B.Sc,AWS,0
+C178,"Python, Machine Learning",1,M.Sc,Data Analytics,0
+C179,"Python, SQL, Power BI",3,B.Sc,Excel,1
+C180,"Python, ML, SQL",0,M.Sc,Python,0
+C181,"Machine Learning, Python, SQL",4,B.E,"Python, SQL",1
+C182,"Python, SQL",7,MCA,Data Analytics,1
+C183,"SQL, Excel, Power BI",8,M.Sc,SQL,1
+C184,"SQL, Excel, Power BI",3,B.Sc,"Power BI, SQL",1
+C185,"Python, SQL, Tableau",1,MBA,Data Analytics,0
+C186,"Python, Pandas, NumPy",0,MBA,None,0
+C187,"Python, SQL, Tableau",0,B.Sc,Machine Learning,0
+C188,"SQL, Power BI, Excel",2,MBA,SQL,1
+C189,"Python, Pandas, NumPy",5,B.E,Machine Learning,1
+C190,"Excel, SQL",0,B.Tech,Machine Learning,0
+C191,"SQL, Excel, Power BI",3,M.Sc,AWS,1
+C192,"SQL, Excel, Power BI",6,B.Sc,Power BI,1
+C193,"Python, Pandas, NumPy",1,B.Com,Excel,0
+C194,"Python, Pandas, NumPy",3,M.Sc,Data Analytics,1
+C195,"Excel, SQL",7,MBA,Data Analytics,1
+C196,"Python, SQL, AWS",1,B.E,SQL,0
+C197,"Python, ML, SQL",3,B.Tech,"Power BI, SQL",1
+C198,"SQL, Excel, Power BI",7,MCA,AWS,1
+C199,"SQL, Power BI, Excel",6,MBA,"Power BI, SQL",1
+C200,"Python, SQL, Tableau",0,MBA,Data Analytics,1
+C201,"Python, SQL, AWS",3,B.Tech,Excel,1
+C202,"Python, ML, TensorFlow",0,B.Tech,"Power BI, SQL",0
+C203,"Python, SQL, Tableau",5,B.E,Data Analytics,1
+C204,"Python, ML, TensorFlow",3,MCA,Machine Learning,1
+C205,"Python, SQL, Tableau",0,MBA,AWS,1
+C206,"Excel, Power BI",8,M.Sc,"Python, SQL",1
+C207,"Python, ML, TensorFlow",3,B.Sc,Excel,0
+C208,"Excel, SQL",8,B.Com,AWS,1
+C209,"Python, SQL, Power BI",6,B.Com,Python,1
+C210,"SQL, Excel, Power BI",2,MCA,Data Analytics,1
+C211,"Python, SQL, Tableau",6,B.Tech,AWS,1
+C212,"Python, ML, TensorFlow",1,M.Sc,None,1
+C213,"Python, Machine Learning",0,B.Tech,"Python, SQL",0
+C214,"Python, SQL, AWS",7,B.Sc,Machine Learning,1
+C215,"Python, SQL",6,B.E,Data Analytics,1
+C216,"Python, SQL, Statistics",0,M.Sc,Data Analytics,0
+C217,"Python, ML, SQL",1,B.Sc,SQL,1
+C218,"Python, SQL, AWS",0,B.Com,AWS,0
+C219,"Python, ML, SQL",3,B.Sc,Data Analytics,0
+C220,"Machine Learning, Python, SQL",1,B.Tech,None,0
+C221,"Python, Machine Learning",6,B.Tech,Python,1
+C222,"Python, SQL, Tableau",6,B.E,Data Analytics,1
+C223,"Python, Machine Learning",7,MCA,"Python, SQL",1
+C224,"Python, SQL",7,B.Com,SQL,1
+C225,"SQL, Power BI, Excel",7,MCA,Power BI,1
+C226,"Python, SQL, Power BI",6,B.Com,Machine Learning,1
+C227,"Python, SQL",6,M.Sc,SQL,1
+C228,"Python, SQL",4,B.Tech,"Power BI, SQL",1
+C229,"Excel, SQL, Tableau",1,B.E,Machine Learning,1
+C230,"Python, SQL, Tableau",1,M.Sc,SQL,0
+C231,"Excel, SQL",5,B.Tech,Data Analytics,1
+C232,"SQL, Excel, Power BI",6,B.Sc,Python,1
+C233,"Python, ML, SQL",0,MCA,"Python, SQL",1
+C234,"Python, Machine Learning",8,MCA,AWS,1
+C235,"SQL, Excel, Power BI",3,B.Com,"Power BI, SQL",1
+C236,"Excel, Power BI",5,B.Com,Excel,1
+C237,"Python, ML, TensorFlow",3,B.Sc,AWS,1
+C238,"Python, Pandas, NumPy",6,M.Sc,"Power BI, SQL",1
+C239,"Python, Pandas, NumPy",4,B.E,"Python, SQL",1
+C240,"Python, SQL, Power BI",8,M.Sc,Machine Learning,1
+C241,"Python, ML, TensorFlow",0,B.Com,Excel,0
+C242,"Python, SQL, Power BI",5,B.E,None,0
+C243,"Python, ML, SQL",4,B.Tech,SQL,1
+C244,"SQL, Power BI, Excel",3,B.Sc,Machine Learning,0
+C245,"SQL, Power BI, Excel",2,MCA,Python,1
+C246,"Python, Pandas, NumPy",4,B.Sc,"Power BI, SQL",1
+C247,"Excel, SQL",3,B.E,SQL,1
+C248,"SQL, Excel, Power BI",1,B.Sc,"Power BI, SQL",0
+C249,"Python, SQL, Power BI",4,B.Sc,"Python, SQL",1
+C250,"Python, SQL, Statistics",7,B.Com,"Python, SQL",1
+C251,"Python, Machine Learning",2,B.E,Python,1
+C252,"Machine Learning, Python, SQL",5,B.Com,SQL,1
+C253,"Excel, Power BI",0,M.Sc,None,0
+C254,"Excel, SQL, Tableau",7,B.E,Data Analytics,1
+C255,"Excel, SQL, Tableau",4,B.Sc,Machine Learning,1
+C256,"SQL, Power BI, Excel",8,B.Com,"Python, SQL",1
+C257,"Python, SQL, AWS",8,M.Sc,"Power BI, SQL",1
+C258,"Machine Learning, Python, SQL",4,MBA,"Python, SQL",1
+C259,"Python, ML, SQL",7,B.Com,Machine Learning,1
+C260,"Excel, SQL",6,B.E,Python,1
+C261,"SQL, Excel, Power BI",6,B.Sc,Data Analytics,1
+C262,"Python, SQL, Power BI",2,M.Sc,Data Analytics,1
+C263,"Python, ML, TensorFlow",6,MBA,Machine Learning,1
+C264,"Python, SQL, Statistics",5,B.Sc,Python,1
+C265,"Python, SQL",1,MBA,SQL,1
+C266,"Python, ML, SQL",6,MCA,Power BI,1
+C267,"Python, SQL, Statistics",0,M.Sc,Excel,1
+C268,"Python, SQL, AWS",8,B.Com,"Python, SQL",1
+C269,"Excel, SQL, Tableau",6,B.Tech,Excel,1
+C270,"Python, SQL, Power BI",3,B.Com,Excel,1
+C271,"Python, SQL, Tableau",0,M.Sc,"Python, SQL",0
+C272,"Excel, SQL",4,M.Sc,Excel,1
+C273,"SQL, Excel, Power BI",5,MBA,Data Analytics,1
+C274,"Machine Learning, Python, SQL",1,B.Sc,Machine Learning,1
+C275,"Excel, SQL",3,B.E,Data Analytics,1
+C276,"Excel, Power BI",2,M.Sc,"Power BI, SQL",1
+C277,"SQL, Excel, Power BI",1,B.Sc,"Power BI, SQL",1
+C278,"Python, Pandas, NumPy",6,B.Sc,"Python, SQL",1
+C279,"Python, ML, SQL",3,B.Com,None,1
+C280,"Python, SQL, Power BI",1,MCA,None,0
+C281,"SQL, Power BI, Excel",2,B.E,AWS,1
+C282,"Python, SQL, Tableau",8,B.Tech,Excel,1
+C283,"Python, SQL, Power BI",8,B.E,"Python, SQL",1
+C284,"Python, SQL, Tableau",4,B.E,Python,1
+C285,"SQL, Power BI, Excel",5,B.E,Excel,1
+C286,"Excel, Power BI",4,M.Sc,None,0
+C287,"Python, SQL, Power BI",7,M.Sc,SQL,1
+C288,"Python, SQL, Power BI",7,B.E,None,1
+C289,"Python, Pandas, NumPy",7,B.E,Data Analytics,1
+C290,"Python, SQL, Tableau",8,M.Sc,"Power BI, SQL",1
+C291,"Excel, SQL",5,B.Tech,Machine Learning,1
+C292,"Python, ML, TensorFlow",4,MCA,Machine Learning,1
+C293,"Excel, SQL, Tableau",1,B.Tech,Python,0
+C294,"Python, Machine Learning",1,M.Sc,None,1
+C295,"Python, SQL, Tableau",0,MBA,Python,1
+C296,"Python, ML, SQL",5,B.E,Machine Learning,1
+C297,"Python, ML, TensorFlow",8,B.Com,Excel,1
+C298,"SQL, Excel, Power BI",0,B.Tech,AWS,0
+C299,"Python, SQL",5,B.Sc,AWS,1
+C300,"Python, SQL, Power BI",3,B.E,SQL,1
+C301,"Excel, SQL",6,M.Sc,None,1
+C302,"Python, ML, SQL",6,B.Com,Python,1
+C303,"Machine Learning, Python, SQL",1,M.Sc,Power BI,0
+C304,"Python, Machine Learning",6,M.Sc,Power BI,1
+C305,"Python, SQL, Power BI",3,MCA,SQL,1
+C306,"Excel, Power BI",3,MCA,SQL,1
+C307,"Python, SQL, Tableau",4,B.E,None,1
+C308,"Python, SQL, Power BI",2,B.Sc,"Python, SQL",1
+C309,"SQL, Power BI, Excel",1,MBA,Data Analytics,0
+C310,"Python, SQL, Statistics",4,MBA,Python,1
+C311,"Excel, SQL",6,B.E,Excel,1
+C312,"Machine Learning, Python, SQL",6,B.Sc,Power BI,1
+C313,"Excel, SQL",8,MCA,"Python, SQL",1
+C314,"Excel, Power BI",4,B.Com,Data Analytics,0
+C315,"SQL, Power BI, Excel",0,M.Sc,Python,0
+C316,"Excel, SQL, Tableau",5,B.E,"Python, SQL",1
+C317,"Python, SQL",5,B.Sc,Data Analytics,1
+C318,"Python, SQL, Tableau",0,B.Tech,"Python, SQL",1
+C319,"Machine Learning, Python, SQL",5,MCA,Power BI,1
+C320,"Python, SQL, Power BI",0,B.Com,None,0
+C321,"Python, SQL",8,M.Sc,None,1
+C322,"Python, Machine Learning",1,MCA,Machine Learning,1
+C323,"Python, ML, TensorFlow",1,MBA,Python,0
+C324,"SQL, Power BI, Excel",2,B.E,AWS,1
+C325,"Python, SQL, Tableau",5,B.Sc,Machine Learning,1
+C326,"Python, SQL, AWS",7,B.Com,Power BI,1
+C327,"Machine Learning, Python, SQL",6,B.E,Power BI,1
+C328,"Python, Pandas, NumPy",2,MBA,"Python, SQL",1
+C329,"Python, SQL, AWS",1,MCA,Machine Learning,0
+C330,"Python, ML, SQL",2,MBA,Power BI,1
+C331,"Python, SQL, Statistics",7,M.Sc,Machine Learning,1
+C332,"Python, SQL, AWS",1,MCA,Python,1
+C333,"Python, ML, SQL",5,M.Sc,Data Analytics,1
+C334,"Python, ML, TensorFlow",2,B.E,AWS,1
+C335,"Excel, SQL, Tableau",0,MBA,None,0
+C336,"Python, SQL, Statistics",7,B.Tech,Excel,1
+C337,"Excel, SQL",3,B.Tech,Data Analytics,1
+C338,"Python, SQL, Tableau",3,B.Com,Excel,1
+C339,"Python, SQL, Power BI",3,B.Com,Python,1
+C340,"Python, ML, SQL",2,B.Com,AWS,1
+C341,"Python, SQL, Statistics",2,M.Sc,Python,1
+C342,"Python, ML, SQL",7,B.Tech,Machine Learning,1
+C343,"Python, ML, TensorFlow",1,MBA,Excel,0
+C344,"Machine Learning, Python, SQL",5,B.Tech,Data Analytics,1
+C345,"Python, Machine Learning",8,B.Tech,Python,1
+C346,"Python, SQL, Tableau",8,B.Tech,Python,1
+C347,"Python, ML, SQL",4,M.Sc,None,1
+C348,"Python, SQL, Statistics",6,MBA,"Power BI, SQL",1
+C349,"Python, ML, SQL",5,MCA,"Power BI, SQL",1
+C350,"Python, SQL, Tableau",0,M.Sc,Power BI,0
+C351,"SQL, Power BI, Excel",0,B.Sc,AWS,0
+C352,"Excel, Power BI",0,B.Sc,Data Analytics,0
+C353,"Python, SQL, AWS",7,B.Tech,AWS,1
+C354,"Python, SQL, Power BI",1,B.Sc,Excel,1
+C355,"Excel, SQL",0,MBA,SQL,0
+C356,"Excel, Power BI",0,B.Sc,SQL,0
+C357,"Machine Learning, Python, SQL",3,M.Sc,Python,1
+C358,"Python, SQL, Tableau",6,MBA,Data Analytics,1
+C359,"Excel, SQL, Tableau",1,MBA,AWS,1
+C360,"Python, ML, TensorFlow",6,B.Com,Excel,1
+C361,"Python, SQL",6,M.Sc,AWS,1
+C362,"Python, SQL, Power BI",0,MBA,Machine Learning,1
+C363,"Python, ML, TensorFlow",1,B.Com,None,0
+C364,"Python, SQL",7,B.Sc,Power BI,1
+C365,"Python, SQL",0,B.E,Excel,1
+C366,"Machine Learning, Python, SQL",1,B.Com,AWS,1
+C367,"Excel, SQL, Tableau",8,B.Sc,"Python, SQL",1
+C368,"SQL, Excel, Power BI",3,B.Com,AWS,1
+C369,"Machine Learning, Python, SQL",3,MCA,SQL,1
+C370,"Python, SQL, Tableau",6,B.E,None,1
+C371,"SQL, Power BI, Excel",5,MBA,"Python, SQL",1
+C372,"Python, ML, TensorFlow",6,MBA,Excel,1
+C373,"Python, ML, SQL",8,B.Sc,None,1
+C374,"Python, Pandas, NumPy",2,MCA,"Power BI, SQL",1
+C375,"Python, SQL, Power BI",8,B.E,Excel,1
+C376,"Python, Pandas, NumPy",4,M.Sc,"Power BI, SQL",1
+C377,"Python, SQL, Tableau",4,B.Com,Excel,1
+C378,"SQL, Excel, Power BI",6,MCA,Python,1
+C379,"Python, SQL, AWS",4,MBA,Machine Learning,1
+C380,"Python, ML, SQL",3,M.Sc,AWS,1
+C381,"Python, ML, SQL",1,MCA,Power BI,0
+C382,"SQL, Excel, Power BI",2,B.Com,Power BI,0
+C383,"Machine Learning, Python, SQL",1,B.Com,None,0
+C384,"Python, SQL, AWS",6,M.Sc,Machine Learning,1
+C385,"Excel, SQL, Tableau",7,B.Sc,"Power BI, SQL",1
+C386,"Python, Pandas, NumPy",0,B.Tech,Data Analytics,0
+C387,"Python, SQL, Statistics",6,MCA,AWS,1
+C388,"Python, ML, TensorFlow",8,MBA,"Power BI, SQL",1
+C389,"SQL, Power BI, Excel",8,M.Sc,"Power BI, SQL",1
+C390,"Python, ML, TensorFlow",4,B.Tech,Python,1
+C391,"SQL, Power BI, Excel",2,B.Tech,Machine Learning,0
+C392,"Excel, SQL",0,MBA,Python,0
+C393,"Excel, Power BI",0,B.E,Python,1
+C394,"Python, Pandas, NumPy",4,MBA,SQL,0
+C395,"Python, SQL, AWS",6,B.E,"Power BI, SQL",1
+C396,"Python, SQL, Tableau",8,B.Com,SQL,1
+C397,"Python, Machine Learning",4,B.Com,SQL,0
+C398,"Python, SQL, Tableau",0,B.E,Machine Learning,0
+C399,"SQL, Power BI, Excel",2,B.Tech,"Power BI, SQL",1
+C400,"Python, SQL, Statistics",3,M.Sc,None,1
+C401,"Excel, SQL",2,B.Sc,Data Analytics,0
+C402,"Python, Machine Learning",3,M.Sc,None,0
+C403,"Python, SQL, AWS",1,B.Tech,Excel,1
+C404,"SQL, Power BI, Excel",5,B.Com,SQL,1
+C405,"Python, Pandas, NumPy",2,MCA,AWS,1
+C406,"Python, Pandas, NumPy",0,B.E,Python,0
+C407,"Python, Machine Learning",3,MCA,"Power BI, SQL",1
+C408,"Python, ML, TensorFlow",8,MBA,None,1
+C409,"Python, SQL, AWS",7,B.Tech,SQL,1
+C410,"Excel, Power BI",3,B.Tech,None,0
+C411,"Python, SQL, Tableau",4,B.Tech,AWS,1
+C412,"Python, SQL",4,B.Tech,AWS,1
+C413,"Excel, SQL",1,M.Sc,Power BI,0
+C414,"Python, SQL, Power BI",8,M.Sc,Python,1
+C415,"SQL, Excel, Power BI",8,B.Sc,None,1
+C416,"Python, Machine Learning",3,B.Com,Machine Learning,0
+C417,"Python, Pandas, NumPy",2,MCA,AWS,0
+C418,"Python, SQL, AWS",0,B.Com,AWS,1
+C419,"Python, SQL, Power BI",2,MCA,Data Analytics,1
+C420,"Python, ML, SQL",6,B.Tech,"Python, SQL",1
+C421,"Excel, SQL, Tableau",4,B.E,Python,1
+C422,"Machine Learning, Python, SQL",3,B.Com,"Power BI, SQL",1
+C423,"Python, SQL, Tableau",1,B.Sc,AWS,1
+C424,"Python, SQL",5,MCA,Power BI,1
+C425,"Python, ML, SQL",2,B.Sc,AWS,1
+C426,"SQL, Power BI, Excel",4,B.Com,Power BI,1
+C427,"Python, SQL, Tableau",3,M.Sc,Power BI,1
+C428,"Python, Pandas, NumPy",1,B.Tech,Machine Learning,0
+C429,"Python, ML, SQL",2,M.Sc,SQL,1
+C430,"Machine Learning, Python, SQL",1,M.Sc,Data Analytics,0
+C431,"Excel, SQL, Tableau",8,MBA,SQL,1
+C432,"Python, Machine Learning",0,B.Tech,Power BI,1
+C433,"Python, Machine Learning",7,B.Sc,Excel,1
+C434,"Excel, SQL",3,B.Tech,AWS,1
+C435,"Python, Machine Learning",1,MBA,Excel,0
+C436,"Python, SQL, Statistics",2,MBA,AWS,1
+C437,"Machine Learning, Python, SQL",6,M.Sc,AWS,1
+C438,"Python, Pandas, NumPy",4,B.Com,Machine Learning,0
+C439,"Python, ML, TensorFlow",7,MBA,Excel,1
+C440,"Python, SQL, AWS",4,B.Tech,Machine Learning,1
+C441,"Excel, Power BI",3,B.Com,Power BI,1
+C442,"Python, ML, SQL",8,M.Sc,Power BI,1
+C443,"Python, SQL, Statistics",5,B.Com,Excel,1
+C444,"Python, SQL, Tableau",0,B.Com,None,0
+C445,"Python, ML, TensorFlow",1,B.Com,Data Analytics,1
+C446,"Python, SQL, Power BI",7,B.E,AWS,1
+C447,"SQL, Power BI, Excel",0,MBA,None,0
+C448,"Python, ML, SQL",4,B.Tech,None,1
+C449,"Python, Machine Learning",4,M.Sc,Data Analytics,1
+C450,"Python, SQL, Statistics",2,B.E,Data Analytics,1
+C451,"Python, SQL",4,B.Tech,Excel,1
+C452,"Excel, SQL",3,MBA,SQL,0
+C453,"Python, Machine Learning",2,B.Tech,SQL,1
+C454,"Python, ML, TensorFlow",5,MBA,None,1
+C455,"Excel, SQL, Tableau",7,B.Sc,"Python, SQL",1
+C456,"Python, SQL",3,MCA,Power BI,1
+C457,"Machine Learning, Python, SQL",8,B.Sc,"Python, SQL",1
+C458,"Python, SQL, Power BI",4,B.Tech,Data Analytics,1
+C459,"Python, SQL, Power BI",5,M.Sc,Excel,1
+C460,"Python, SQL, AWS",1,B.E,"Power BI, SQL",1
+C461,"Excel, SQL, Tableau",0,B.Com,Machine Learning,0
+C462,"Machine Learning, Python, SQL",8,B.Com,AWS,1
+C463,"Excel, SQL",3,M.Sc,SQL,1
+C464,"Python, ML, SQL",6,MBA,None,1
+C465,"Python, SQL, AWS",8,MBA,Python,1
+C466,"Machine Learning, Python, SQL",7,MCA,Data Analytics,1
+C467,"Machine Learning, Python, SQL",6,MBA,AWS,1
+C468,"Python, SQL, AWS",1,B.Com,Excel,1
+C469,"Excel, SQL, Tableau",3,B.E,Python,1
+C470,"SQL, Power BI, Excel",5,B.E,Excel,1
+C471,"Python, SQL, Statistics",0,B.E,AWS,1
+C472,"Python, Machine Learning",8,M.Sc,Data Analytics,1
+C473,"Python, ML, TensorFlow",7,B.Sc,Excel,1
+C474,"Python, ML, SQL",1,B.E,"Python, SQL",1
+C475,"Python, ML, TensorFlow",4,MCA,Machine Learning,1
+C476,"Python, SQL, Statistics",8,B.Tech,Power BI,1
+C477,"Python, Pandas, NumPy",5,B.Tech,None,1
+C478,"Python, ML, SQL",6,MCA,Data Analytics,1
+C479,"Python, ML, SQL",4,B.Com,Power BI,1
+C480,"Python, ML, TensorFlow",7,MCA,SQL,1
+C481,"Python, ML, TensorFlow",4,MCA,Excel,1
+C482,"Python, SQL",6,MBA,Power BI,1
+C483,"Python, SQL, Statistics",2,M.Sc,"Power BI, SQL",1
+C484,"Machine Learning, Python, SQL",7,B.Com,Python,1
+C485,"Python, ML, SQL",2,B.Sc,SQL,1
+C486,"Machine Learning, Python, SQL",5,M.Sc,Power BI,1
+C487,"Python, ML, SQL",3,MCA,Machine Learning,1
+C488,"Excel, SQL, Tableau",3,B.Sc,"Python, SQL",1
+C489,"Python, SQL, AWS",5,M.Sc,None,1
+C490,"Excel, SQL, Tableau",5,MBA,Machine Learning,1
+C491,"Python, SQL, Tableau",4,B.Sc,Power BI,1
+C492,"Python, SQL, Statistics",0,MCA,AWS,0
+C493,"Python, SQL, Statistics",5,B.Sc,SQL,1
+C494,"Python, SQL, Statistics",4,B.Tech,None,1
+C495,"Excel, Power BI",4,B.Tech,AWS,1
+C496,"Python, Machine Learning",1,B.E,None,0
+C497,"SQL, Power BI, Excel",8,B.Tech,AWS,1
+C498,"Excel, SQL",7,B.Sc,Power BI,1
+C499,"Excel, Power BI",7,B.Tech,"Power BI, SQL",1
+C500,"Python, ML, SQL",6,B.Tech,Data Analytics,1

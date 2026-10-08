@@ -1,0 +1,1001 @@
+Job_ID,Source,Job_Title,Company_Name,Industry,Location,Salary_Range,Experience_Required,Skills_Required,Education,Job_Type,Posted_Date
+JOB0001,Naukri,Business Intelligence Analyst,TCS,Software,"Ahmedabad, Gujarat",₹5.0-7.0 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-07-15
+JOB0002,Glassdoor,Business Analyst,TCS,BPO,"Bengaluru, Karnataka",₹3.0-5.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",BCA/MCA,Internship,2026-07-15
+JOB0003,Foundit,Full Stack Developer,KPMG,Consulting,"Mumbai, Maharashtra",₹5.0-6.5 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",BCA/MCA,Contract,2026-07-11
+JOB0004,Indeed,Business Intelligence Analyst,Wipro,BPO,"Mumbai, Maharashtra",₹7.0-8.5 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",Master's Degree,Full-time,2026-07-23
+JOB0005,Glassdoor,Cloud Engineer,Wipro,Banking,"Jaipur, Rajasthan",₹5.0-10.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",Any Degree,Part-time,2026-07-24
+JOB0006,Indeed,Backend Developer,Wipro,Telecommunications,"Ahmedabad, Gujarat",₹4.0-5.5 LPA,2-3 Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Contract,2026-07-25
+JOB0007,Naukri,AI Engineer,Capgemini,Manufacturing,"Jaipur, Rajasthan",₹5.0-6.5 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",B.E./B.Tech,Internship,2026-08-08
+JOB0008,Naukri,Cloud Engineer,Deloitte,IT Services,"Delhi, India",₹4.0-7.0 LPA,3-5 Years,"AWS, Azure, Linux, Networking",MBA,Full-time,2026-07-04
+JOB0009,Foundit,Java Developer,Oracle,Telecommunications,"Hyderabad, Telangana",₹6.0-8.0 LPA,2-3 Years,"Java, Spring Boot, SQL, Git",B.E./B.Tech,Part-time,2026-08-01
+JOB0010,Glassdoor,Digital Marketing Executive,LTIMindtree,Healthcare,"Delhi, India",₹5.0-10.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Internship,2026-07-28
+JOB0011,Naukri,Data Scientist,ICICI Bank,Healthcare,"Coimbatore, Tamil Nadu",₹2.5-4.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Internship,2026-07-10
+JOB0012,LinkedIn Jobs,Project Coordinator,KPMG,Manufacturing,"Mumbai, Maharashtra",₹5.0-10.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",M.Com,Full-time,2026-07-01
+JOB0013,Indeed,Backend Developer,EY,Manufacturing,"Hyderabad, Telangana",₹3.5-7.5 LPA,5-8 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Contract,2026-07-01
+JOB0014,Naukri,Talent Acquisition Specialist,Zoho,Manufacturing,"Kochi, Kerala",₹4.0-6.0 LPA,0-1 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Com,Internship,2026-07-24
+JOB0015,LinkedIn Jobs,Data Analyst,Accenture,Banking,"Coimbatore, Tamil Nadu",₹6.0-9.0 LPA,0-1 Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Internship,2026-07-16
+JOB0016,Glassdoor,Data Scientist,ICICI Bank,E-Commerce,"Mumbai, Maharashtra",₹3.5-5.5 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Part-time,2026-07-31
+JOB0017,Indeed,Digital Marketing Executive,ICICI Bank,Telecommunications,"Kochi, Kerala",₹4.0-7.0 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",Bachelor's Degree,Part-time,2026-07-26
+JOB0018,Glassdoor,Full Stack Developer,Wipro,Banking,"Coimbatore, Tamil Nadu",₹6.0-7.5 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",Any Degree,Full-time,2026-08-07
+JOB0019,LinkedIn Jobs,Business Analyst,Tech Mahindra,Manufacturing,"Pune, Maharashtra",₹3.0-4.5 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Part-time,2026-07-22
+JOB0020,Foundit,Digital Marketing Executive,Cognizant,Banking,"Chennai, Tamil Nadu",₹8.0-10.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Contract,2026-07-31
+JOB0021,LinkedIn Jobs,DevOps Engineer,EY,Healthcare,"Jaipur, Rajasthan",₹8.0-9.5 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Part-time,2026-07-07
+JOB0022,Naukri,Java Developer,Capgemini,Financial Services,"Gurugram, Haryana",₹8.0-10.0 LPA,1-2 Years,"Java, Spring Boot, SQL, Git",Bachelor's Degree,Internship,2026-07-28
+JOB0023,LinkedIn Jobs,Digital Marketing Executive,Accenture,Banking,"Hyderabad, Telangana",₹2.5-7.5 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Internship,2026-07-01
+JOB0024,LinkedIn Jobs,Java Developer,Genpact,Healthcare,"Mumbai, Maharashtra",₹2.5-4.5 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",MBA,Internship,2026-07-25
+JOB0025,Indeed,Digital Marketing Executive,WNS,Banking,"Bengaluru, Karnataka",₹8.0-10.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",Any Degree,Contract,2026-07-13
+JOB0026,Naukri,Business Analyst,Infosys,IT Services,"Kochi, Kerala",₹8.0-13.0 LPA,0-1 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Full-time,2026-08-03
+JOB0027,Glassdoor,Project Coordinator,Wipro,Banking,"Coimbatore, Tamil Nadu",₹4.0-8.0 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",Any Degree,Full-time,2026-07-08
+JOB0028,Indeed,DevOps Engineer,WNS,Banking,"Mumbai, Maharashtra",₹6.0-9.0 LPA,3-5 Years,"Docker, Kubernetes, AWS, Jenkins",B.E./B.Tech,Contract,2026-07-14
+JOB0029,Glassdoor,QA Engineer,Amazon,BPO,"Chennai, Tamil Nadu",₹3.0-4.5 LPA,0-1 Years,"Selenium, Java, SQL, Testing",BCA/MCA,Contract,2026-07-30
+JOB0030,Indeed,Python Developer,Flipkart,E-Commerce,"Gurugram, Haryana",₹3.0-5.0 LPA,5-8 Years,"Python, Django, REST API, SQL",MBA,Full-time,2026-07-24
+JOB0031,LinkedIn Jobs,Digital Marketing Executive,IBM,Software,"Jaipur, Rajasthan",₹3.0-5.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Contract,2026-07-17
+JOB0032,Indeed,Backend Developer,Zoho,Manufacturing,"Gurugram, Haryana",₹4.0-7.0 LPA,2-3 Years,"Python, Java, Node.js, SQL",Any Degree,Full-time,2026-07-14
+JOB0033,Naukri,DevOps Engineer,Deloitte,Financial Services,"Hyderabad, Telangana",₹2.5-4.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",Master's Degree,Internship,2026-07-22
+JOB0034,Glassdoor,Digital Marketing Executive,TCS,IT Services,"Delhi, India",₹3.0-4.5 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Internship,2026-07-10
+JOB0035,Indeed,Python Developer,Infosys,Banking,"Ahmedabad, Gujarat",₹5.0-8.0 LPA,1-2 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Contract,2026-07-03
+JOB0036,Naukri,Digital Marketing Executive,EY,Healthcare,"Bengaluru, Karnataka",₹3.5-5.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Internship,2026-07-11
+JOB0037,LinkedIn Jobs,Full Stack Developer,Deloitte,Telecommunications,"Pune, Maharashtra",₹3.5-5.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Contract,2026-07-25
+JOB0038,Foundit,Backend Developer,Tech Mahindra,Consulting,"Mumbai, Maharashtra",₹4.0-5.5 LPA,0-1 Years,"Python, Java, Node.js, SQL",MBA,Contract,2026-07-13
+JOB0039,Indeed,Talent Acquisition Specialist,Genpact,E-Commerce,"Coimbatore, Tamil Nadu",₹6.0-7.5 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Full-time,2026-07-08
+JOB0040,Glassdoor,Project Coordinator,EY,Manufacturing,"Chennai, Tamil Nadu",₹6.0-9.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Contract,2026-07-28
+JOB0041,Glassdoor,Business Analyst,Concentrix,Banking,"Delhi, India",₹7.0-8.5 LPA,3-5 Years,"SQL, Excel, Power BI, Business Analysis",Bachelor's Degree,Contract,2026-08-03
+JOB0042,Indeed,Project Coordinator,Amazon,Healthcare,"Delhi, India",₹3.0-6.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",MBA,Part-time,2026-08-02
+JOB0043,Glassdoor,Java Developer,EY,Financial Services,"Noida, Uttar Pradesh",₹7.0-9.0 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",Any Degree,Contract,2026-08-09
+JOB0044,Indeed,Backend Developer,Capgemini,Telecommunications,"Gurugram, Haryana",₹7.0-12.0 LPA,3-5 Years,"Python, Java, Node.js, SQL",BCA/MCA,Internship,2026-08-08
+JOB0045,Glassdoor,Software Developer,WNS,Consulting,"Chennai, Tamil Nadu",₹3.0-6.0 LPA,1-2 Years,"Java, Python, Git, SQL",MBA,Part-time,2026-08-02
+JOB0046,Foundit,Java Developer,Cognizant,BPO,"Chennai, Tamil Nadu",₹2.5-4.0 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",M.Sc,Part-time,2026-07-16
+JOB0047,LinkedIn Jobs,Cloud Engineer,PwC,Software,"Noida, Uttar Pradesh",₹7.0-9.0 LPA,1-2 Years,"AWS, Azure, Linux, Networking",B.E./B.Tech,Internship,2026-07-10
+JOB0048,Naukri,Business Analyst,LTIMindtree,Telecommunications,"Ahmedabad, Gujarat",₹4.0-5.5 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Internship,2026-07-30
+JOB0049,Naukri,Project Coordinator,HDFC Bank,Telecommunications,"Gurugram, Haryana",₹7.0-12.0 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Contract,2026-07-29
+JOB0050,LinkedIn Jobs,Talent Acquisition Specialist,PwC,Financial Services,"Pune, Maharashtra",₹4.0-7.0 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Com,Contract,2026-07-29
+JOB0051,Foundit,Digital Marketing Executive,Wipro,E-Commerce,"Jaipur, Rajasthan",₹3.5-5.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",Bachelor's Degree,Internship,2026-07-15
+JOB0052,Naukri,DevOps Engineer,Amazon,Healthcare,"Noida, Uttar Pradesh",₹8.0-12.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Internship,2026-07-04
+JOB0053,Foundit,HR Executive,TCS,Manufacturing,"Jaipur, Rajasthan",₹6.0-9.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Internship,2026-07-25
+JOB0054,Foundit,Full Stack Developer,Deloitte,Consulting,"Ahmedabad, Gujarat",₹7.0-11.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",M.Sc,Part-time,2026-07-02
+JOB0055,Glassdoor,QA Engineer,Cognizant,IT Services,"Chennai, Tamil Nadu",₹2.5-6.5 LPA,8+ Years,"Selenium, Java, SQL, Testing",M.Sc,Part-time,2026-08-07
+JOB0056,Indeed,QA Engineer,HCLTech,Banking,"Gurugram, Haryana",₹2.5-5.5 LPA,2-3 Years,"Selenium, Java, SQL, Testing",M.Com,Internship,2026-07-25
+JOB0057,Foundit,Frontend Developer,ICICI Bank,IT Services,"Jaipur, Rajasthan",₹7.0-10.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React",Any Degree,Contract,2026-07-06
+JOB0058,Naukri,Full Stack Developer,Freshworks,Banking,"Bengaluru, Karnataka",₹3.0-4.5 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Part-time,2026-07-02
+JOB0059,Foundit,Python Developer,PwC,Financial Services,"Delhi, India",₹3.0-8.0 LPA,1-2 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Part-time,2026-07-14
+JOB0060,Foundit,Backend Developer,Accenture,Healthcare,"Jaipur, Rajasthan",₹2.5-5.5 LPA,1-2 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Part-time,2026-08-06
+JOB0061,Glassdoor,Business Intelligence Analyst,Concentrix,IT Services,"Delhi, India",₹5.0-10.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",M.Sc,Contract,2026-07-08
+JOB0062,Foundit,Data Scientist,Mphasis,Software,"Noida, Uttar Pradesh",₹6.0-7.5 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Part-time,2026-07-27
+JOB0063,Foundit,DevOps Engineer,HCLTech,Telecommunications,"Noida, Uttar Pradesh",₹5.0-10.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",MBA,Contract,2026-08-04
+JOB0064,Foundit,Full Stack Developer,Wipro,BPO,"Coimbatore, Tamil Nadu",₹5.0-9.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",M.Sc,Contract,2026-07-16
+JOB0065,Naukri,Data Analyst,PwC,Consulting,"Mumbai, Maharashtra",₹6.0-8.0 LPA,2-3 Years,"SQL, Excel, Power BI, Python",MBA,Contract,2026-08-01
+JOB0066,Foundit,Digital Marketing Executive,TCS,Telecommunications,"Kochi, Kerala",₹4.0-5.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Internship,2026-07-16
+JOB0067,Foundit,QA Engineer,TCS,Banking,"Mumbai, Maharashtra",₹3.0-6.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",M.Com,Internship,2026-07-15
+JOB0068,Indeed,Digital Marketing Executive,Mphasis,Consulting,"Jaipur, Rajasthan",₹6.0-10.0 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",MBA,Contract,2026-08-05
+JOB0069,LinkedIn Jobs,Frontend Developer,Tech Mahindra,Manufacturing,"Jaipur, Rajasthan",₹3.0-5.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React",BCA/MCA,Part-time,2026-07-21
+JOB0070,Indeed,HR Executive,Deloitte,Banking,"Delhi, India",₹5.0-6.5 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",MBA,Full-time,2026-07-13
+JOB0071,Glassdoor,Digital Marketing Executive,Cognizant,Financial Services,"Jaipur, Rajasthan",₹5.0-6.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Full-time,2026-07-04
+JOB0072,Foundit,Data Analyst,Oracle,Consulting,"Hyderabad, Telangana",₹5.0-9.0 LPA,0-1 Years,"SQL, Excel, Power BI, Python",MBA,Internship,2026-07-31
+JOB0073,Glassdoor,Business Intelligence Analyst,Wipro,IT Services,"Hyderabad, Telangana",₹7.0-11.0 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",MBA,Full-time,2026-07-05
+JOB0074,Glassdoor,Full Stack Developer,Accenture,Banking,"Kochi, Kerala",₹7.0-12.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Internship,2026-08-08
+JOB0075,Glassdoor,Backend Developer,Oracle,IT Services,"Coimbatore, Tamil Nadu",₹7.0-10.0 LPA,8+ Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Part-time,2026-08-06
+JOB0076,Naukri,Java Developer,Deloitte,Manufacturing,"Chennai, Tamil Nadu",₹3.0-5.0 LPA,1-2 Years,"Java, Spring Boot, SQL, Git",Any Degree,Internship,2026-07-16
+JOB0077,Naukri,QA Engineer,Concentrix,Financial Services,"Jaipur, Rajasthan",₹8.0-11.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",Master's Degree,Full-time,2026-07-03
+JOB0078,Glassdoor,Full Stack Developer,Deloitte,Banking,"Ahmedabad, Gujarat",₹4.0-8.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Part-time,2026-07-08
+JOB0079,Glassdoor,Data Scientist,Infosys,Financial Services,"Gurugram, Haryana",₹3.5-6.5 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Contract,2026-08-08
+JOB0080,Glassdoor,Cloud Engineer,Deloitte,IT Services,"Noida, Uttar Pradesh",₹8.0-12.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",M.Com,Contract,2026-07-06
+JOB0081,LinkedIn Jobs,Data Analyst,Wipro,Financial Services,"Coimbatore, Tamil Nadu",₹4.0-9.0 LPA,0-1 Years,"SQL, Excel, Power BI, Python",B.E./B.Tech,Internship,2026-08-07
+JOB0082,Glassdoor,Talent Acquisition Specialist,Freshworks,Healthcare,"Ahmedabad, Gujarat",₹8.0-11.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Bachelor's Degree,Internship,2026-07-12
+JOB0083,Naukri,AI Engineer,EY,Consulting,"Noida, Uttar Pradesh",₹6.0-9.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Contract,2026-07-07
+JOB0084,Indeed,Cloud Engineer,ICICI Bank,Financial Services,"Delhi, India",₹2.5-6.5 LPA,0-1 Years,"AWS, Azure, Linux, Networking",M.Sc,Full-time,2026-07-06
+JOB0085,Glassdoor,Digital Marketing Executive,KPMG,Consulting,"Coimbatore, Tamil Nadu",₹7.0-8.5 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Full-time,2026-07-13
+JOB0086,Foundit,Java Developer,Deloitte,Software,"Bengaluru, Karnataka",₹3.5-6.5 LPA,8+ Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Part-time,2026-07-29
+JOB0087,LinkedIn Jobs,Backend Developer,LTIMindtree,Banking,"Chennai, Tamil Nadu",₹2.5-7.5 LPA,3-5 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Part-time,2026-07-27
+JOB0088,Foundit,HR Executive,Concentrix,Telecommunications,"Gurugram, Haryana",₹5.0-10.0 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Part-time,2026-07-18
+JOB0089,Foundit,Cloud Engineer,Capgemini,Consulting,"Kochi, Kerala",₹3.5-5.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",Any Degree,Contract,2026-07-18
+JOB0090,Glassdoor,Backend Developer,Oracle,Telecommunications,"Delhi, India",₹8.0-10.0 LPA,2-3 Years,"Python, Java, Node.js, SQL",M.Sc,Internship,2026-07-29
+JOB0091,Naukri,Machine Learning Engineer,Capgemini,Healthcare,"Bengaluru, Karnataka",₹4.0-9.0 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Internship,2026-07-25
+JOB0092,Naukri,Cloud Engineer,WNS,Manufacturing,"Coimbatore, Tamil Nadu",₹3.5-7.5 LPA,2-3 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Internship,2026-07-03
+JOB0093,Foundit,Business Intelligence Analyst,Mphasis,E-Commerce,"Chennai, Tamil Nadu",₹8.0-9.5 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",MBA,Contract,2026-07-10
+JOB0094,Glassdoor,Project Coordinator,Concentrix,Healthcare,"Delhi, India",₹7.0-8.5 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Full-time,2026-07-22
+JOB0095,LinkedIn Jobs,Project Coordinator,Wipro,Healthcare,"Chennai, Tamil Nadu",₹4.0-7.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Bachelor's Degree,Internship,2026-07-15
+JOB0096,Indeed,Software Developer,Concentrix,IT Services,"Mumbai, Maharashtra",₹5.0-6.5 LPA,2-3 Years,"Java, Python, Git, SQL",M.Com,Internship,2026-07-03
+JOB0097,Naukri,Python Developer,Tech Mahindra,E-Commerce,"Chennai, Tamil Nadu",₹7.0-12.0 LPA,5-8 Years,"Python, Django, REST API, SQL",M.Sc,Part-time,2026-07-12
+JOB0098,Indeed,HR Executive,Oracle,Telecommunications,"Mumbai, Maharashtra",₹3.5-5.5 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Internship,2026-07-30
+JOB0099,Indeed,Backend Developer,WNS,BPO,"Mumbai, Maharashtra",₹3.5-5.0 LPA,8+ Years,"Python, Java, Node.js, SQL",M.Sc,Contract,2026-07-29
+JOB0100,LinkedIn Jobs,QA Engineer,IBM,Banking,"Noida, Uttar Pradesh",₹4.0-8.0 LPA,5-8 Years,"Selenium, Java, SQL, Testing",M.Com,Contract,2026-07-31
+JOB0101,Glassdoor,Backend Developer,TCS,IT Services,"Coimbatore, Tamil Nadu",₹7.0-10.0 LPA,8+ Years,"Python, Java, Node.js, SQL",Master's Degree,Contract,2026-07-01
+JOB0102,Naukri,Full Stack Developer,Zoho,BPO,"Mumbai, Maharashtra",₹6.0-8.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Full-time,2026-08-10
+JOB0103,Indeed,Business Analyst,IBM,E-Commerce,"Chennai, Tamil Nadu",₹8.0-9.5 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Internship,2026-08-07
+JOB0104,Glassdoor,Software Developer,Capgemini,Manufacturing,"Mumbai, Maharashtra",₹3.5-8.5 LPA,1-2 Years,"Java, Python, Git, SQL",MBA,Internship,2026-07-24
+JOB0105,LinkedIn Jobs,Backend Developer,HDFC Bank,E-Commerce,"Pune, Maharashtra",₹6.0-7.5 LPA,8+ Years,"Python, Java, Node.js, SQL",M.Sc,Contract,2026-07-30
+JOB0106,LinkedIn Jobs,Data Scientist,Genpact,Telecommunications,"Delhi, India",₹2.5-5.5 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",MBA,Internship,2026-08-04
+JOB0107,Glassdoor,AI Engineer,Accenture,Manufacturing,"Delhi, India",₹4.0-8.0 LPA,5-8 Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Full-time,2026-07-02
+JOB0108,Naukri,QA Engineer,Concentrix,IT Services,"Bengaluru, Karnataka",₹5.0-9.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",Master's Degree,Full-time,2026-07-08
+JOB0109,Indeed,Business Intelligence Analyst,Tech Mahindra,Manufacturing,"Noida, Uttar Pradesh",₹3.5-7.5 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Internship,2026-07-30
+JOB0110,Indeed,Business Intelligence Analyst,PwC,Banking,"Gurugram, Haryana",₹7.0-10.0 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Contract,2026-07-03
+JOB0111,LinkedIn Jobs,Business Intelligence Analyst,WNS,Healthcare,"Mumbai, Maharashtra",₹6.0-11.0 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-07-23
+JOB0112,LinkedIn Jobs,Data Scientist,WNS,Consulting,"Pune, Maharashtra",₹4.0-9.0 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Full-time,2026-07-02
+JOB0113,Naukri,Digital Marketing Executive,Capgemini,BPO,"Bengaluru, Karnataka",₹4.0-6.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Part-time,2026-07-22
+JOB0114,Naukri,Digital Marketing Executive,Deloitte,IT Services,"Delhi, India",₹3.5-5.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Full-time,2026-07-02
+JOB0115,Glassdoor,Software Developer,Deloitte,Software,"Jaipur, Rajasthan",₹2.5-4.5 LPA,0-1 Years,"Java, Python, Git, SQL",Master's Degree,Internship,2026-07-27
+JOB0116,Naukri,AI Engineer,Mphasis,BPO,"Bengaluru, Karnataka",₹3.0-7.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",MBA,Internship,2026-08-02
+JOB0117,LinkedIn Jobs,Data Analyst,Infosys,Telecommunications,"Jaipur, Rajasthan",₹8.0-12.0 LPA,3-5 Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Full-time,2026-07-28
+JOB0118,Indeed,Machine Learning Engineer,Zoho,BPO,"Ahmedabad, Gujarat",₹3.5-5.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Internship,2026-07-09
+JOB0119,Glassdoor,Project Coordinator,Mphasis,Healthcare,"Chennai, Tamil Nadu",₹5.0-9.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Bachelor's Degree,Part-time,2026-08-02
+JOB0120,Foundit,DevOps Engineer,KPMG,Healthcare,"Noida, Uttar Pradesh",₹4.0-8.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Contract,2026-07-22
+JOB0121,Foundit,DevOps Engineer,Amazon,Software,"Chennai, Tamil Nadu",₹5.0-8.0 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Internship,2026-07-10
+JOB0122,LinkedIn Jobs,Business Intelligence Analyst,HDFC Bank,BPO,"Kochi, Kerala",₹6.0-8.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",M.Com,Full-time,2026-08-05
+JOB0123,Glassdoor,DevOps Engineer,Flipkart,Financial Services,"Delhi, India",₹7.0-8.5 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",BCA/MCA,Part-time,2026-07-19
+JOB0124,Indeed,HR Executive,Tech Mahindra,Software,"Mumbai, Maharashtra",₹3.0-6.0 LPA,5-8 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Internship,2026-08-05
+JOB0125,LinkedIn Jobs,Digital Marketing Executive,ICICI Bank,E-Commerce,"Mumbai, Maharashtra",₹2.5-7.5 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",MBA,Contract,2026-07-18
+JOB0126,Foundit,AI Engineer,TCS,Software,"Hyderabad, Telangana",₹3.5-5.5 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Full-time,2026-08-06
+JOB0127,Indeed,Talent Acquisition Specialist,Capgemini,E-Commerce,"Delhi, India",₹7.0-11.0 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Com,Full-time,2026-07-30
+JOB0128,LinkedIn Jobs,Business Analyst,Cognizant,Financial Services,"Gurugram, Haryana",₹3.5-8.5 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Internship,2026-07-04
+JOB0129,Glassdoor,Project Coordinator,KPMG,Software,"Delhi, India",₹7.0-10.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",Bachelor's Degree,Contract,2026-07-14
+JOB0130,Foundit,Financial Analyst,PwC,BPO,"Bengaluru, Karnataka",₹5.0-6.5 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Contract,2026-07-15
+JOB0131,Indeed,Java Developer,ICICI Bank,Software,"Bengaluru, Karnataka",₹3.5-6.5 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",M.Sc,Part-time,2026-07-19
+JOB0132,Indeed,Python Developer,Genpact,Software,"Noida, Uttar Pradesh",₹4.0-9.0 LPA,8+ Years,"Python, Django, REST API, SQL",Any Degree,Internship,2026-08-05
+JOB0133,Foundit,Data Analyst,KPMG,BPO,"Noida, Uttar Pradesh",₹3.0-6.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",M.Sc,Contract,2026-08-06
+JOB0134,Glassdoor,Business Intelligence Analyst,Genpact,Telecommunications,"Jaipur, Rajasthan",₹2.5-5.5 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-07-11
+JOB0135,Glassdoor,Business Intelligence Analyst,Tech Mahindra,Software,"Noida, Uttar Pradesh",₹7.0-12.0 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",M.Com,Part-time,2026-07-26
+JOB0136,LinkedIn Jobs,Machine Learning Engineer,ICICI Bank,Manufacturing,"Kochi, Kerala",₹3.5-5.0 LPA,1-2 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Contract,2026-08-02
+JOB0137,Naukri,Python Developer,Tech Mahindra,E-Commerce,"Coimbatore, Tamil Nadu",₹3.0-5.0 LPA,1-2 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Part-time,2026-07-17
+JOB0138,Glassdoor,HR Executive,KPMG,Consulting,"Ahmedabad, Gujarat",₹8.0-13.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Internship,2026-08-10
+JOB0139,Glassdoor,Data Scientist,PwC,IT Services,"Delhi, India",₹8.0-11.0 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",Bachelor's Degree,Contract,2026-07-18
+JOB0140,Indeed,QA Engineer,KPMG,Software,"Ahmedabad, Gujarat",₹2.5-4.0 LPA,0-1 Years,"Selenium, Java, SQL, Testing",M.Sc,Internship,2026-07-24
+JOB0141,Naukri,Financial Analyst,LTIMindtree,Consulting,"Coimbatore, Tamil Nadu",₹2.5-6.5 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",B.E./B.Tech,Full-time,2026-08-06
+JOB0142,Naukri,QA Engineer,Accenture,IT Services,"Pune, Maharashtra",₹6.0-7.5 LPA,8+ Years,"Selenium, Java, SQL, Testing",Master's Degree,Internship,2026-08-02
+JOB0143,Indeed,Talent Acquisition Specialist,Mphasis,Healthcare,"Noida, Uttar Pradesh",₹3.5-6.5 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Contract,2026-07-24
+JOB0144,Indeed,Data Scientist,Amazon,Financial Services,"Jaipur, Rajasthan",₹3.0-8.0 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",B.E./B.Tech,Contract,2026-07-25
+JOB0145,Foundit,Data Scientist,Oracle,E-Commerce,"Coimbatore, Tamil Nadu",₹3.5-6.5 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",Bachelor's Degree,Contract,2026-07-20
+JOB0146,LinkedIn Jobs,Digital Marketing Executive,Genpact,Healthcare,"Kochi, Kerala",₹6.0-8.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",Any Degree,Contract,2026-08-03
+JOB0147,Naukri,Backend Developer,HCLTech,Banking,"Hyderabad, Telangana",₹4.0-7.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Contract,2026-08-01
+JOB0148,Naukri,Business Intelligence Analyst,Mphasis,BPO,"Noida, Uttar Pradesh",₹2.5-5.5 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Part-time,2026-08-09
+JOB0149,Indeed,Project Coordinator,HCLTech,Banking,"Gurugram, Haryana",₹8.0-9.5 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",MBA,Internship,2026-07-27
+JOB0150,Naukri,Full Stack Developer,LTIMindtree,Consulting,"Ahmedabad, Gujarat",₹4.0-7.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Internship,2026-07-31
+JOB0151,Foundit,Backend Developer,ICICI Bank,E-Commerce,"Pune, Maharashtra",₹7.0-12.0 LPA,5-8 Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Contract,2026-08-03
+JOB0152,LinkedIn Jobs,Business Analyst,Freshworks,Manufacturing,"Chennai, Tamil Nadu",₹8.0-11.0 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",Bachelor's Degree,Part-time,2026-08-05
+JOB0153,Naukri,Frontend Developer,KPMG,Telecommunications,"Delhi, India",₹3.5-7.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React",M.Sc,Full-time,2026-07-06
+JOB0154,LinkedIn Jobs,Cloud Engineer,Mphasis,Consulting,"Pune, Maharashtra",₹6.0-8.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",M.Com,Full-time,2026-07-25
+JOB0155,Foundit,Machine Learning Engineer,Cognizant,E-Commerce,"Jaipur, Rajasthan",₹3.5-5.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Full-time,2026-07-19
+JOB0156,Glassdoor,Data Scientist,TCS,BPO,"Kochi, Kerala",₹5.0-7.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",Bachelor's Degree,Contract,2026-07-10
+JOB0157,Foundit,Full Stack Developer,IBM,BPO,"Gurugram, Haryana",₹3.0-4.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",Bachelor's Degree,Internship,2026-07-16
+JOB0158,Naukri,Project Coordinator,LTIMindtree,E-Commerce,"Mumbai, Maharashtra",₹2.5-7.5 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",Any Degree,Contract,2026-08-06
+JOB0159,Glassdoor,Full Stack Developer,Oracle,Consulting,"Chennai, Tamil Nadu",₹7.0-9.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",Any Degree,Internship,2026-07-06
+JOB0160,LinkedIn Jobs,HR Executive,Infosys,Consulting,"Chennai, Tamil Nadu",₹7.0-10.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Full-time,2026-07-17
+JOB0161,Indeed,Financial Analyst,HDFC Bank,Manufacturing,"Delhi, India",₹6.0-8.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",B.E./B.Tech,Internship,2026-07-03
+JOB0162,Foundit,HR Executive,Freshworks,IT Services,"Mumbai, Maharashtra",₹3.5-5.5 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Part-time,2026-07-05
+JOB0163,Glassdoor,Business Analyst,Amazon,Telecommunications,"Mumbai, Maharashtra",₹5.0-10.0 LPA,0-1 Years,"SQL, Excel, Power BI, Business Analysis",BCA/MCA,Contract,2026-07-26
+JOB0164,LinkedIn Jobs,AI Engineer,ICICI Bank,Consulting,"Noida, Uttar Pradesh",₹2.5-5.5 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Internship,2026-07-18
+JOB0165,Glassdoor,Machine Learning Engineer,HCLTech,Financial Services,"Chennai, Tamil Nadu",₹8.0-12.0 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Full-time,2026-07-24
+JOB0166,Indeed,DevOps Engineer,Zoho,Software,"Chennai, Tamil Nadu",₹3.5-8.5 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",MBA,Contract,2026-07-19
+JOB0167,Indeed,QA Engineer,Zoho,Telecommunications,"Bengaluru, Karnataka",₹7.0-9.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",M.Com,Internship,2026-07-29
+JOB0168,Foundit,Frontend Developer,Freshworks,Consulting,"Kochi, Kerala",₹2.5-4.0 LPA,8+ Years,"HTML, CSS, JavaScript, React",B.E./B.Tech,Full-time,2026-08-10
+JOB0169,LinkedIn Jobs,Python Developer,Zoho,Banking,"Ahmedabad, Gujarat",₹8.0-9.5 LPA,2-3 Years,"Python, Django, REST API, SQL",M.Com,Internship,2026-07-09
+JOB0170,Indeed,Financial Analyst,Infosys,Telecommunications,"Chennai, Tamil Nadu",₹3.5-7.5 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",B.E./B.Tech,Contract,2026-07-24
+JOB0171,LinkedIn Jobs,Cloud Engineer,Amazon,E-Commerce,"Gurugram, Haryana",₹5.0-7.0 LPA,5-8 Years,"AWS, Azure, Linux, Networking",M.Sc,Full-time,2026-07-08
+JOB0172,Glassdoor,Frontend Developer,ICICI Bank,Financial Services,"Jaipur, Rajasthan",₹5.0-9.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React",BCA/MCA,Full-time,2026-07-14
+JOB0173,LinkedIn Jobs,Python Developer,Wipro,Consulting,"Ahmedabad, Gujarat",₹8.0-10.0 LPA,2-3 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Contract,2026-07-29
+JOB0174,Naukri,Backend Developer,HCLTech,Software,"Pune, Maharashtra",₹3.5-6.5 LPA,1-2 Years,"Python, Java, Node.js, SQL",BCA/MCA,Internship,2026-08-02
+JOB0175,Naukri,Data Analyst,Flipkart,BPO,"Chennai, Tamil Nadu",₹6.0-10.0 LPA,0-1 Years,"SQL, Excel, Power BI, Python",MBA,Internship,2026-08-05
+JOB0176,LinkedIn Jobs,HR Executive,Mphasis,E-Commerce,"Delhi, India",₹7.0-11.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Internship,2026-08-06
+JOB0177,Glassdoor,QA Engineer,WNS,E-Commerce,"Hyderabad, Telangana",₹6.0-8.0 LPA,3-5 Years,"Selenium, Java, SQL, Testing",Any Degree,Full-time,2026-08-05
+JOB0178,Indeed,Talent Acquisition Specialist,Cognizant,Banking,"Delhi, India",₹5.0-7.0 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",MBA,Full-time,2026-07-11
+JOB0179,Indeed,Frontend Developer,Capgemini,BPO,"Kochi, Kerala",₹5.0-7.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React",B.E./B.Tech,Part-time,2026-08-10
+JOB0180,LinkedIn Jobs,Software Developer,WNS,Software,"Bengaluru, Karnataka",₹6.0-11.0 LPA,8+ Years,"Java, Python, Git, SQL",MBA,Part-time,2026-07-03
+JOB0181,Glassdoor,Financial Analyst,EY,Financial Services,"Ahmedabad, Gujarat",₹2.5-6.5 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Part-time,2026-08-10
+JOB0182,Naukri,Cloud Engineer,IBM,Telecommunications,"Noida, Uttar Pradesh",₹8.0-9.5 LPA,3-5 Years,"AWS, Azure, Linux, Networking",Master's Degree,Part-time,2026-07-04
+JOB0183,Indeed,Machine Learning Engineer,Zoho,Healthcare,"Hyderabad, Telangana",₹3.5-6.5 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Bachelor's Degree,Contract,2026-07-21
+JOB0184,Naukri,Full Stack Developer,KPMG,E-Commerce,"Chennai, Tamil Nadu",₹3.0-6.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Internship,2026-07-29
+JOB0185,Glassdoor,Project Coordinator,EY,Consulting,"Pune, Maharashtra",₹4.0-6.0 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Internship,2026-07-21
+JOB0186,Foundit,HR Executive,IBM,Manufacturing,"Gurugram, Haryana",₹8.0-9.5 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Contract,2026-07-06
+JOB0187,Foundit,Business Analyst,Infosys,Financial Services,"Kochi, Kerala",₹5.0-9.0 LPA,0-1 Years,"SQL, Excel, Power BI, Business Analysis",Bachelor's Degree,Internship,2026-08-08
+JOB0188,LinkedIn Jobs,Python Developer,Deloitte,Healthcare,"Bengaluru, Karnataka",₹6.0-10.0 LPA,5-8 Years,"Python, Django, REST API, SQL",BCA/MCA,Contract,2026-07-24
+JOB0189,Foundit,Digital Marketing Executive,IBM,Manufacturing,"Mumbai, Maharashtra",₹3.0-7.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",Bachelor's Degree,Part-time,2026-08-02
+JOB0190,Indeed,Business Intelligence Analyst,Genpact,E-Commerce,"Pune, Maharashtra",₹6.0-9.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",M.Sc,Full-time,2026-08-05
+JOB0191,Glassdoor,Business Analyst,Infosys,Telecommunications,"Hyderabad, Telangana",₹3.5-6.5 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Contract,2026-07-31
+JOB0192,Indeed,Project Coordinator,Amazon,BPO,"Delhi, India",₹3.5-7.5 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Contract,2026-08-09
+JOB0193,Foundit,HR Executive,TCS,BPO,"Mumbai, Maharashtra",₹6.0-9.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Internship,2026-07-08
+JOB0194,Foundit,Frontend Developer,Freshworks,E-Commerce,"Kochi, Kerala",₹4.0-5.5 LPA,8+ Years,"HTML, CSS, JavaScript, React",M.Sc,Part-time,2026-08-07
+JOB0195,Foundit,Full Stack Developer,Infosys,Consulting,"Noida, Uttar Pradesh",₹3.0-5.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",M.Sc,Part-time,2026-07-02
+JOB0196,Glassdoor,DevOps Engineer,Mphasis,Banking,"Kochi, Kerala",₹8.0-9.5 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",Master's Degree,Internship,2026-07-09
+JOB0197,Glassdoor,Machine Learning Engineer,HCLTech,Consulting,"Ahmedabad, Gujarat",₹8.0-13.0 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Internship,2026-07-22
+JOB0198,Naukri,Java Developer,Tech Mahindra,Financial Services,"Mumbai, Maharashtra",₹5.0-10.0 LPA,8+ Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Internship,2026-07-20
+JOB0199,Indeed,Machine Learning Engineer,PwC,Software,"Coimbatore, Tamil Nadu",₹6.0-11.0 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Internship,2026-07-18
+JOB0200,Indeed,AI Engineer,ICICI Bank,Software,"Delhi, India",₹3.5-6.5 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",MBA,Internship,2026-07-03
+JOB0201,Naukri,Java Developer,Capgemini,Software,"Coimbatore, Tamil Nadu",₹5.0-10.0 LPA,8+ Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Part-time,2026-07-18
+JOB0202,LinkedIn Jobs,Business Analyst,WNS,Healthcare,"Delhi, India",₹4.0-6.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Full-time,2026-07-04
+JOB0203,Foundit,Python Developer,TCS,Banking,"Mumbai, Maharashtra",₹3.5-7.5 LPA,2-3 Years,"Python, Django, REST API, SQL",MBA,Full-time,2026-07-31
+JOB0204,Naukri,Data Scientist,Freshworks,Healthcare,"Hyderabad, Telangana",₹4.0-9.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Internship,2026-07-03
+JOB0205,Indeed,Software Developer,HDFC Bank,BPO,"Coimbatore, Tamil Nadu",₹5.0-6.5 LPA,0-1 Years,"Java, Python, Git, SQL",M.Com,Contract,2026-07-01
+JOB0206,Foundit,QA Engineer,Freshworks,Financial Services,"Pune, Maharashtra",₹8.0-10.0 LPA,0-1 Years,"Selenium, Java, SQL, Testing",M.Com,Part-time,2026-08-02
+JOB0207,Indeed,QA Engineer,Freshworks,Financial Services,"Coimbatore, Tamil Nadu",₹5.0-7.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",BCA/MCA,Part-time,2026-07-01
+JOB0208,Indeed,Project Coordinator,Freshworks,Software,"Noida, Uttar Pradesh",₹7.0-11.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Bachelor's Degree,Part-time,2026-08-02
+JOB0209,Indeed,Python Developer,PwC,Healthcare,"Pune, Maharashtra",₹6.0-8.0 LPA,3-5 Years,"Python, Django, REST API, SQL",MBA,Contract,2026-07-01
+JOB0210,Naukri,Backend Developer,Oracle,IT Services,"Ahmedabad, Gujarat",₹2.5-5.5 LPA,0-1 Years,"Python, Java, Node.js, SQL",Master's Degree,Contract,2026-07-24
+JOB0211,Indeed,Software Developer,Genpact,Consulting,"Coimbatore, Tamil Nadu",₹5.0-6.5 LPA,1-2 Years,"Java, Python, Git, SQL",BCA/MCA,Part-time,2026-08-10
+JOB0212,Foundit,HR Executive,Cognizant,Manufacturing,"Gurugram, Haryana",₹8.0-13.0 LPA,5-8 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Part-time,2026-07-24
+JOB0213,LinkedIn Jobs,Project Coordinator,Wipro,BPO,"Chennai, Tamil Nadu",₹8.0-13.0 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Part-time,2026-07-24
+JOB0214,Glassdoor,Software Developer,Amazon,Telecommunications,"Chennai, Tamil Nadu",₹8.0-9.5 LPA,5-8 Years,"Java, Python, Git, SQL",Master's Degree,Full-time,2026-07-14
+JOB0215,LinkedIn Jobs,QA Engineer,Cognizant,Manufacturing,"Gurugram, Haryana",₹7.0-11.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",MBA,Full-time,2026-08-06
+JOB0216,LinkedIn Jobs,Cloud Engineer,Deloitte,IT Services,"Noida, Uttar Pradesh",₹2.5-4.5 LPA,2-3 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Full-time,2026-08-07
+JOB0217,Naukri,Data Scientist,PwC,E-Commerce,"Ahmedabad, Gujarat",₹2.5-5.5 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Contract,2026-07-27
+JOB0218,Glassdoor,Cloud Engineer,KPMG,E-Commerce,"Ahmedabad, Gujarat",₹7.0-11.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Part-time,2026-07-06
+JOB0219,LinkedIn Jobs,Digital Marketing Executive,Genpact,Financial Services,"Gurugram, Haryana",₹3.5-5.5 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Internship,2026-07-01
+JOB0220,Indeed,Full Stack Developer,Tech Mahindra,Banking,"Jaipur, Rajasthan",₹8.0-11.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",Any Degree,Internship,2026-07-10
+JOB0221,LinkedIn Jobs,Project Coordinator,ICICI Bank,Software,"Coimbatore, Tamil Nadu",₹2.5-4.5 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Full-time,2026-07-14
+JOB0222,Naukri,Full Stack Developer,HDFC Bank,Manufacturing,"Pune, Maharashtra",₹2.5-6.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Contract,2026-07-29
+JOB0223,Indeed,Full Stack Developer,HDFC Bank,Banking,"Mumbai, Maharashtra",₹6.0-11.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",BCA/MCA,Internship,2026-08-08
+JOB0224,Naukri,Backend Developer,Deloitte,Healthcare,"Kochi, Kerala",₹2.5-7.5 LPA,3-5 Years,"Python, Java, Node.js, SQL",Any Degree,Contract,2026-08-07
+JOB0225,Naukri,Cloud Engineer,Mphasis,Financial Services,"Noida, Uttar Pradesh",₹6.0-10.0 LPA,1-2 Years,"AWS, Azure, Linux, Networking",Master's Degree,Part-time,2026-07-27
+JOB0226,Glassdoor,Full Stack Developer,IBM,Healthcare,"Noida, Uttar Pradesh",₹3.5-7.5 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Internship,2026-07-04
+JOB0227,Foundit,Full Stack Developer,Deloitte,Consulting,"Chennai, Tamil Nadu",₹4.0-7.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",BCA/MCA,Full-time,2026-07-06
+JOB0228,Glassdoor,Frontend Developer,Genpact,Manufacturing,"Pune, Maharashtra",₹2.5-4.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React",BCA/MCA,Contract,2026-07-13
+JOB0229,Foundit,Backend Developer,TCS,Banking,"Jaipur, Rajasthan",₹4.0-6.0 LPA,5-8 Years,"Python, Java, Node.js, SQL",BCA/MCA,Internship,2026-07-08
+JOB0230,Foundit,Full Stack Developer,LTIMindtree,Manufacturing,"Ahmedabad, Gujarat",₹6.0-9.0 LPA,2-3 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Contract,2026-07-25
+JOB0231,Foundit,AI Engineer,Mphasis,Consulting,"Pune, Maharashtra",₹8.0-12.0 LPA,2-3 Years,"Python, Machine Learning, NLP, TensorFlow",M.Com,Internship,2026-07-07
+JOB0232,Indeed,Business Analyst,Oracle,Manufacturing,"Coimbatore, Tamil Nadu",₹4.0-6.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Contract,2026-07-02
+JOB0233,Glassdoor,Python Developer,Capgemini,Banking,"Gurugram, Haryana",₹6.0-8.0 LPA,5-8 Years,"Python, Django, REST API, SQL",M.Com,Contract,2026-07-25
+JOB0234,Indeed,HR Executive,HDFC Bank,E-Commerce,"Hyderabad, Telangana",₹8.0-12.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Part-time,2026-07-11
+JOB0235,LinkedIn Jobs,Digital Marketing Executive,Freshworks,IT Services,"Bengaluru, Karnataka",₹2.5-7.5 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Part-time,2026-07-03
+JOB0236,Glassdoor,Data Scientist,Concentrix,Telecommunications,"Delhi, India",₹3.5-5.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Internship,2026-07-14
+JOB0237,Glassdoor,Data Analyst,TCS,Financial Services,"Kochi, Kerala",₹7.0-8.5 LPA,2-3 Years,"SQL, Excel, Power BI, Python",Any Degree,Internship,2026-07-02
+JOB0238,Naukri,Software Developer,Accenture,Banking,"Coimbatore, Tamil Nadu",₹3.0-8.0 LPA,5-8 Years,"Java, Python, Git, SQL",MBA,Contract,2026-07-10
+JOB0239,Foundit,Frontend Developer,Genpact,BPO,"Pune, Maharashtra",₹3.0-6.0 LPA,8+ Years,"HTML, CSS, JavaScript, React",BCA/MCA,Contract,2026-07-26
+JOB0240,Foundit,Data Scientist,Freshworks,Healthcare,"Kochi, Kerala",₹2.5-4.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Full-time,2026-07-26
+JOB0241,Glassdoor,Software Developer,Wipro,Software,"Kochi, Kerala",₹8.0-12.0 LPA,0-1 Years,"Java, Python, Git, SQL",BCA/MCA,Part-time,2026-07-22
+JOB0242,Indeed,Financial Analyst,PwC,Manufacturing,"Coimbatore, Tamil Nadu",₹5.0-6.5 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",Any Degree,Part-time,2026-07-05
+JOB0243,Foundit,Machine Learning Engineer,TCS,Software,"Mumbai, Maharashtra",₹4.0-9.0 LPA,1-2 Years,"Python, Machine Learning, TensorFlow, SQL",BCA/MCA,Internship,2026-07-10
+JOB0244,Glassdoor,Digital Marketing Executive,Amazon,Consulting,"Bengaluru, Karnataka",₹7.0-9.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Part-time,2026-07-06
+JOB0245,Indeed,Data Scientist,Amazon,Telecommunications,"Gurugram, Haryana",₹7.0-10.0 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",M.Com,Internship,2026-07-02
+JOB0246,Indeed,DevOps Engineer,HCLTech,Banking,"Jaipur, Rajasthan",₹7.0-8.5 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Contract,2026-08-09
+JOB0247,Indeed,Python Developer,Genpact,Software,"Chennai, Tamil Nadu",₹3.5-7.5 LPA,0-1 Years,"Python, Django, REST API, SQL",MBA,Internship,2026-07-21
+JOB0248,LinkedIn Jobs,AI Engineer,ICICI Bank,E-Commerce,"Noida, Uttar Pradesh",₹5.0-6.5 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",M.Sc,Full-time,2026-07-09
+JOB0249,Glassdoor,Data Analyst,Wipro,BPO,"Delhi, India",₹6.0-11.0 LPA,3-5 Years,"SQL, Excel, Power BI, Python",Any Degree,Contract,2026-07-06
+JOB0250,Glassdoor,DevOps Engineer,Genpact,Manufacturing,"Hyderabad, Telangana",₹3.0-8.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Part-time,2026-07-16
+JOB0251,Naukri,Python Developer,Deloitte,Software,"Hyderabad, Telangana",₹5.0-8.0 LPA,3-5 Years,"Python, Django, REST API, SQL",MBA,Internship,2026-08-01
+JOB0252,Naukri,Backend Developer,PwC,Telecommunications,"Coimbatore, Tamil Nadu",₹3.0-6.0 LPA,5-8 Years,"Python, Java, Node.js, SQL",BCA/MCA,Internship,2026-07-17
+JOB0253,Indeed,Business Intelligence Analyst,Cognizant,BPO,"Noida, Uttar Pradesh",₹5.0-6.5 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",Master's Degree,Contract,2026-07-26
+JOB0254,Glassdoor,DevOps Engineer,Freshworks,Banking,"Gurugram, Haryana",₹3.5-6.5 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",B.E./B.Tech,Internship,2026-07-21
+JOB0255,Indeed,Machine Learning Engineer,IBM,Healthcare,"Mumbai, Maharashtra",₹8.0-13.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Full-time,2026-07-16
+JOB0256,Foundit,Financial Analyst,Capgemini,Banking,"Gurugram, Haryana",₹3.5-8.5 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",Bachelor's Degree,Internship,2026-07-02
+JOB0257,Naukri,HR Executive,Cognizant,Healthcare,"Noida, Uttar Pradesh",₹5.0-7.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Internship,2026-07-17
+JOB0258,Indeed,Financial Analyst,Genpact,Manufacturing,"Coimbatore, Tamil Nadu",₹7.0-12.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",Bachelor's Degree,Full-time,2026-07-03
+JOB0259,LinkedIn Jobs,Full Stack Developer,WNS,BPO,"Ahmedabad, Gujarat",₹6.0-8.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",M.Sc,Contract,2026-08-09
+JOB0260,Naukri,DevOps Engineer,Accenture,Manufacturing,"Jaipur, Rajasthan",₹2.5-4.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",BCA/MCA,Internship,2026-07-17
+JOB0261,Naukri,AI Engineer,Genpact,Consulting,"Bengaluru, Karnataka",₹8.0-13.0 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",Bachelor's Degree,Contract,2026-08-02
+JOB0262,Indeed,DevOps Engineer,Wipro,Consulting,"Gurugram, Haryana",₹3.0-5.0 LPA,1-2 Years,"Docker, Kubernetes, AWS, Jenkins",Master's Degree,Contract,2026-07-23
+JOB0263,LinkedIn Jobs,HR Executive,Accenture,Financial Services,"Bengaluru, Karnataka",₹8.0-12.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Full-time,2026-07-21
+JOB0264,Glassdoor,Machine Learning Engineer,Freshworks,E-Commerce,"Kochi, Kerala",₹3.0-5.0 LPA,1-2 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Internship,2026-07-16
+JOB0265,Foundit,QA Engineer,Tech Mahindra,Healthcare,"Bengaluru, Karnataka",₹7.0-9.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",BCA/MCA,Internship,2026-07-12
+JOB0266,Naukri,Financial Analyst,EY,Financial Services,"Jaipur, Rajasthan",₹7.0-8.5 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",Bachelor's Degree,Part-time,2026-07-14
+JOB0267,Indeed,AI Engineer,Amazon,Telecommunications,"Kochi, Kerala",₹4.0-8.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",M.Com,Internship,2026-07-08
+JOB0268,Foundit,Project Coordinator,Genpact,BPO,"Hyderabad, Telangana",₹3.0-6.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",MBA,Full-time,2026-07-23
+JOB0269,LinkedIn Jobs,Python Developer,Amazon,E-Commerce,"Delhi, India",₹3.0-5.0 LPA,8+ Years,"Python, Django, REST API, SQL",B.E./B.Tech,Internship,2026-07-20
+JOB0270,Foundit,DevOps Engineer,Zoho,E-Commerce,"Gurugram, Haryana",₹3.5-8.5 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",B.E./B.Tech,Part-time,2026-07-25
+JOB0271,Foundit,HR Executive,IBM,BPO,"Bengaluru, Karnataka",₹3.5-5.5 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Internship,2026-07-21
+JOB0272,Foundit,Python Developer,Capgemini,Healthcare,"Ahmedabad, Gujarat",₹7.0-12.0 LPA,3-5 Years,"Python, Django, REST API, SQL",M.Sc,Internship,2026-08-02
+JOB0273,Naukri,HR Executive,HCLTech,Financial Services,"Bengaluru, Karnataka",₹3.0-8.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Contract,2026-07-02
+JOB0274,Glassdoor,Software Developer,ICICI Bank,Manufacturing,"Chennai, Tamil Nadu",₹8.0-13.0 LPA,5-8 Years,"Java, Python, Git, SQL",Bachelor's Degree,Contract,2026-08-01
+JOB0275,Naukri,Digital Marketing Executive,Flipkart,Healthcare,"Chennai, Tamil Nadu",₹2.5-6.5 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",BCA/MCA,Contract,2026-08-04
+JOB0276,Foundit,Business Analyst,KPMG,Software,"Pune, Maharashtra",₹5.0-8.0 LPA,1-2 Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Internship,2026-07-06
+JOB0277,LinkedIn Jobs,Software Developer,Zoho,BPO,"Delhi, India",₹3.5-5.5 LPA,5-8 Years,"Java, Python, Git, SQL",MBA,Part-time,2026-07-14
+JOB0278,Indeed,Machine Learning Engineer,Concentrix,Manufacturing,"Ahmedabad, Gujarat",₹5.0-8.0 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",B.E./B.Tech,Internship,2026-08-06
+JOB0279,Naukri,Business Analyst,Deloitte,Consulting,"Pune, Maharashtra",₹3.5-5.5 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Internship,2026-07-16
+JOB0280,Foundit,Python Developer,Oracle,Software,"Ahmedabad, Gujarat",₹5.0-9.0 LPA,0-1 Years,"Python, Django, REST API, SQL",M.Sc,Contract,2026-07-25
+JOB0281,LinkedIn Jobs,AI Engineer,KPMG,Software,"Jaipur, Rajasthan",₹8.0-11.0 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",M.Com,Full-time,2026-08-07
+JOB0282,Foundit,Digital Marketing Executive,Genpact,Financial Services,"Delhi, India",₹4.0-8.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Part-time,2026-07-14
+JOB0283,LinkedIn Jobs,Financial Analyst,PwC,Telecommunications,"Bengaluru, Karnataka",₹6.0-7.5 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",B.E./B.Tech,Internship,2026-07-03
+JOB0284,Indeed,QA Engineer,TCS,E-Commerce,"Mumbai, Maharashtra",₹7.0-9.0 LPA,0-1 Years,"Selenium, Java, SQL, Testing",M.Com,Contract,2026-07-09
+JOB0285,Indeed,Data Scientist,Flipkart,Banking,"Noida, Uttar Pradesh",₹3.5-5.0 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",Bachelor's Degree,Full-time,2026-07-26
+JOB0286,Glassdoor,Data Analyst,Capgemini,Banking,"Kochi, Kerala",₹8.0-9.5 LPA,8+ Years,"SQL, Excel, Power BI, Python",Master's Degree,Full-time,2026-07-09
+JOB0287,Naukri,Data Analyst,Concentrix,Telecommunications,"Chennai, Tamil Nadu",₹6.0-7.5 LPA,1-2 Years,"SQL, Excel, Power BI, Python",M.Sc,Full-time,2026-07-28
+JOB0288,Naukri,Business Intelligence Analyst,Accenture,Healthcare,"Hyderabad, Telangana",₹6.0-9.0 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Full-time,2026-07-20
+JOB0289,Foundit,Talent Acquisition Specialist,Oracle,Consulting,"Jaipur, Rajasthan",₹2.5-7.5 LPA,1-2 Years,"Recruitment, Sourcing, LinkedIn, Communication",B.E./B.Tech,Internship,2026-07-11
+JOB0290,LinkedIn Jobs,Project Coordinator,WNS,E-Commerce,"Chennai, Tamil Nadu",₹8.0-10.0 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",M.Sc,Contract,2026-07-06
+JOB0291,LinkedIn Jobs,DevOps Engineer,Amazon,Banking,"Kochi, Kerala",₹3.5-5.5 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",MBA,Full-time,2026-07-18
+JOB0292,LinkedIn Jobs,Backend Developer,Capgemini,Banking,"Gurugram, Haryana",₹4.0-8.0 LPA,3-5 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Part-time,2026-07-19
+JOB0293,Indeed,HR Executive,Freshworks,Consulting,"Hyderabad, Telangana",₹3.0-8.0 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",M.Sc,Contract,2026-07-01
+JOB0294,LinkedIn Jobs,Digital Marketing Executive,WNS,BPO,"Chennai, Tamil Nadu",₹3.5-7.5 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",MBA,Part-time,2026-07-05
+JOB0295,Glassdoor,Business Analyst,Infosys,Healthcare,"Noida, Uttar Pradesh",₹7.0-12.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Full-time,2026-07-19
+JOB0296,Indeed,Digital Marketing Executive,LTIMindtree,Software,"Kochi, Kerala",₹3.5-6.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Contract,2026-07-06
+JOB0297,Naukri,Cloud Engineer,Oracle,IT Services,"Pune, Maharashtra",₹3.0-6.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",M.Sc,Full-time,2026-07-28
+JOB0298,LinkedIn Jobs,QA Engineer,Zoho,IT Services,"Jaipur, Rajasthan",₹2.5-5.5 LPA,1-2 Years,"Selenium, Java, SQL, Testing",Any Degree,Part-time,2026-07-12
+JOB0299,Naukri,HR Executive,Flipkart,Financial Services,"Jaipur, Rajasthan",₹5.0-7.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Contract,2026-07-24
+JOB0300,LinkedIn Jobs,DevOps Engineer,Deloitte,Telecommunications,"Gurugram, Haryana",₹3.0-6.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",M.Com,Full-time,2026-08-06
+JOB0301,Indeed,HR Executive,Oracle,Software,"Coimbatore, Tamil Nadu",₹3.5-6.5 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Part-time,2026-07-11
+JOB0302,LinkedIn Jobs,Talent Acquisition Specialist,TCS,Telecommunications,"Delhi, India",₹2.5-4.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",B.E./B.Tech,Part-time,2026-07-16
+JOB0303,Naukri,Business Analyst,LTIMindtree,Healthcare,"Jaipur, Rajasthan",₹7.0-9.0 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",MBA,Full-time,2026-07-21
+JOB0304,Naukri,Financial Analyst,Flipkart,Banking,"Kochi, Kerala",₹3.0-8.0 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Full-time,2026-07-04
+JOB0305,Glassdoor,QA Engineer,IBM,Telecommunications,"Bengaluru, Karnataka",₹5.0-8.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",BCA/MCA,Contract,2026-07-06
+JOB0306,Glassdoor,Financial Analyst,IBM,Telecommunications,"Pune, Maharashtra",₹4.0-8.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Part-time,2026-07-24
+JOB0307,Indeed,Data Analyst,EY,IT Services,"Delhi, India",₹2.5-4.5 LPA,0-1 Years,"SQL, Excel, Power BI, Python",M.Sc,Contract,2026-08-04
+JOB0308,LinkedIn Jobs,Business Intelligence Analyst,Capgemini,E-Commerce,"Jaipur, Rajasthan",₹4.0-8.0 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Full-time,2026-08-01
+JOB0309,LinkedIn Jobs,Full Stack Developer,Mphasis,BPO,"Chennai, Tamil Nadu",₹7.0-10.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Internship,2026-07-30
+JOB0310,Naukri,Data Scientist,Oracle,Financial Services,"Mumbai, Maharashtra",₹2.5-6.5 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Contract,2026-07-09
+JOB0311,Naukri,Machine Learning Engineer,KPMG,E-Commerce,"Coimbatore, Tamil Nadu",₹5.0-7.0 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",B.E./B.Tech,Full-time,2026-07-05
+JOB0312,LinkedIn Jobs,Software Developer,KPMG,Manufacturing,"Delhi, India",₹8.0-11.0 LPA,1-2 Years,"Java, Python, Git, SQL",Master's Degree,Contract,2026-07-27
+JOB0313,Indeed,QA Engineer,Deloitte,BPO,"Bengaluru, Karnataka",₹3.0-4.5 LPA,1-2 Years,"Selenium, Java, SQL, Testing",M.Com,Part-time,2026-07-11
+JOB0314,Glassdoor,Data Scientist,Concentrix,IT Services,"Ahmedabad, Gujarat",₹4.0-7.0 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",MBA,Part-time,2026-07-26
+JOB0315,Naukri,Data Analyst,Genpact,Software,"Gurugram, Haryana",₹8.0-13.0 LPA,0-1 Years,"SQL, Excel, Power BI, Python",B.E./B.Tech,Full-time,2026-08-05
+JOB0316,Foundit,Data Analyst,Infosys,Consulting,"Ahmedabad, Gujarat",₹4.0-6.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Contract,2026-07-13
+JOB0317,Naukri,Data Scientist,TCS,Software,"Delhi, India",₹3.0-5.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Internship,2026-07-29
+JOB0318,LinkedIn Jobs,Business Analyst,HCLTech,Healthcare,"Ahmedabad, Gujarat",₹7.0-11.0 LPA,3-5 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Contract,2026-08-01
+JOB0319,Naukri,Java Developer,HCLTech,IT Services,"Coimbatore, Tamil Nadu",₹5.0-8.0 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Contract,2026-07-29
+JOB0320,Indeed,HR Executive,EY,Healthcare,"Hyderabad, Telangana",₹8.0-9.5 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Part-time,2026-07-06
+JOB0321,Glassdoor,Digital Marketing Executive,TCS,Telecommunications,"Delhi, India",₹7.0-10.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Internship,2026-07-31
+JOB0322,Naukri,Frontend Developer,HCLTech,IT Services,"Mumbai, Maharashtra",₹2.5-5.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React",Master's Degree,Contract,2026-08-08
+JOB0323,Naukri,Financial Analyst,Tech Mahindra,Financial Services,"Kochi, Kerala",₹3.5-5.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",Any Degree,Part-time,2026-07-16
+JOB0324,Naukri,Financial Analyst,Genpact,BPO,"Delhi, India",₹6.0-8.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",M.Com,Full-time,2026-07-12
+JOB0325,Foundit,AI Engineer,Oracle,Manufacturing,"Mumbai, Maharashtra",₹3.5-8.5 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Full-time,2026-07-13
+JOB0326,LinkedIn Jobs,Data Scientist,Infosys,Manufacturing,"Gurugram, Haryana",₹4.0-9.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",M.Com,Part-time,2026-07-15
+JOB0327,LinkedIn Jobs,Python Developer,Amazon,E-Commerce,"Coimbatore, Tamil Nadu",₹3.5-6.5 LPA,8+ Years,"Python, Django, REST API, SQL",B.E./B.Tech,Full-time,2026-07-04
+JOB0328,Glassdoor,Talent Acquisition Specialist,Flipkart,Software,"Delhi, India",₹3.0-6.0 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Com,Part-time,2026-07-26
+JOB0329,Naukri,Software Developer,HDFC Bank,Manufacturing,"Jaipur, Rajasthan",₹7.0-11.0 LPA,5-8 Years,"Java, Python, Git, SQL",M.Com,Part-time,2026-07-21
+JOB0330,Naukri,Financial Analyst,HCLTech,E-Commerce,"Jaipur, Rajasthan",₹7.0-10.0 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Full-time,2026-07-19
+JOB0331,Glassdoor,Software Developer,Zoho,Software,"Gurugram, Haryana",₹6.0-11.0 LPA,1-2 Years,"Java, Python, Git, SQL",M.Com,Full-time,2026-07-15
+JOB0332,LinkedIn Jobs,Full Stack Developer,Flipkart,Consulting,"Gurugram, Haryana",₹6.0-8.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Part-time,2026-08-10
+JOB0333,LinkedIn Jobs,Full Stack Developer,Concentrix,IT Services,"Bengaluru, Karnataka",₹3.0-6.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Internship,2026-07-17
+JOB0334,Glassdoor,Software Developer,EY,Healthcare,"Chennai, Tamil Nadu",₹8.0-12.0 LPA,3-5 Years,"Java, Python, Git, SQL",BCA/MCA,Part-time,2026-07-23
+JOB0335,Indeed,QA Engineer,Wipro,Financial Services,"Chennai, Tamil Nadu",₹2.5-5.5 LPA,0-1 Years,"Selenium, Java, SQL, Testing",M.Com,Part-time,2026-07-02
+JOB0336,Indeed,Cloud Engineer,HCLTech,BPO,"Coimbatore, Tamil Nadu",₹3.0-8.0 LPA,3-5 Years,"AWS, Azure, Linux, Networking",Any Degree,Internship,2026-07-06
+JOB0337,LinkedIn Jobs,Software Developer,Zoho,Consulting,"Pune, Maharashtra",₹7.0-9.0 LPA,1-2 Years,"Java, Python, Git, SQL",M.Sc,Contract,2026-07-04
+JOB0338,Foundit,Backend Developer,IBM,BPO,"Kochi, Kerala",₹4.0-5.5 LPA,3-5 Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Full-time,2026-07-04
+JOB0339,Glassdoor,AI Engineer,TCS,Telecommunications,"Pune, Maharashtra",₹7.0-8.5 LPA,0-1 Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Part-time,2026-07-19
+JOB0340,LinkedIn Jobs,Software Developer,Freshworks,Financial Services,"Noida, Uttar Pradesh",₹5.0-6.5 LPA,3-5 Years,"Java, Python, Git, SQL",Master's Degree,Contract,2026-07-31
+JOB0341,Foundit,Data Scientist,Freshworks,Consulting,"Hyderabad, Telangana",₹7.0-9.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Contract,2026-07-24
+JOB0342,Glassdoor,QA Engineer,KPMG,IT Services,"Hyderabad, Telangana",₹5.0-7.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",Bachelor's Degree,Full-time,2026-07-18
+JOB0343,Glassdoor,AI Engineer,LTIMindtree,IT Services,"Noida, Uttar Pradesh",₹7.0-12.0 LPA,5-8 Years,"Python, Machine Learning, NLP, TensorFlow",M.Sc,Internship,2026-07-15
+JOB0344,Foundit,Financial Analyst,Tech Mahindra,IT Services,"Kochi, Kerala",₹8.0-11.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",B.E./B.Tech,Full-time,2026-07-06
+JOB0345,Naukri,QA Engineer,HCLTech,IT Services,"Noida, Uttar Pradesh",₹3.5-5.5 LPA,0-1 Years,"Selenium, Java, SQL, Testing",M.Sc,Part-time,2026-07-13
+JOB0346,LinkedIn Jobs,Python Developer,Zoho,Healthcare,"Kochi, Kerala",₹5.0-8.0 LPA,3-5 Years,"Python, Django, REST API, SQL",M.Com,Contract,2026-07-05
+JOB0347,Glassdoor,Talent Acquisition Specialist,KPMG,Healthcare,"Chennai, Tamil Nadu",₹2.5-7.5 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",B.E./B.Tech,Part-time,2026-08-07
+JOB0348,LinkedIn Jobs,Financial Analyst,Oracle,Financial Services,"Kochi, Kerala",₹3.0-4.5 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Contract,2026-08-06
+JOB0349,Foundit,Cloud Engineer,Freshworks,IT Services,"Hyderabad, Telangana",₹8.0-13.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",M.Sc,Part-time,2026-08-08
+JOB0350,Indeed,Project Coordinator,Zoho,Banking,"Bengaluru, Karnataka",₹7.0-8.5 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Contract,2026-07-26
+JOB0351,Indeed,AI Engineer,TCS,Telecommunications,"Jaipur, Rajasthan",₹6.0-9.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Bachelor's Degree,Part-time,2026-07-20
+JOB0352,Foundit,Python Developer,IBM,BPO,"Ahmedabad, Gujarat",₹8.0-11.0 LPA,0-1 Years,"Python, Django, REST API, SQL",BCA/MCA,Internship,2026-07-18
+JOB0353,LinkedIn Jobs,Java Developer,EY,Manufacturing,"Hyderabad, Telangana",₹8.0-13.0 LPA,0-1 Years,"Java, Spring Boot, SQL, Git",MBA,Internship,2026-07-24
+JOB0354,Naukri,Python Developer,ICICI Bank,IT Services,"Pune, Maharashtra",₹2.5-4.5 LPA,0-1 Years,"Python, Django, REST API, SQL",Master's Degree,Full-time,2026-07-13
+JOB0355,Foundit,AI Engineer,Concentrix,Manufacturing,"Noida, Uttar Pradesh",₹4.0-7.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Bachelor's Degree,Full-time,2026-07-24
+JOB0356,Naukri,Full Stack Developer,Flipkart,Telecommunications,"Coimbatore, Tamil Nadu",₹8.0-13.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",M.Com,Contract,2026-07-29
+JOB0357,Foundit,Software Developer,Deloitte,IT Services,"Hyderabad, Telangana",₹3.0-6.0 LPA,5-8 Years,"Java, Python, Git, SQL",BCA/MCA,Part-time,2026-07-02
+JOB0358,Glassdoor,Full Stack Developer,WNS,IT Services,"Ahmedabad, Gujarat",₹4.0-7.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Part-time,2026-07-27
+JOB0359,Glassdoor,Software Developer,Zoho,Financial Services,"Jaipur, Rajasthan",₹2.5-4.5 LPA,8+ Years,"Java, Python, Git, SQL",MBA,Internship,2026-07-17
+JOB0360,Foundit,Cloud Engineer,Flipkart,Financial Services,"Ahmedabad, Gujarat",₹8.0-11.0 LPA,5-8 Years,"AWS, Azure, Linux, Networking",M.Sc,Full-time,2026-07-14
+JOB0361,Glassdoor,Data Analyst,Mphasis,Financial Services,"Mumbai, Maharashtra",₹6.0-11.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Internship,2026-08-08
+JOB0362,Indeed,Data Scientist,Amazon,Financial Services,"Pune, Maharashtra",₹5.0-8.0 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Full-time,2026-07-18
+JOB0363,Foundit,Project Coordinator,Genpact,Financial Services,"Mumbai, Maharashtra",₹6.0-8.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",M.Sc,Internship,2026-07-02
+JOB0364,Glassdoor,Business Analyst,Oracle,Telecommunications,"Ahmedabad, Gujarat",₹4.0-7.0 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",MBA,Part-time,2026-07-15
+JOB0365,Naukri,Digital Marketing Executive,HCLTech,Financial Services,"Jaipur, Rajasthan",₹5.0-6.5 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Contract,2026-07-31
+JOB0366,Foundit,Data Scientist,Tech Mahindra,Consulting,"Delhi, India",₹6.0-8.0 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",MBA,Internship,2026-07-20
+JOB0367,Glassdoor,Business Intelligence Analyst,PwC,Software,"Gurugram, Haryana",₹2.5-7.5 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-08-07
+JOB0368,Naukri,Talent Acquisition Specialist,IBM,Banking,"Delhi, India",₹7.0-8.5 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Master's Degree,Part-time,2026-07-10
+JOB0369,Indeed,Machine Learning Engineer,Concentrix,E-Commerce,"Delhi, India",₹3.5-5.0 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",Any Degree,Full-time,2026-08-01
+JOB0370,Naukri,QA Engineer,Deloitte,Telecommunications,"Chennai, Tamil Nadu",₹4.0-6.0 LPA,1-2 Years,"Selenium, Java, SQL, Testing",M.Sc,Internship,2026-08-06
+JOB0371,LinkedIn Jobs,Cloud Engineer,EY,Manufacturing,"Pune, Maharashtra",₹8.0-12.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",M.Com,Full-time,2026-07-01
+JOB0372,Naukri,Machine Learning Engineer,ICICI Bank,Banking,"Jaipur, Rajasthan",₹4.0-5.5 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Part-time,2026-07-01
+JOB0373,LinkedIn Jobs,Business Intelligence Analyst,Genpact,Financial Services,"Mumbai, Maharashtra",₹5.0-7.0 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",M.Com,Internship,2026-07-05
+JOB0374,Naukri,Python Developer,Amazon,Healthcare,"Bengaluru, Karnataka",₹8.0-11.0 LPA,1-2 Years,"Python, Django, REST API, SQL",BCA/MCA,Part-time,2026-07-13
+JOB0375,Naukri,Java Developer,HDFC Bank,Software,"Delhi, India",₹2.5-7.5 LPA,8+ Years,"Java, Spring Boot, SQL, Git",Any Degree,Internship,2026-08-02
+JOB0376,LinkedIn Jobs,Frontend Developer,ICICI Bank,IT Services,"Bengaluru, Karnataka",₹2.5-7.5 LPA,8+ Years,"HTML, CSS, JavaScript, React",Bachelor's Degree,Internship,2026-07-04
+JOB0377,Foundit,QA Engineer,Genpact,E-Commerce,"Pune, Maharashtra",₹3.0-8.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",Any Degree,Contract,2026-07-17
+JOB0378,Glassdoor,DevOps Engineer,WNS,BPO,"Jaipur, Rajasthan",₹3.0-8.0 LPA,1-2 Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Full-time,2026-07-18
+JOB0379,LinkedIn Jobs,Talent Acquisition Specialist,HDFC Bank,Telecommunications,"Pune, Maharashtra",₹3.0-6.0 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",BCA/MCA,Contract,2026-07-08
+JOB0380,Naukri,Talent Acquisition Specialist,Capgemini,IT Services,"Kochi, Kerala",₹6.0-10.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",BCA/MCA,Internship,2026-07-19
+JOB0381,LinkedIn Jobs,Machine Learning Engineer,Tech Mahindra,BPO,"Ahmedabad, Gujarat",₹2.5-4.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",B.E./B.Tech,Full-time,2026-07-06
+JOB0382,Foundit,Talent Acquisition Specialist,Wipro,Financial Services,"Mumbai, Maharashtra",₹3.0-6.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Full-time,2026-07-15
+JOB0383,Foundit,Software Developer,Infosys,Software,"Chennai, Tamil Nadu",₹5.0-8.0 LPA,0-1 Years,"Java, Python, Git, SQL",Any Degree,Part-time,2026-07-21
+JOB0384,Indeed,Software Developer,Amazon,Software,"Delhi, India",₹6.0-10.0 LPA,2-3 Years,"Java, Python, Git, SQL",B.E./B.Tech,Full-time,2026-08-09
+JOB0385,Foundit,Cloud Engineer,Genpact,Healthcare,"Ahmedabad, Gujarat",₹8.0-11.0 LPA,1-2 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Part-time,2026-07-25
+JOB0386,Foundit,Business Analyst,HCLTech,BPO,"Ahmedabad, Gujarat",₹3.0-7.0 LPA,3-5 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Internship,2026-08-07
+JOB0387,Foundit,AI Engineer,Zoho,Software,"Noida, Uttar Pradesh",₹2.5-4.5 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Full-time,2026-07-31
+JOB0388,Glassdoor,Frontend Developer,Freshworks,BPO,"Pune, Maharashtra",₹6.0-7.5 LPA,8+ Years,"HTML, CSS, JavaScript, React",M.Com,Full-time,2026-08-03
+JOB0389,Foundit,DevOps Engineer,WNS,E-Commerce,"Kochi, Kerala",₹4.0-8.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Full-time,2026-07-23
+JOB0390,LinkedIn Jobs,Software Developer,Mphasis,Telecommunications,"Delhi, India",₹8.0-12.0 LPA,1-2 Years,"Java, Python, Git, SQL",M.Com,Contract,2026-07-11
+JOB0391,Foundit,Business Analyst,Mphasis,Banking,"Chennai, Tamil Nadu",₹4.0-9.0 LPA,3-5 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Internship,2026-07-25
+JOB0392,Foundit,Data Scientist,PwC,IT Services,"Chennai, Tamil Nadu",₹8.0-11.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Full-time,2026-07-08
+JOB0393,Glassdoor,Digital Marketing Executive,LTIMindtree,Financial Services,"Kochi, Kerala",₹2.5-4.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",BCA/MCA,Internship,2026-08-08
+JOB0394,Indeed,Machine Learning Engineer,Flipkart,Manufacturing,"Coimbatore, Tamil Nadu",₹2.5-4.5 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Contract,2026-07-30
+JOB0395,Indeed,QA Engineer,Accenture,Consulting,"Ahmedabad, Gujarat",₹3.0-5.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",M.Com,Full-time,2026-07-01
+JOB0396,LinkedIn Jobs,Business Analyst,HCLTech,Financial Services,"Coimbatore, Tamil Nadu",₹8.0-10.0 LPA,1-2 Years,"SQL, Excel, Power BI, Business Analysis",BCA/MCA,Full-time,2026-07-27
+JOB0397,LinkedIn Jobs,Cloud Engineer,Capgemini,Healthcare,"Bengaluru, Karnataka",₹8.0-10.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Internship,2026-07-22
+JOB0398,Glassdoor,QA Engineer,WNS,IT Services,"Kochi, Kerala",₹3.5-7.5 LPA,3-5 Years,"Selenium, Java, SQL, Testing",Master's Degree,Part-time,2026-07-01
+JOB0399,Glassdoor,Financial Analyst,HCLTech,BPO,"Delhi, India",₹3.5-5.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Internship,2026-07-25
+JOB0400,Indeed,Project Coordinator,Concentrix,Financial Services,"Gurugram, Haryana",₹4.0-7.0 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",B.E./B.Tech,Internship,2026-07-26
+JOB0401,Glassdoor,Project Coordinator,Concentrix,Banking,"Pune, Maharashtra",₹5.0-10.0 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",MBA,Contract,2026-07-21
+JOB0402,Indeed,Python Developer,Concentrix,Software,"Delhi, India",₹3.5-8.5 LPA,5-8 Years,"Python, Django, REST API, SQL",Master's Degree,Internship,2026-08-04
+JOB0403,LinkedIn Jobs,Digital Marketing Executive,IBM,IT Services,"Noida, Uttar Pradesh",₹7.0-8.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",Any Degree,Full-time,2026-08-03
+JOB0404,Naukri,Java Developer,Deloitte,IT Services,"Jaipur, Rajasthan",₹3.5-6.5 LPA,2-3 Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Full-time,2026-07-17
+JOB0405,Naukri,AI Engineer,KPMG,Manufacturing,"Noida, Uttar Pradesh",₹3.0-8.0 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",MBA,Full-time,2026-08-05
+JOB0406,LinkedIn Jobs,Cloud Engineer,Genpact,IT Services,"Jaipur, Rajasthan",₹7.0-10.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",BCA/MCA,Internship,2026-08-05
+JOB0407,Glassdoor,Full Stack Developer,Freshworks,Banking,"Jaipur, Rajasthan",₹6.0-11.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Internship,2026-08-04
+JOB0408,Glassdoor,Software Developer,WNS,Software,"Noida, Uttar Pradesh",₹3.0-5.0 LPA,0-1 Years,"Java, Python, Git, SQL",M.Sc,Contract,2026-07-12
+JOB0409,Indeed,Digital Marketing Executive,Deloitte,IT Services,"Delhi, India",₹3.5-5.5 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Full-time,2026-08-07
+JOB0410,Foundit,Python Developer,Amazon,BPO,"Kochi, Kerala",₹2.5-7.5 LPA,2-3 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Contract,2026-07-20
+JOB0411,Glassdoor,Talent Acquisition Specialist,Tech Mahindra,E-Commerce,"Noida, Uttar Pradesh",₹3.5-8.5 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Full-time,2026-07-05
+JOB0412,Indeed,AI Engineer,Tech Mahindra,Financial Services,"Pune, Maharashtra",₹4.0-7.0 LPA,5-8 Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Full-time,2026-07-22
+JOB0413,Glassdoor,Business Intelligence Analyst,WNS,BPO,"Pune, Maharashtra",₹6.0-10.0 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",M.Com,Internship,2026-07-16
+JOB0414,LinkedIn Jobs,Business Intelligence Analyst,Genpact,Manufacturing,"Delhi, India",₹5.0-10.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",Master's Degree,Internship,2026-07-19
+JOB0415,LinkedIn Jobs,Business Analyst,IBM,Software,"Hyderabad, Telangana",₹4.0-7.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",Any Degree,Full-time,2026-08-02
+JOB0416,Naukri,Java Developer,WNS,Manufacturing,"Jaipur, Rajasthan",₹4.0-8.0 LPA,8+ Years,"Java, Spring Boot, SQL, Git",M.Sc,Full-time,2026-07-07
+JOB0417,LinkedIn Jobs,Python Developer,TCS,Software,"Bengaluru, Karnataka",₹8.0-11.0 LPA,1-2 Years,"Python, Django, REST API, SQL",MBA,Full-time,2026-07-03
+JOB0418,Foundit,Financial Analyst,Tech Mahindra,Healthcare,"Noida, Uttar Pradesh",₹5.0-9.0 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",Any Degree,Internship,2026-07-25
+JOB0419,Glassdoor,Business Intelligence Analyst,LTIMindtree,IT Services,"Jaipur, Rajasthan",₹2.5-7.5 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",M.Com,Full-time,2026-07-05
+JOB0420,Indeed,Backend Developer,WNS,Telecommunications,"Noida, Uttar Pradesh",₹5.0-10.0 LPA,3-5 Years,"Python, Java, Node.js, SQL",Any Degree,Internship,2026-07-06
+JOB0421,Glassdoor,Software Developer,LTIMindtree,Financial Services,"Ahmedabad, Gujarat",₹4.0-6.0 LPA,1-2 Years,"Java, Python, Git, SQL",MBA,Contract,2026-07-26
+JOB0422,LinkedIn Jobs,Data Analyst,LTIMindtree,BPO,"Coimbatore, Tamil Nadu",₹3.5-5.0 LPA,3-5 Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Contract,2026-07-03
+JOB0423,Glassdoor,Java Developer,HDFC Bank,E-Commerce,"Hyderabad, Telangana",₹6.0-8.0 LPA,1-2 Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Contract,2026-07-27
+JOB0424,Glassdoor,Java Developer,Accenture,Telecommunications,"Ahmedabad, Gujarat",₹3.5-8.5 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",Bachelor's Degree,Contract,2026-07-04
+JOB0425,Foundit,Data Scientist,Deloitte,Consulting,"Delhi, India",₹3.0-5.0 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Full-time,2026-08-07
+JOB0426,Foundit,Backend Developer,Zoho,Telecommunications,"Delhi, India",₹3.0-5.0 LPA,5-8 Years,"Python, Java, Node.js, SQL",MBA,Part-time,2026-07-21
+JOB0427,Naukri,Financial Analyst,Oracle,IT Services,"Delhi, India",₹6.0-9.0 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Internship,2026-07-28
+JOB0428,Foundit,Frontend Developer,Flipkart,Telecommunications,"Delhi, India",₹3.5-6.5 LPA,2-3 Years,"HTML, CSS, JavaScript, React",Master's Degree,Full-time,2026-07-31
+JOB0429,Glassdoor,Software Developer,Freshworks,Banking,"Mumbai, Maharashtra",₹3.0-6.0 LPA,8+ Years,"Java, Python, Git, SQL",Bachelor's Degree,Full-time,2026-07-09
+JOB0430,Foundit,Data Analyst,Mphasis,BPO,"Pune, Maharashtra",₹2.5-7.5 LPA,0-1 Years,"SQL, Excel, Power BI, Python",MBA,Internship,2026-08-07
+JOB0431,Indeed,Python Developer,Flipkart,E-Commerce,"Gurugram, Haryana",₹7.0-9.0 LPA,5-8 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Internship,2026-08-07
+JOB0432,Naukri,AI Engineer,Mphasis,Manufacturing,"Hyderabad, Telangana",₹2.5-4.5 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",B.E./B.Tech,Part-time,2026-08-09
+JOB0433,LinkedIn Jobs,Financial Analyst,Oracle,Banking,"Gurugram, Haryana",₹3.5-7.5 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",Bachelor's Degree,Contract,2026-07-23
+JOB0434,Indeed,AI Engineer,Tech Mahindra,Healthcare,"Gurugram, Haryana",₹2.5-4.5 LPA,3-5 Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Full-time,2026-08-03
+JOB0435,Glassdoor,Machine Learning Engineer,Accenture,BPO,"Hyderabad, Telangana",₹5.0-8.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Contract,2026-08-07
+JOB0436,Foundit,Financial Analyst,Freshworks,Banking,"Kochi, Kerala",₹3.0-8.0 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",M.Com,Contract,2026-07-17
+JOB0437,Foundit,HR Executive,PwC,E-Commerce,"Pune, Maharashtra",₹2.5-7.5 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",MBA,Part-time,2026-07-09
+JOB0438,LinkedIn Jobs,Python Developer,HCLTech,Banking,"Noida, Uttar Pradesh",₹3.5-6.5 LPA,2-3 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Internship,2026-08-08
+JOB0439,Foundit,HR Executive,PwC,IT Services,"Pune, Maharashtra",₹4.0-9.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Part-time,2026-07-11
+JOB0440,LinkedIn Jobs,Python Developer,Freshworks,E-Commerce,"Mumbai, Maharashtra",₹2.5-7.5 LPA,1-2 Years,"Python, Django, REST API, SQL",M.Sc,Full-time,2026-07-10
+JOB0441,Foundit,Backend Developer,Wipro,Telecommunications,"Hyderabad, Telangana",₹4.0-8.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",M.Sc,Part-time,2026-08-08
+JOB0442,Indeed,Financial Analyst,ICICI Bank,E-Commerce,"Jaipur, Rajasthan",₹3.5-8.5 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",M.Com,Internship,2026-08-02
+JOB0443,Foundit,Project Coordinator,Oracle,E-Commerce,"Chennai, Tamil Nadu",₹3.0-5.0 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Internship,2026-07-25
+JOB0444,Glassdoor,Python Developer,Zoho,BPO,"Bengaluru, Karnataka",₹3.0-5.0 LPA,5-8 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Full-time,2026-07-31
+JOB0445,LinkedIn Jobs,HR Executive,WNS,Healthcare,"Kochi, Kerala",₹3.5-8.5 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",M.Com,Full-time,2026-08-04
+JOB0446,Indeed,Talent Acquisition Specialist,EY,BPO,"Jaipur, Rajasthan",₹4.0-8.0 LPA,8+ Years,"Recruitment, Sourcing, LinkedIn, Communication",Bachelor's Degree,Internship,2026-07-25
+JOB0447,Indeed,Python Developer,Deloitte,BPO,"Kochi, Kerala",₹8.0-10.0 LPA,3-5 Years,"Python, Django, REST API, SQL",MBA,Part-time,2026-07-06
+JOB0448,LinkedIn Jobs,Data Analyst,Concentrix,Manufacturing,"Bengaluru, Karnataka",₹2.5-7.5 LPA,3-5 Years,"SQL, Excel, Power BI, Python",BCA/MCA,Contract,2026-08-03
+JOB0449,Glassdoor,DevOps Engineer,Flipkart,Financial Services,"Mumbai, Maharashtra",₹3.0-5.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Contract,2026-07-28
+JOB0450,Glassdoor,Project Coordinator,Deloitte,Manufacturing,"Gurugram, Haryana",₹7.0-9.0 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",M.Com,Internship,2026-07-27
+JOB0451,LinkedIn Jobs,Frontend Developer,IBM,Banking,"Gurugram, Haryana",₹6.0-10.0 LPA,8+ Years,"HTML, CSS, JavaScript, React",B.E./B.Tech,Full-time,2026-07-09
+JOB0452,Glassdoor,Java Developer,Mphasis,IT Services,"Hyderabad, Telangana",₹7.0-10.0 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",Any Degree,Full-time,2026-08-05
+JOB0453,Indeed,Python Developer,PwC,Banking,"Delhi, India",₹7.0-8.5 LPA,0-1 Years,"Python, Django, REST API, SQL",Any Degree,Internship,2026-07-05
+JOB0454,Naukri,Cloud Engineer,Zoho,Telecommunications,"Gurugram, Haryana",₹5.0-10.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",BCA/MCA,Contract,2026-07-04
+JOB0455,LinkedIn Jobs,Java Developer,Infosys,Consulting,"Pune, Maharashtra",₹4.0-9.0 LPA,8+ Years,"Java, Spring Boot, SQL, Git",Any Degree,Part-time,2026-07-11
+JOB0456,Foundit,Data Scientist,Deloitte,BPO,"Pune, Maharashtra",₹7.0-10.0 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Full-time,2026-07-26
+JOB0457,Indeed,Data Scientist,LTIMindtree,Consulting,"Mumbai, Maharashtra",₹5.0-10.0 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Internship,2026-08-07
+JOB0458,Foundit,Cloud Engineer,Oracle,Manufacturing,"Chennai, Tamil Nadu",₹2.5-5.5 LPA,5-8 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Contract,2026-07-12
+JOB0459,Indeed,Machine Learning Engineer,Accenture,Telecommunications,"Noida, Uttar Pradesh",₹5.0-10.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Part-time,2026-08-06
+JOB0460,LinkedIn Jobs,Machine Learning Engineer,ICICI Bank,Telecommunications,"Chennai, Tamil Nadu",₹8.0-12.0 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Bachelor's Degree,Internship,2026-08-07
+JOB0461,Indeed,Full Stack Developer,WNS,Manufacturing,"Kochi, Kerala",₹4.0-7.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Part-time,2026-07-27
+JOB0462,Glassdoor,Backend Developer,Wipro,E-Commerce,"Gurugram, Haryana",₹7.0-10.0 LPA,2-3 Years,"Python, Java, Node.js, SQL",M.Com,Part-time,2026-07-05
+JOB0463,Naukri,Financial Analyst,Deloitte,Banking,"Jaipur, Rajasthan",₹3.5-5.5 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",MBA,Part-time,2026-08-01
+JOB0464,Naukri,Full Stack Developer,Capgemini,Software,"Chennai, Tamil Nadu",₹4.0-9.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Full-time,2026-07-23
+JOB0465,Indeed,Digital Marketing Executive,Infosys,Telecommunications,"Coimbatore, Tamil Nadu",₹8.0-11.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Part-time,2026-08-09
+JOB0466,Naukri,Talent Acquisition Specialist,Deloitte,IT Services,"Kochi, Kerala",₹7.0-9.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Master's Degree,Full-time,2026-08-06
+JOB0467,LinkedIn Jobs,Talent Acquisition Specialist,Flipkart,Manufacturing,"Gurugram, Haryana",₹7.0-9.0 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Full-time,2026-07-30
+JOB0468,Glassdoor,Java Developer,Genpact,Financial Services,"Hyderabad, Telangana",₹3.0-6.0 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",MBA,Part-time,2026-07-24
+JOB0469,Foundit,Frontend Developer,PwC,Healthcare,"Pune, Maharashtra",₹6.0-9.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React",M.Com,Contract,2026-07-12
+JOB0470,Naukri,Cloud Engineer,Deloitte,BPO,"Ahmedabad, Gujarat",₹8.0-10.0 LPA,1-2 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Contract,2026-08-06
+JOB0471,Naukri,Full Stack Developer,LTIMindtree,E-Commerce,"Gurugram, Haryana",₹7.0-11.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Internship,2026-07-13
+JOB0472,Indeed,HR Executive,Cognizant,Manufacturing,"Coimbatore, Tamil Nadu",₹6.0-10.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",M.Sc,Full-time,2026-07-20
+JOB0473,LinkedIn Jobs,Software Developer,Infosys,Telecommunications,"Jaipur, Rajasthan",₹4.0-7.0 LPA,2-3 Years,"Java, Python, Git, SQL",MBA,Contract,2026-07-31
+JOB0474,Foundit,AI Engineer,LTIMindtree,Software,"Delhi, India",₹5.0-8.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Part-time,2026-07-02
+JOB0475,Foundit,Backend Developer,Flipkart,Software,"Noida, Uttar Pradesh",₹6.0-11.0 LPA,5-8 Years,"Python, Java, Node.js, SQL",MBA,Internship,2026-08-01
+JOB0476,Glassdoor,Python Developer,HCLTech,BPO,"Noida, Uttar Pradesh",₹6.0-10.0 LPA,0-1 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Part-time,2026-08-10
+JOB0477,Indeed,Machine Learning Engineer,Tech Mahindra,BPO,"Ahmedabad, Gujarat",₹6.0-9.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Internship,2026-07-19
+JOB0478,Naukri,AI Engineer,HDFC Bank,IT Services,"Hyderabad, Telangana",₹8.0-12.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Contract,2026-07-11
+JOB0479,LinkedIn Jobs,Data Scientist,Capgemini,Software,"Gurugram, Haryana",₹3.5-7.5 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Full-time,2026-07-07
+JOB0480,Glassdoor,Cloud Engineer,Mphasis,E-Commerce,"Chennai, Tamil Nadu",₹3.0-4.5 LPA,8+ Years,"AWS, Azure, Linux, Networking",M.Sc,Contract,2026-07-17
+JOB0481,Naukri,Full Stack Developer,Tech Mahindra,E-Commerce,"Kochi, Kerala",₹5.0-9.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",Any Degree,Full-time,2026-08-10
+JOB0482,Indeed,AI Engineer,Amazon,Manufacturing,"Gurugram, Haryana",₹8.0-12.0 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",B.E./B.Tech,Internship,2026-08-04
+JOB0483,Glassdoor,Financial Analyst,EY,Banking,"Chennai, Tamil Nadu",₹5.0-8.0 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",MBA,Contract,2026-07-31
+JOB0484,LinkedIn Jobs,DevOps Engineer,Deloitte,Manufacturing,"Hyderabad, Telangana",₹3.5-6.5 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",MBA,Internship,2026-07-01
+JOB0485,LinkedIn Jobs,Digital Marketing Executive,TCS,Healthcare,"Mumbai, Maharashtra",₹8.0-12.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",BCA/MCA,Full-time,2026-07-20
+JOB0486,Foundit,Digital Marketing Executive,Flipkart,Healthcare,"Pune, Maharashtra",₹4.0-8.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Internship,2026-08-05
+JOB0487,Naukri,Full Stack Developer,Deloitte,Manufacturing,"Coimbatore, Tamil Nadu",₹3.0-7.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Contract,2026-08-10
+JOB0488,Naukri,Digital Marketing Executive,Deloitte,E-Commerce,"Mumbai, Maharashtra",₹7.0-9.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Internship,2026-07-05
+JOB0489,LinkedIn Jobs,Frontend Developer,Concentrix,E-Commerce,"Bengaluru, Karnataka",₹8.0-10.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React",Any Degree,Part-time,2026-07-21
+JOB0490,LinkedIn Jobs,Business Intelligence Analyst,IBM,Banking,"Chennai, Tamil Nadu",₹5.0-7.0 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Any Degree,Internship,2026-07-29
+JOB0491,Indeed,Java Developer,Amazon,Telecommunications,"Jaipur, Rajasthan",₹7.0-10.0 LPA,0-1 Years,"Java, Spring Boot, SQL, Git",M.Com,Full-time,2026-08-01
+JOB0492,Glassdoor,Python Developer,Infosys,Telecommunications,"Hyderabad, Telangana",₹5.0-9.0 LPA,1-2 Years,"Python, Django, REST API, SQL",MBA,Internship,2026-07-05
+JOB0493,Naukri,Data Analyst,Accenture,IT Services,"Pune, Maharashtra",₹4.0-8.0 LPA,3-5 Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Part-time,2026-07-29
+JOB0494,LinkedIn Jobs,HR Executive,Genpact,Manufacturing,"Kochi, Kerala",₹5.0-8.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",MBA,Internship,2026-07-11
+JOB0495,LinkedIn Jobs,Backend Developer,Capgemini,Banking,"Ahmedabad, Gujarat",₹6.0-7.5 LPA,3-5 Years,"Python, Java, Node.js, SQL",M.Com,Full-time,2026-07-14
+JOB0496,LinkedIn Jobs,Software Developer,Deloitte,IT Services,"Coimbatore, Tamil Nadu",₹3.0-7.0 LPA,8+ Years,"Java, Python, Git, SQL",Master's Degree,Part-time,2026-07-16
+JOB0497,Foundit,AI Engineer,ICICI Bank,Software,"Ahmedabad, Gujarat",₹3.0-5.0 LPA,5-8 Years,"Python, Machine Learning, NLP, TensorFlow",M.Com,Full-time,2026-07-11
+JOB0498,Naukri,Business Analyst,Flipkart,Telecommunications,"Pune, Maharashtra",₹3.5-8.5 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Internship,2026-07-07
+JOB0499,Indeed,Java Developer,TCS,IT Services,"Gurugram, Haryana",₹7.0-10.0 LPA,8+ Years,"Java, Spring Boot, SQL, Git",Master's Degree,Contract,2026-07-09
+JOB0500,Naukri,Digital Marketing Executive,Concentrix,Manufacturing,"Delhi, India",₹8.0-10.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Contract,2026-08-06
+JOB0501,Naukri,Project Coordinator,LTIMindtree,Telecommunications,"Mumbai, Maharashtra",₹3.5-5.0 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",M.Com,Internship,2026-08-03
+JOB0502,Glassdoor,Data Analyst,ICICI Bank,Consulting,"Coimbatore, Tamil Nadu",₹7.0-9.0 LPA,1-2 Years,"SQL, Excel, Power BI, Python",M.Com,Full-time,2026-07-02
+JOB0503,Glassdoor,Digital Marketing Executive,Genpact,E-Commerce,"Coimbatore, Tamil Nadu",₹4.0-9.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Internship,2026-08-01
+JOB0504,LinkedIn Jobs,Machine Learning Engineer,Accenture,E-Commerce,"Hyderabad, Telangana",₹3.0-8.0 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",BCA/MCA,Full-time,2026-07-05
+JOB0505,Foundit,HR Executive,Capgemini,Telecommunications,"Kochi, Kerala",₹3.0-4.5 LPA,5-8 Years,"Recruitment, HRMS, Excel, Communication",MBA,Full-time,2026-08-06
+JOB0506,Foundit,AI Engineer,Tech Mahindra,Software,"Gurugram, Haryana",₹3.0-4.5 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Contract,2026-07-14
+JOB0507,Glassdoor,Digital Marketing Executive,HDFC Bank,Financial Services,"Kochi, Kerala",₹7.0-10.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",Bachelor's Degree,Contract,2026-07-04
+JOB0508,Glassdoor,Data Scientist,Capgemini,Healthcare,"Pune, Maharashtra",₹3.0-4.5 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Part-time,2026-07-15
+JOB0509,Glassdoor,Digital Marketing Executive,HDFC Bank,Consulting,"Ahmedabad, Gujarat",₹7.0-8.5 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Full-time,2026-08-10
+JOB0510,Naukri,Software Developer,HCLTech,Manufacturing,"Coimbatore, Tamil Nadu",₹7.0-12.0 LPA,3-5 Years,"Java, Python, Git, SQL",M.Com,Contract,2026-07-22
+JOB0511,Foundit,Digital Marketing Executive,Amazon,Consulting,"Coimbatore, Tamil Nadu",₹6.0-10.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",BCA/MCA,Internship,2026-08-10
+JOB0512,Foundit,Digital Marketing Executive,HDFC Bank,Healthcare,"Bengaluru, Karnataka",₹5.0-8.0 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",Any Degree,Contract,2026-07-29
+JOB0513,Indeed,Project Coordinator,TCS,Banking,"Pune, Maharashtra",₹3.5-6.5 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",Any Degree,Contract,2026-07-01
+JOB0514,Foundit,Digital Marketing Executive,Mphasis,Consulting,"Hyderabad, Telangana",₹3.5-5.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",MBA,Contract,2026-07-03
+JOB0515,LinkedIn Jobs,Financial Analyst,Tech Mahindra,BPO,"Noida, Uttar Pradesh",₹4.0-7.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Full-time,2026-07-20
+JOB0516,LinkedIn Jobs,Machine Learning Engineer,PwC,BPO,"Ahmedabad, Gujarat",₹3.5-7.5 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Any Degree,Internship,2026-08-06
+JOB0517,Foundit,Data Scientist,ICICI Bank,Healthcare,"Chennai, Tamil Nadu",₹2.5-5.5 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Internship,2026-07-23
+JOB0518,Glassdoor,Business Analyst,IBM,E-Commerce,"Delhi, India",₹2.5-5.5 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",BCA/MCA,Part-time,2026-08-04
+JOB0519,Glassdoor,Business Analyst,WNS,Manufacturing,"Chennai, Tamil Nadu",₹7.0-11.0 LPA,1-2 Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Contract,2026-08-08
+JOB0520,Foundit,Cloud Engineer,Cognizant,BPO,"Jaipur, Rajasthan",₹3.5-6.5 LPA,0-1 Years,"AWS, Azure, Linux, Networking",M.Sc,Contract,2026-07-06
+JOB0521,Foundit,Data Scientist,Genpact,Manufacturing,"Pune, Maharashtra",₹7.0-9.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Part-time,2026-07-09
+JOB0522,Indeed,Digital Marketing Executive,Zoho,Healthcare,"Delhi, India",₹4.0-6.0 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",Bachelor's Degree,Full-time,2026-07-05
+JOB0523,Indeed,DevOps Engineer,EY,Consulting,"Coimbatore, Tamil Nadu",₹6.0-9.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Contract,2026-07-13
+JOB0524,Foundit,Software Developer,Flipkart,IT Services,"Pune, Maharashtra",₹8.0-13.0 LPA,1-2 Years,"Java, Python, Git, SQL",M.Com,Part-time,2026-07-10
+JOB0525,Naukri,Data Scientist,Accenture,Financial Services,"Bengaluru, Karnataka",₹2.5-4.5 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",Bachelor's Degree,Contract,2026-08-09
+JOB0526,Glassdoor,QA Engineer,PwC,Banking,"Pune, Maharashtra",₹2.5-5.5 LPA,5-8 Years,"Selenium, Java, SQL, Testing",MBA,Internship,2026-07-14
+JOB0527,Glassdoor,Project Coordinator,HDFC Bank,Manufacturing,"Bengaluru, Karnataka",₹3.5-5.0 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",B.E./B.Tech,Full-time,2026-07-25
+JOB0528,LinkedIn Jobs,Backend Developer,Capgemini,Software,"Noida, Uttar Pradesh",₹5.0-6.5 LPA,8+ Years,"Python, Java, Node.js, SQL",MBA,Contract,2026-07-30
+JOB0529,Foundit,Business Intelligence Analyst,TCS,Manufacturing,"Jaipur, Rajasthan",₹5.0-9.0 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",M.Com,Internship,2026-07-15
+JOB0530,Glassdoor,Project Coordinator,LTIMindtree,Telecommunications,"Kochi, Kerala",₹3.0-5.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Any Degree,Full-time,2026-07-13
+JOB0531,Foundit,Full Stack Developer,Mphasis,E-Commerce,"Bengaluru, Karnataka",₹5.0-8.0 LPA,2-3 Years,"HTML, CSS, JavaScript, React, Node.js",M.Com,Contract,2026-08-01
+JOB0532,Indeed,Backend Developer,Tech Mahindra,Healthcare,"Bengaluru, Karnataka",₹5.0-6.5 LPA,5-8 Years,"Python, Java, Node.js, SQL",MBA,Part-time,2026-08-10
+JOB0533,Foundit,Python Developer,Amazon,Manufacturing,"Ahmedabad, Gujarat",₹7.0-9.0 LPA,5-8 Years,"Python, Django, REST API, SQL",BCA/MCA,Internship,2026-07-06
+JOB0534,Glassdoor,Full Stack Developer,Oracle,Consulting,"Gurugram, Haryana",₹3.5-7.5 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Part-time,2026-07-20
+JOB0535,Glassdoor,Python Developer,Oracle,E-Commerce,"Noida, Uttar Pradesh",₹4.0-6.0 LPA,1-2 Years,"Python, Django, REST API, SQL",B.E./B.Tech,Contract,2026-07-20
+JOB0536,Naukri,Data Scientist,LTIMindtree,IT Services,"Delhi, India",₹3.0-5.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Contract,2026-07-21
+JOB0537,LinkedIn Jobs,QA Engineer,HDFC Bank,E-Commerce,"Hyderabad, Telangana",₹5.0-7.0 LPA,0-1 Years,"Selenium, Java, SQL, Testing",MBA,Part-time,2026-07-13
+JOB0538,LinkedIn Jobs,Project Coordinator,Tech Mahindra,Telecommunications,"Hyderabad, Telangana",₹4.0-5.5 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Contract,2026-07-23
+JOB0539,Naukri,Software Developer,Genpact,Banking,"Pune, Maharashtra",₹8.0-12.0 LPA,0-1 Years,"Java, Python, Git, SQL",M.Sc,Full-time,2026-07-09
+JOB0540,LinkedIn Jobs,Frontend Developer,EY,E-Commerce,"Gurugram, Haryana",₹4.0-6.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React",Master's Degree,Contract,2026-07-14
+JOB0541,Glassdoor,QA Engineer,Tech Mahindra,Healthcare,"Jaipur, Rajasthan",₹7.0-11.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",M.Sc,Full-time,2026-07-03
+JOB0542,Naukri,Talent Acquisition Specialist,Accenture,Manufacturing,"Kochi, Kerala",₹8.0-12.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Internship,2026-07-03
+JOB0543,Foundit,Talent Acquisition Specialist,ICICI Bank,Healthcare,"Mumbai, Maharashtra",₹2.5-4.5 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",Master's Degree,Part-time,2026-07-19
+JOB0544,Foundit,DevOps Engineer,IBM,Telecommunications,"Chennai, Tamil Nadu",₹2.5-7.5 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Part-time,2026-07-10
+JOB0545,Indeed,Financial Analyst,Concentrix,Telecommunications,"Bengaluru, Karnataka",₹3.5-7.5 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Part-time,2026-07-27
+JOB0546,LinkedIn Jobs,QA Engineer,Wipro,Software,"Chennai, Tamil Nadu",₹5.0-8.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",Master's Degree,Contract,2026-07-11
+JOB0547,Naukri,Data Scientist,Mphasis,Healthcare,"Kochi, Kerala",₹7.0-12.0 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Part-time,2026-08-09
+JOB0548,Naukri,Machine Learning Engineer,Oracle,IT Services,"Noida, Uttar Pradesh",₹3.5-5.5 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Internship,2026-07-10
+JOB0549,Naukri,Backend Developer,Freshworks,IT Services,"Coimbatore, Tamil Nadu",₹3.5-5.0 LPA,2-3 Years,"Python, Java, Node.js, SQL",Any Degree,Internship,2026-07-09
+JOB0550,Naukri,HR Executive,PwC,Banking,"Coimbatore, Tamil Nadu",₹2.5-7.5 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Internship,2026-08-01
+JOB0551,LinkedIn Jobs,DevOps Engineer,KPMG,Banking,"Kochi, Kerala",₹3.0-8.0 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",BCA/MCA,Full-time,2026-08-08
+JOB0552,Naukri,Software Developer,Cognizant,IT Services,"Ahmedabad, Gujarat",₹2.5-5.5 LPA,5-8 Years,"Java, Python, Git, SQL",MBA,Contract,2026-07-03
+JOB0553,Naukri,Data Scientist,Infosys,Financial Services,"Coimbatore, Tamil Nadu",₹3.0-7.0 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",B.E./B.Tech,Internship,2026-07-12
+JOB0554,Indeed,Financial Analyst,Flipkart,Consulting,"Noida, Uttar Pradesh",₹2.5-4.0 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Full-time,2026-07-20
+JOB0555,Indeed,Backend Developer,PwC,Manufacturing,"Noida, Uttar Pradesh",₹3.5-5.0 LPA,5-8 Years,"Python, Java, Node.js, SQL",BCA/MCA,Part-time,2026-07-18
+JOB0556,Glassdoor,Project Coordinator,Infosys,Software,"Gurugram, Haryana",₹3.0-8.0 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",MBA,Internship,2026-08-10
+JOB0557,Glassdoor,Project Coordinator,Amazon,Consulting,"Hyderabad, Telangana",₹5.0-10.0 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Internship,2026-08-06
+JOB0558,LinkedIn Jobs,HR Executive,HCLTech,Software,"Bengaluru, Karnataka",₹4.0-7.0 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Part-time,2026-07-13
+JOB0559,Indeed,Project Coordinator,EY,Manufacturing,"Ahmedabad, Gujarat",₹7.0-8.5 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",Any Degree,Part-time,2026-07-22
+JOB0560,Glassdoor,Backend Developer,Deloitte,Manufacturing,"Delhi, India",₹3.0-6.0 LPA,0-1 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Contract,2026-07-20
+JOB0561,Indeed,Machine Learning Engineer,Genpact,Consulting,"Ahmedabad, Gujarat",₹2.5-4.5 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Full-time,2026-07-13
+JOB0562,Indeed,Python Developer,PwC,Telecommunications,"Noida, Uttar Pradesh",₹3.5-7.5 LPA,8+ Years,"Python, Django, REST API, SQL",Any Degree,Contract,2026-08-04
+JOB0563,LinkedIn Jobs,Financial Analyst,HDFC Bank,Banking,"Coimbatore, Tamil Nadu",₹6.0-11.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",M.Com,Contract,2026-08-04
+JOB0564,Foundit,Data Scientist,Cognizant,Manufacturing,"Hyderabad, Telangana",₹5.0-6.5 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Part-time,2026-07-22
+JOB0565,Indeed,Project Coordinator,Accenture,Healthcare,"Chennai, Tamil Nadu",₹5.0-8.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Contract,2026-07-03
+JOB0566,Naukri,QA Engineer,IBM,Software,"Delhi, India",₹4.0-9.0 LPA,0-1 Years,"Selenium, Java, SQL, Testing",BCA/MCA,Full-time,2026-07-20
+JOB0567,Naukri,QA Engineer,Mphasis,Banking,"Delhi, India",₹2.5-6.5 LPA,3-5 Years,"Selenium, Java, SQL, Testing",MBA,Contract,2026-08-02
+JOB0568,Naukri,Python Developer,ICICI Bank,IT Services,"Gurugram, Haryana",₹3.0-8.0 LPA,3-5 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Full-time,2026-07-09
+JOB0569,LinkedIn Jobs,Backend Developer,Infosys,Software,"Kochi, Kerala",₹3.0-6.0 LPA,8+ Years,"Python, Java, Node.js, SQL",MBA,Full-time,2026-07-30
+JOB0570,Naukri,Financial Analyst,ICICI Bank,Banking,"Mumbai, Maharashtra",₹5.0-7.0 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",M.Com,Internship,2026-07-21
+JOB0571,LinkedIn Jobs,Business Intelligence Analyst,Deloitte,IT Services,"Coimbatore, Tamil Nadu",₹3.5-5.5 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Part-time,2026-07-18
+JOB0572,Indeed,Digital Marketing Executive,Flipkart,BPO,"Pune, Maharashtra",₹6.0-9.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",Bachelor's Degree,Contract,2026-07-10
+JOB0573,LinkedIn Jobs,Project Coordinator,Amazon,Telecommunications,"Ahmedabad, Gujarat",₹8.0-9.5 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",Bachelor's Degree,Internship,2026-07-09
+JOB0574,Glassdoor,Business Analyst,Wipro,BPO,"Ahmedabad, Gujarat",₹7.0-11.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Contract,2026-07-12
+JOB0575,Foundit,Backend Developer,Amazon,BPO,"Hyderabad, Telangana",₹4.0-9.0 LPA,0-1 Years,"Python, Java, Node.js, SQL",Master's Degree,Full-time,2026-07-06
+JOB0576,Naukri,QA Engineer,IBM,E-Commerce,"Coimbatore, Tamil Nadu",₹8.0-12.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",M.Com,Internship,2026-07-15
+JOB0577,Foundit,Software Developer,Concentrix,IT Services,"Chennai, Tamil Nadu",₹6.0-9.0 LPA,3-5 Years,"Java, Python, Git, SQL",Bachelor's Degree,Contract,2026-07-30
+JOB0578,Glassdoor,HR Executive,KPMG,BPO,"Hyderabad, Telangana",₹3.5-6.5 LPA,5-8 Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Internship,2026-07-23
+JOB0579,Foundit,Business Intelligence Analyst,Amazon,Healthcare,"Coimbatore, Tamil Nadu",₹3.0-6.0 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Part-time,2026-08-04
+JOB0580,Indeed,Digital Marketing Executive,HCLTech,Banking,"Jaipur, Rajasthan",₹8.0-12.0 LPA,5-8 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Internship,2026-07-05
+JOB0581,Glassdoor,Financial Analyst,Amazon,Telecommunications,"Chennai, Tamil Nadu",₹4.0-6.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Contract,2026-07-05
+JOB0582,Foundit,Digital Marketing Executive,Accenture,Software,"Coimbatore, Tamil Nadu",₹8.0-10.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Contract,2026-07-20
+JOB0583,Naukri,HR Executive,Freshworks,BPO,"Ahmedabad, Gujarat",₹2.5-4.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Part-time,2026-07-14
+JOB0584,Glassdoor,QA Engineer,LTIMindtree,Telecommunications,"Pune, Maharashtra",₹5.0-9.0 LPA,1-2 Years,"Selenium, Java, SQL, Testing",M.Com,Contract,2026-08-09
+JOB0585,LinkedIn Jobs,Financial Analyst,WNS,BPO,"Bengaluru, Karnataka",₹5.0-9.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Part-time,2026-07-23
+JOB0586,LinkedIn Jobs,Backend Developer,Infosys,Manufacturing,"Delhi, India",₹6.0-11.0 LPA,0-1 Years,"Python, Java, Node.js, SQL",MBA,Full-time,2026-07-04
+JOB0587,Foundit,Full Stack Developer,EY,Healthcare,"Noida, Uttar Pradesh",₹7.0-10.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",BCA/MCA,Part-time,2026-07-25
+JOB0588,Indeed,HR Executive,Cognizant,Healthcare,"Hyderabad, Telangana",₹4.0-9.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Part-time,2026-07-25
+JOB0589,Foundit,Data Analyst,Wipro,E-Commerce,"Chennai, Tamil Nadu",₹2.5-4.5 LPA,1-2 Years,"SQL, Excel, Power BI, Python",M.Sc,Internship,2026-08-01
+JOB0590,Foundit,Project Coordinator,EY,Manufacturing,"Gurugram, Haryana",₹3.5-7.5 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",M.Com,Part-time,2026-08-02
+JOB0591,Naukri,Software Developer,EY,Manufacturing,"Mumbai, Maharashtra",₹2.5-7.5 LPA,3-5 Years,"Java, Python, Git, SQL",M.Com,Full-time,2026-08-01
+JOB0592,Glassdoor,Business Analyst,Oracle,Telecommunications,"Jaipur, Rajasthan",₹8.0-11.0 LPA,0-1 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Contract,2026-07-08
+JOB0593,LinkedIn Jobs,QA Engineer,Mphasis,Banking,"Gurugram, Haryana",₹3.0-8.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",Bachelor's Degree,Contract,2026-08-09
+JOB0594,Foundit,Project Coordinator,Infosys,Telecommunications,"Kochi, Kerala",₹6.0-11.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",M.Com,Internship,2026-07-01
+JOB0595,Glassdoor,AI Engineer,IBM,Financial Services,"Jaipur, Rajasthan",₹5.0-7.0 LPA,5-8 Years,"Python, Machine Learning, NLP, TensorFlow",MBA,Full-time,2026-07-03
+JOB0596,Indeed,HR Executive,Oracle,BPO,"Bengaluru, Karnataka",₹3.5-8.5 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Full-time,2026-07-04
+JOB0597,Naukri,Python Developer,Mphasis,BPO,"Mumbai, Maharashtra",₹3.0-6.0 LPA,2-3 Years,"Python, Django, REST API, SQL",MBA,Full-time,2026-07-17
+JOB0598,Foundit,Business Intelligence Analyst,Zoho,Consulting,"Hyderabad, Telangana",₹3.5-8.5 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Internship,2026-07-10
+JOB0599,Naukri,Software Developer,Mphasis,BPO,"Hyderabad, Telangana",₹2.5-5.5 LPA,3-5 Years,"Java, Python, Git, SQL",M.Sc,Internship,2026-07-06
+JOB0600,Glassdoor,Full Stack Developer,WNS,Consulting,"Bengaluru, Karnataka",₹8.0-10.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Full-time,2026-07-14
+JOB0601,Indeed,Business Analyst,HCLTech,Telecommunications,"Jaipur, Rajasthan",₹8.0-12.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",BCA/MCA,Internship,2026-07-31
+JOB0602,Foundit,Cloud Engineer,PwC,IT Services,"Mumbai, Maharashtra",₹5.0-7.0 LPA,3-5 Years,"AWS, Azure, Linux, Networking",M.Sc,Contract,2026-08-03
+JOB0603,Indeed,Talent Acquisition Specialist,WNS,Healthcare,"Coimbatore, Tamil Nadu",₹2.5-4.0 LPA,8+ Years,"Recruitment, Sourcing, LinkedIn, Communication",MBA,Contract,2026-08-04
+JOB0604,Foundit,Frontend Developer,Deloitte,Telecommunications,"Ahmedabad, Gujarat",₹3.0-6.0 LPA,8+ Years,"HTML, CSS, JavaScript, React",BCA/MCA,Part-time,2026-08-07
+JOB0605,LinkedIn Jobs,Talent Acquisition Specialist,Amazon,IT Services,"Chennai, Tamil Nadu",₹3.5-6.5 LPA,0-1 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Full-time,2026-08-05
+JOB0606,Indeed,Talent Acquisition Specialist,Accenture,Financial Services,"Pune, Maharashtra",₹8.0-11.0 LPA,0-1 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Full-time,2026-07-15
+JOB0607,LinkedIn Jobs,Business Analyst,Zoho,Software,"Chennai, Tamil Nadu",₹4.0-9.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Internship,2026-08-10
+JOB0608,Indeed,Financial Analyst,HCLTech,Telecommunications,"Ahmedabad, Gujarat",₹3.0-5.0 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Contract,2026-07-17
+JOB0609,LinkedIn Jobs,DevOps Engineer,Concentrix,Financial Services,"Bengaluru, Karnataka",₹6.0-9.0 LPA,3-5 Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Contract,2026-07-11
+JOB0610,LinkedIn Jobs,Business Analyst,Deloitte,Telecommunications,"Pune, Maharashtra",₹5.0-7.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Part-time,2026-07-29
+JOB0611,Naukri,HR Executive,Accenture,BPO,"Ahmedabad, Gujarat",₹3.5-8.5 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Contract,2026-07-28
+JOB0612,Indeed,Business Intelligence Analyst,Infosys,Telecommunications,"Bengaluru, Karnataka",₹3.0-4.5 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Full-time,2026-08-06
+JOB0613,Indeed,Business Analyst,WNS,Healthcare,"Coimbatore, Tamil Nadu",₹7.0-10.0 LPA,0-1 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Internship,2026-07-10
+JOB0614,LinkedIn Jobs,DevOps Engineer,Genpact,Healthcare,"Jaipur, Rajasthan",₹3.0-8.0 LPA,3-5 Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Contract,2026-07-15
+JOB0615,LinkedIn Jobs,Machine Learning Engineer,WNS,Consulting,"Kochi, Kerala",₹5.0-9.0 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Bachelor's Degree,Internship,2026-07-04
+JOB0616,LinkedIn Jobs,Backend Developer,Freshworks,Healthcare,"Ahmedabad, Gujarat",₹4.0-6.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",MBA,Internship,2026-08-05
+JOB0617,Foundit,Business Intelligence Analyst,Freshworks,Banking,"Hyderabad, Telangana",₹6.0-10.0 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Full-time,2026-07-06
+JOB0618,Glassdoor,Financial Analyst,Tech Mahindra,Financial Services,"Gurugram, Haryana",₹8.0-12.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Full-time,2026-07-05
+JOB0619,Foundit,Business Analyst,Amazon,Software,"Pune, Maharashtra",₹2.5-5.5 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Part-time,2026-07-03
+JOB0620,Foundit,Financial Analyst,Tech Mahindra,IT Services,"Gurugram, Haryana",₹3.0-4.5 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",Any Degree,Part-time,2026-07-10
+JOB0621,LinkedIn Jobs,Python Developer,TCS,Telecommunications,"Coimbatore, Tamil Nadu",₹3.5-5.0 LPA,1-2 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Full-time,2026-07-20
+JOB0622,Foundit,Business Intelligence Analyst,PwC,Consulting,"Jaipur, Rajasthan",₹4.0-5.5 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",M.Sc,Contract,2026-07-13
+JOB0623,LinkedIn Jobs,Business Intelligence Analyst,WNS,BPO,"Hyderabad, Telangana",₹3.5-6.5 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Full-time,2026-07-14
+JOB0624,Glassdoor,Frontend Developer,Cognizant,E-Commerce,"Gurugram, Haryana",₹7.0-9.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React",Any Degree,Part-time,2026-07-24
+JOB0625,Foundit,Business Intelligence Analyst,Freshworks,Software,"Bengaluru, Karnataka",₹7.0-9.0 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Full-time,2026-07-02
+JOB0626,Naukri,Financial Analyst,IBM,E-Commerce,"Ahmedabad, Gujarat",₹7.0-11.0 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Internship,2026-07-09
+JOB0627,Foundit,Full Stack Developer,HCLTech,BPO,"Chennai, Tamil Nadu",₹2.5-7.5 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Contract,2026-07-12
+JOB0628,Glassdoor,DevOps Engineer,TCS,Software,"Coimbatore, Tamil Nadu",₹4.0-6.0 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",BCA/MCA,Internship,2026-07-08
+JOB0629,Naukri,Java Developer,Deloitte,Telecommunications,"Gurugram, Haryana",₹2.5-4.5 LPA,1-2 Years,"Java, Spring Boot, SQL, Git",B.E./B.Tech,Full-time,2026-07-08
+JOB0630,Foundit,Business Analyst,Freshworks,Financial Services,"Delhi, India",₹6.0-9.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Full-time,2026-07-14
+JOB0631,Naukri,Business Intelligence Analyst,HDFC Bank,IT Services,"Gurugram, Haryana",₹2.5-7.5 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Full-time,2026-07-12
+JOB0632,Indeed,Full Stack Developer,HDFC Bank,Healthcare,"Pune, Maharashtra",₹8.0-13.0 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",M.Com,Part-time,2026-08-07
+JOB0633,Foundit,Business Intelligence Analyst,Amazon,Banking,"Noida, Uttar Pradesh",₹4.0-5.5 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-07-16
+JOB0634,Naukri,Financial Analyst,PwC,BPO,"Gurugram, Haryana",₹2.5-6.5 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Contract,2026-07-10
+JOB0635,Naukri,Python Developer,KPMG,Consulting,"Hyderabad, Telangana",₹4.0-7.0 LPA,0-1 Years,"Python, Django, REST API, SQL",Any Degree,Contract,2026-07-18
+JOB0636,Naukri,Python Developer,Accenture,Consulting,"Pune, Maharashtra",₹8.0-12.0 LPA,2-3 Years,"Python, Django, REST API, SQL",B.E./B.Tech,Part-time,2026-07-27
+JOB0637,Glassdoor,Financial Analyst,LTIMindtree,Telecommunications,"Pune, Maharashtra",₹4.0-5.5 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Internship,2026-07-27
+JOB0638,Indeed,Frontend Developer,TCS,Healthcare,"Coimbatore, Tamil Nadu",₹7.0-9.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React",B.E./B.Tech,Full-time,2026-07-16
+JOB0639,LinkedIn Jobs,DevOps Engineer,Infosys,Healthcare,"Kochi, Kerala",₹2.5-6.5 LPA,3-5 Years,"Docker, Kubernetes, AWS, Jenkins",Master's Degree,Full-time,2026-08-02
+JOB0640,LinkedIn Jobs,QA Engineer,PwC,Healthcare,"Pune, Maharashtra",₹4.0-5.5 LPA,1-2 Years,"Selenium, Java, SQL, Testing",M.Com,Contract,2026-08-05
+JOB0641,Indeed,Full Stack Developer,Freshworks,E-Commerce,"Jaipur, Rajasthan",₹3.0-4.5 LPA,3-5 Years,"HTML, CSS, JavaScript, React, Node.js",Any Degree,Internship,2026-07-31
+JOB0642,Indeed,QA Engineer,ICICI Bank,Telecommunications,"Jaipur, Rajasthan",₹3.5-7.5 LPA,8+ Years,"Selenium, Java, SQL, Testing",Any Degree,Full-time,2026-07-12
+JOB0643,Indeed,Cloud Engineer,Concentrix,Healthcare,"Mumbai, Maharashtra",₹6.0-11.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",BCA/MCA,Full-time,2026-07-03
+JOB0644,LinkedIn Jobs,Project Coordinator,Amazon,Software,"Noida, Uttar Pradesh",₹2.5-7.5 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Full-time,2026-07-24
+JOB0645,Glassdoor,AI Engineer,Flipkart,Banking,"Hyderabad, Telangana",₹3.5-8.5 LPA,2-3 Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Full-time,2026-07-05
+JOB0646,Indeed,HR Executive,HDFC Bank,Financial Services,"Kochi, Kerala",₹4.0-6.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",M.Sc,Contract,2026-07-21
+JOB0647,Foundit,Business Analyst,Wipro,Manufacturing,"Kochi, Kerala",₹6.0-9.0 LPA,0-1 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Contract,2026-07-29
+JOB0648,Foundit,QA Engineer,Zoho,Software,"Chennai, Tamil Nadu",₹6.0-7.5 LPA,3-5 Years,"Selenium, Java, SQL, Testing",B.E./B.Tech,Contract,2026-07-13
+JOB0649,Naukri,Data Scientist,Accenture,Telecommunications,"Hyderabad, Telangana",₹3.5-6.5 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Contract,2026-07-08
+JOB0650,Foundit,DevOps Engineer,WNS,Telecommunications,"Jaipur, Rajasthan",₹3.5-7.5 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Contract,2026-07-23
+JOB0651,Indeed,Java Developer,Wipro,Healthcare,"Coimbatore, Tamil Nadu",₹2.5-4.5 LPA,2-3 Years,"Java, Spring Boot, SQL, Git",M.Com,Internship,2026-08-03
+JOB0652,Glassdoor,Financial Analyst,WNS,E-Commerce,"Mumbai, Maharashtra",₹8.0-12.0 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",MBA,Part-time,2026-07-20
+JOB0653,Indeed,HR Executive,Flipkart,Financial Services,"Gurugram, Haryana",₹5.0-6.5 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Contract,2026-07-10
+JOB0654,LinkedIn Jobs,Software Developer,HCLTech,IT Services,"Delhi, India",₹3.5-5.5 LPA,5-8 Years,"Java, Python, Git, SQL",B.E./B.Tech,Internship,2026-07-16
+JOB0655,LinkedIn Jobs,Frontend Developer,Flipkart,Consulting,"Delhi, India",₹3.5-5.5 LPA,1-2 Years,"HTML, CSS, JavaScript, React",M.Com,Internship,2026-08-05
+JOB0656,Foundit,Digital Marketing Executive,HCLTech,Telecommunications,"Hyderabad, Telangana",₹5.0-6.5 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Part-time,2026-07-02
+JOB0657,Indeed,Data Analyst,HDFC Bank,BPO,"Ahmedabad, Gujarat",₹6.0-9.0 LPA,1-2 Years,"SQL, Excel, Power BI, Python",Master's Degree,Contract,2026-07-31
+JOB0658,Glassdoor,Business Intelligence Analyst,HDFC Bank,Software,"Mumbai, Maharashtra",₹8.0-9.5 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",M.Sc,Part-time,2026-07-09
+JOB0659,Glassdoor,QA Engineer,Flipkart,Banking,"Coimbatore, Tamil Nadu",₹3.0-6.0 LPA,5-8 Years,"Selenium, Java, SQL, Testing",BCA/MCA,Contract,2026-07-04
+JOB0660,LinkedIn Jobs,Java Developer,TCS,Manufacturing,"Noida, Uttar Pradesh",₹3.0-8.0 LPA,1-2 Years,"Java, Spring Boot, SQL, Git",Master's Degree,Contract,2026-07-29
+JOB0661,Naukri,Project Coordinator,Zoho,Healthcare,"Delhi, India",₹2.5-5.5 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",M.Com,Full-time,2026-07-26
+JOB0662,Glassdoor,Backend Developer,Flipkart,Software,"Pune, Maharashtra",₹6.0-9.0 LPA,8+ Years,"Python, Java, Node.js, SQL",Master's Degree,Internship,2026-07-29
+JOB0663,Naukri,QA Engineer,IBM,BPO,"Coimbatore, Tamil Nadu",₹3.5-7.5 LPA,0-1 Years,"Selenium, Java, SQL, Testing",B.E./B.Tech,Part-time,2026-07-27
+JOB0664,Foundit,Backend Developer,PwC,Software,"Bengaluru, Karnataka",₹6.0-7.5 LPA,3-5 Years,"Python, Java, Node.js, SQL",MBA,Internship,2026-08-07
+JOB0665,Naukri,Software Developer,LTIMindtree,E-Commerce,"Noida, Uttar Pradesh",₹8.0-13.0 LPA,2-3 Years,"Java, Python, Git, SQL",Master's Degree,Full-time,2026-07-09
+JOB0666,Foundit,Backend Developer,Oracle,Banking,"Bengaluru, Karnataka",₹5.0-9.0 LPA,0-1 Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Contract,2026-08-05
+JOB0667,Foundit,Backend Developer,Freshworks,E-Commerce,"Gurugram, Haryana",₹8.0-9.5 LPA,8+ Years,"Python, Java, Node.js, SQL",BCA/MCA,Full-time,2026-07-19
+JOB0668,Glassdoor,Business Intelligence Analyst,ICICI Bank,Consulting,"Coimbatore, Tamil Nadu",₹5.0-9.0 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",M.Sc,Contract,2026-07-05
+JOB0669,Glassdoor,HR Executive,Concentrix,IT Services,"Mumbai, Maharashtra",₹3.0-6.0 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Part-time,2026-08-02
+JOB0670,LinkedIn Jobs,Machine Learning Engineer,KPMG,Financial Services,"Delhi, India",₹3.5-6.5 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Full-time,2026-07-11
+JOB0671,Naukri,Backend Developer,IBM,Software,"Coimbatore, Tamil Nadu",₹3.0-8.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",M.Com,Contract,2026-07-13
+JOB0672,Glassdoor,Backend Developer,Deloitte,Consulting,"Hyderabad, Telangana",₹6.0-7.5 LPA,0-1 Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Contract,2026-08-04
+JOB0673,Naukri,AI Engineer,ICICI Bank,Software,"Pune, Maharashtra",₹8.0-12.0 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Part-time,2026-07-22
+JOB0674,LinkedIn Jobs,Digital Marketing Executive,Zoho,Software,"Hyderabad, Telangana",₹3.0-7.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",Master's Degree,Contract,2026-07-30
+JOB0675,Glassdoor,Backend Developer,Concentrix,Manufacturing,"Delhi, India",₹6.0-8.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",MBA,Full-time,2026-07-29
+JOB0676,Indeed,Business Intelligence Analyst,Tech Mahindra,E-Commerce,"Pune, Maharashtra",₹3.5-5.5 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-07-15
+JOB0677,LinkedIn Jobs,Business Intelligence Analyst,Wipro,Banking,"Chennai, Tamil Nadu",₹2.5-6.5 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",Any Degree,Internship,2026-07-28
+JOB0678,LinkedIn Jobs,Business Intelligence Analyst,Deloitte,Software,"Chennai, Tamil Nadu",₹2.5-4.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Part-time,2026-07-20
+JOB0679,Naukri,Software Developer,WNS,Financial Services,"Coimbatore, Tamil Nadu",₹6.0-7.5 LPA,2-3 Years,"Java, Python, Git, SQL",M.Com,Part-time,2026-07-06
+JOB0680,LinkedIn Jobs,Talent Acquisition Specialist,ICICI Bank,Software,"Coimbatore, Tamil Nadu",₹4.0-9.0 LPA,0-1 Years,"Recruitment, Sourcing, LinkedIn, Communication",BCA/MCA,Part-time,2026-08-06
+JOB0681,Glassdoor,Backend Developer,HCLTech,Telecommunications,"Delhi, India",₹2.5-4.0 LPA,8+ Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Internship,2026-07-14
+JOB0682,Naukri,Business Intelligence Analyst,HCLTech,Manufacturing,"Pune, Maharashtra",₹6.0-10.0 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Contract,2026-07-28
+JOB0683,Foundit,Business Intelligence Analyst,KPMG,Consulting,"Jaipur, Rajasthan",₹3.0-8.0 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",Any Degree,Full-time,2026-07-09
+JOB0684,Foundit,Machine Learning Engineer,PwC,BPO,"Jaipur, Rajasthan",₹3.0-7.0 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Part-time,2026-07-19
+JOB0685,LinkedIn Jobs,Digital Marketing Executive,EY,Telecommunications,"Ahmedabad, Gujarat",₹5.0-9.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Full-time,2026-07-13
+JOB0686,Glassdoor,HR Executive,WNS,Software,"Chennai, Tamil Nadu",₹3.0-7.0 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",M.Sc,Internship,2026-07-29
+JOB0687,Naukri,Financial Analyst,Accenture,Consulting,"Pune, Maharashtra",₹3.5-5.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Full-time,2026-07-24
+JOB0688,Glassdoor,Full Stack Developer,EY,Financial Services,"Ahmedabad, Gujarat",₹8.0-11.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React, Node.js",M.Com,Internship,2026-08-07
+JOB0689,Naukri,Project Coordinator,Genpact,Telecommunications,"Chennai, Tamil Nadu",₹8.0-13.0 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",MBA,Internship,2026-07-18
+JOB0690,LinkedIn Jobs,HR Executive,Tech Mahindra,Software,"Gurugram, Haryana",₹3.5-5.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Part-time,2026-07-07
+JOB0691,Glassdoor,Cloud Engineer,Zoho,BPO,"Chennai, Tamil Nadu",₹6.0-8.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",Master's Degree,Internship,2026-07-20
+JOB0692,Indeed,Java Developer,IBM,Manufacturing,"Delhi, India",₹8.0-12.0 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",Any Degree,Full-time,2026-08-02
+JOB0693,Foundit,DevOps Engineer,Accenture,Telecommunications,"Gurugram, Haryana",₹7.0-11.0 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Part-time,2026-07-21
+JOB0694,Foundit,Digital Marketing Executive,WNS,E-Commerce,"Mumbai, Maharashtra",₹5.0-7.0 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Internship,2026-08-01
+JOB0695,Glassdoor,Business Intelligence Analyst,Oracle,Telecommunications,"Gurugram, Haryana",₹8.0-13.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Full-time,2026-08-04
+JOB0696,Glassdoor,Cloud Engineer,Deloitte,Consulting,"Mumbai, Maharashtra",₹8.0-13.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",Any Degree,Full-time,2026-07-25
+JOB0697,Glassdoor,Financial Analyst,Infosys,IT Services,"Ahmedabad, Gujarat",₹3.5-6.5 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Full-time,2026-07-23
+JOB0698,LinkedIn Jobs,DevOps Engineer,Flipkart,Banking,"Pune, Maharashtra",₹6.0-10.0 LPA,1-2 Years,"Docker, Kubernetes, AWS, Jenkins",MBA,Full-time,2026-07-23
+JOB0699,LinkedIn Jobs,Data Scientist,IBM,Manufacturing,"Delhi, India",₹3.0-6.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Internship,2026-07-11
+JOB0700,Foundit,Financial Analyst,Mphasis,BPO,"Bengaluru, Karnataka",₹7.0-10.0 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",M.Sc,Internship,2026-07-02
+JOB0701,Naukri,Machine Learning Engineer,Oracle,Consulting,"Gurugram, Haryana",₹3.0-7.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Part-time,2026-07-07
+JOB0702,Foundit,Project Coordinator,IBM,Software,"Kochi, Kerala",₹6.0-10.0 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",MBA,Contract,2026-07-13
+JOB0703,LinkedIn Jobs,Business Analyst,IBM,BPO,"Chennai, Tamil Nadu",₹7.0-9.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Contract,2026-08-09
+JOB0704,Indeed,Data Scientist,Oracle,Software,"Ahmedabad, Gujarat",₹8.0-12.0 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",MBA,Internship,2026-07-14
+JOB0705,Indeed,Digital Marketing Executive,Amazon,BPO,"Kochi, Kerala",₹4.0-8.0 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Full-time,2026-07-26
+JOB0706,Indeed,Talent Acquisition Specialist,HCLTech,Manufacturing,"Coimbatore, Tamil Nadu",₹8.0-10.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Part-time,2026-07-30
+JOB0707,Indeed,AI Engineer,KPMG,Healthcare,"Noida, Uttar Pradesh",₹3.5-5.5 LPA,2-3 Years,"Python, Machine Learning, NLP, TensorFlow",Bachelor's Degree,Part-time,2026-07-10
+JOB0708,Glassdoor,DevOps Engineer,Deloitte,Banking,"Noida, Uttar Pradesh",₹5.0-7.0 LPA,1-2 Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Part-time,2026-07-17
+JOB0709,Foundit,Java Developer,TCS,Manufacturing,"Noida, Uttar Pradesh",₹4.0-7.0 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",Any Degree,Part-time,2026-07-30
+JOB0710,Indeed,Software Developer,Deloitte,Manufacturing,"Hyderabad, Telangana",₹3.5-5.0 LPA,8+ Years,"Java, Python, Git, SQL",Any Degree,Internship,2026-07-17
+JOB0711,Indeed,Data Analyst,Infosys,Software,"Noida, Uttar Pradesh",₹3.0-6.0 LPA,2-3 Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Internship,2026-08-08
+JOB0712,LinkedIn Jobs,Python Developer,Tech Mahindra,Manufacturing,"Ahmedabad, Gujarat",₹3.0-8.0 LPA,5-8 Years,"Python, Django, REST API, SQL",MBA,Internship,2026-08-02
+JOB0713,Glassdoor,Data Scientist,Tech Mahindra,Healthcare,"Jaipur, Rajasthan",₹3.0-6.0 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Internship,2026-07-22
+JOB0714,Indeed,Java Developer,Cognizant,Telecommunications,"Noida, Uttar Pradesh",₹3.0-5.0 LPA,2-3 Years,"Java, Spring Boot, SQL, Git",Any Degree,Internship,2026-07-14
+JOB0715,Foundit,Digital Marketing Executive,Flipkart,Telecommunications,"Ahmedabad, Gujarat",₹3.0-6.0 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",MBA,Part-time,2026-08-04
+JOB0716,Glassdoor,AI Engineer,PwC,IT Services,"Jaipur, Rajasthan",₹6.0-9.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Part-time,2026-07-02
+JOB0717,Indeed,Frontend Developer,LTIMindtree,Software,"Kochi, Kerala",₹7.0-10.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React",Master's Degree,Internship,2026-08-10
+JOB0718,Naukri,Data Analyst,Genpact,Financial Services,"Pune, Maharashtra",₹5.0-8.0 LPA,1-2 Years,"SQL, Excel, Power BI, Python",Master's Degree,Contract,2026-07-06
+JOB0719,Foundit,DevOps Engineer,Infosys,Healthcare,"Delhi, India",₹5.0-6.5 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Full-time,2026-08-01
+JOB0720,Indeed,Software Developer,Concentrix,Healthcare,"Coimbatore, Tamil Nadu",₹5.0-10.0 LPA,8+ Years,"Java, Python, Git, SQL",M.Com,Internship,2026-07-05
+JOB0721,Foundit,Data Analyst,ICICI Bank,E-Commerce,"Bengaluru, Karnataka",₹2.5-4.5 LPA,3-5 Years,"SQL, Excel, Power BI, Python",BCA/MCA,Contract,2026-08-10
+JOB0722,Naukri,Machine Learning Engineer,Oracle,Manufacturing,"Jaipur, Rajasthan",₹3.0-4.5 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",B.E./B.Tech,Internship,2026-07-11
+JOB0723,Naukri,Machine Learning Engineer,KPMG,BPO,"Delhi, India",₹8.0-10.0 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",BCA/MCA,Full-time,2026-07-17
+JOB0724,Glassdoor,DevOps Engineer,Flipkart,Banking,"Bengaluru, Karnataka",₹3.5-7.5 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",BCA/MCA,Full-time,2026-07-25
+JOB0725,Foundit,QA Engineer,Capgemini,BPO,"Noida, Uttar Pradesh",₹5.0-7.0 LPA,5-8 Years,"Selenium, Java, SQL, Testing",MBA,Part-time,2026-07-04
+JOB0726,LinkedIn Jobs,Data Scientist,Flipkart,Manufacturing,"Noida, Uttar Pradesh",₹3.5-8.5 LPA,3-5 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Full-time,2026-07-08
+JOB0727,Indeed,Full Stack Developer,Concentrix,Telecommunications,"Noida, Uttar Pradesh",₹4.0-6.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",M.Sc,Part-time,2026-07-18
+JOB0728,Naukri,Project Coordinator,Capgemini,Healthcare,"Hyderabad, Telangana",₹5.0-7.0 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",MBA,Contract,2026-07-27
+JOB0729,Glassdoor,Full Stack Developer,Zoho,Telecommunications,"Chennai, Tamil Nadu",₹8.0-10.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Part-time,2026-07-24
+JOB0730,Foundit,Machine Learning Engineer,Concentrix,BPO,"Mumbai, Maharashtra",₹7.0-9.0 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",Bachelor's Degree,Full-time,2026-07-25
+JOB0731,Glassdoor,Business Analyst,Amazon,BPO,"Jaipur, Rajasthan",₹4.0-8.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",Any Degree,Full-time,2026-07-23
+JOB0732,Indeed,Frontend Developer,Mphasis,E-Commerce,"Kochi, Kerala",₹7.0-10.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React",B.E./B.Tech,Contract,2026-07-26
+JOB0733,Naukri,Software Developer,Mphasis,Software,"Delhi, India",₹8.0-11.0 LPA,8+ Years,"Java, Python, Git, SQL",M.Sc,Part-time,2026-07-30
+JOB0734,Foundit,Frontend Developer,Accenture,Financial Services,"Jaipur, Rajasthan",₹6.0-7.5 LPA,2-3 Years,"HTML, CSS, JavaScript, React",M.Sc,Contract,2026-07-09
+JOB0735,Foundit,Frontend Developer,Zoho,E-Commerce,"Delhi, India",₹5.0-10.0 LPA,8+ Years,"HTML, CSS, JavaScript, React",Master's Degree,Part-time,2026-07-21
+JOB0736,Naukri,Digital Marketing Executive,WNS,IT Services,"Pune, Maharashtra",₹8.0-9.5 LPA,1-2 Years,"SEO, Google Ads, Social Media, Analytics",Any Degree,Internship,2026-07-13
+JOB0737,Foundit,Frontend Developer,HCLTech,IT Services,"Gurugram, Haryana",₹8.0-12.0 LPA,2-3 Years,"HTML, CSS, JavaScript, React",Master's Degree,Internship,2026-07-08
+JOB0738,LinkedIn Jobs,HR Executive,Accenture,Banking,"Mumbai, Maharashtra",₹3.5-5.0 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Contract,2026-07-23
+JOB0739,Glassdoor,Financial Analyst,WNS,BPO,"Hyderabad, Telangana",₹4.0-9.0 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",Bachelor's Degree,Part-time,2026-07-01
+JOB0740,Indeed,HR Executive,WNS,Software,"Noida, Uttar Pradesh",₹3.0-6.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Contract,2026-07-02
+JOB0741,Foundit,Python Developer,TCS,Financial Services,"Coimbatore, Tamil Nadu",₹3.0-7.0 LPA,8+ Years,"Python, Django, REST API, SQL",Any Degree,Contract,2026-07-31
+JOB0742,Naukri,Business Analyst,Freshworks,Banking,"Bengaluru, Karnataka",₹8.0-11.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",MBA,Contract,2026-08-06
+JOB0743,Foundit,Business Analyst,HDFC Bank,Software,"Noida, Uttar Pradesh",₹3.0-8.0 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Part-time,2026-08-08
+JOB0744,Foundit,Cloud Engineer,Wipro,Healthcare,"Mumbai, Maharashtra",₹2.5-4.5 LPA,8+ Years,"AWS, Azure, Linux, Networking",B.E./B.Tech,Full-time,2026-07-11
+JOB0745,Naukri,Backend Developer,PwC,Consulting,"Ahmedabad, Gujarat",₹7.0-10.0 LPA,0-1 Years,"Python, Java, Node.js, SQL",M.Com,Part-time,2026-08-08
+JOB0746,Glassdoor,HR Executive,KPMG,BPO,"Noida, Uttar Pradesh",₹7.0-11.0 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",M.Sc,Contract,2026-07-18
+JOB0747,LinkedIn Jobs,Project Coordinator,HCLTech,Manufacturing,"Delhi, India",₹7.0-11.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Part-time,2026-07-06
+JOB0748,Foundit,HR Executive,Mphasis,Software,"Gurugram, Haryana",₹3.0-6.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Part-time,2026-07-30
+JOB0749,LinkedIn Jobs,Backend Developer,Tech Mahindra,Manufacturing,"Chennai, Tamil Nadu",₹7.0-10.0 LPA,0-1 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Internship,2026-08-06
+JOB0750,Indeed,DevOps Engineer,Accenture,Financial Services,"Coimbatore, Tamil Nadu",₹8.0-13.0 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Full-time,2026-07-17
+JOB0751,LinkedIn Jobs,QA Engineer,HCLTech,Healthcare,"Jaipur, Rajasthan",₹3.5-7.5 LPA,2-3 Years,"Selenium, Java, SQL, Testing",M.Com,Internship,2026-07-03
+JOB0752,Naukri,QA Engineer,Zoho,E-Commerce,"Chennai, Tamil Nadu",₹5.0-8.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",MBA,Full-time,2026-07-12
+JOB0753,LinkedIn Jobs,DevOps Engineer,LTIMindtree,IT Services,"Hyderabad, Telangana",₹2.5-4.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",Master's Degree,Internship,2026-07-26
+JOB0754,Glassdoor,Cloud Engineer,WNS,Consulting,"Jaipur, Rajasthan",₹8.0-11.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",M.Sc,Contract,2026-08-09
+JOB0755,LinkedIn Jobs,Data Scientist,Cognizant,IT Services,"Jaipur, Rajasthan",₹3.5-5.0 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",Any Degree,Part-time,2026-07-13
+JOB0756,Glassdoor,HR Executive,Freshworks,Banking,"Chennai, Tamil Nadu",₹3.5-5.5 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Part-time,2026-07-28
+JOB0757,Naukri,HR Executive,EY,Telecommunications,"Gurugram, Haryana",₹2.5-4.0 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Internship,2026-07-11
+JOB0758,Foundit,Financial Analyst,Tech Mahindra,IT Services,"Delhi, India",₹4.0-7.0 LPA,0-1 Years,"Excel, SQL, Financial Modeling, Power BI",Bachelor's Degree,Internship,2026-08-06
+JOB0759,Foundit,DevOps Engineer,PwC,Telecommunications,"Kochi, Kerala",₹5.0-6.5 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",Master's Degree,Part-time,2026-08-01
+JOB0760,Indeed,Business Analyst,Mphasis,Manufacturing,"Chennai, Tamil Nadu",₹2.5-6.5 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Internship,2026-08-06
+JOB0761,LinkedIn Jobs,Business Intelligence Analyst,PwC,E-Commerce,"Mumbai, Maharashtra",₹6.0-10.0 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Internship,2026-07-28
+JOB0762,Glassdoor,AI Engineer,KPMG,Consulting,"Coimbatore, Tamil Nadu",₹4.0-9.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Part-time,2026-07-15
+JOB0763,Foundit,Backend Developer,HDFC Bank,E-Commerce,"Coimbatore, Tamil Nadu",₹7.0-11.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",MBA,Full-time,2026-07-24
+JOB0764,Glassdoor,HR Executive,Cognizant,Telecommunications,"Chennai, Tamil Nadu",₹3.5-5.5 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Contract,2026-07-11
+JOB0765,Indeed,Full Stack Developer,Capgemini,Consulting,"Ahmedabad, Gujarat",₹2.5-4.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Full-time,2026-07-23
+JOB0766,Naukri,Data Scientist,Amazon,Software,"Kochi, Kerala",₹7.0-8.5 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Contract,2026-08-09
+JOB0767,Naukri,Machine Learning Engineer,Flipkart,Manufacturing,"Coimbatore, Tamil Nadu",₹2.5-7.5 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",Bachelor's Degree,Full-time,2026-07-18
+JOB0768,Glassdoor,QA Engineer,KPMG,Software,"Kochi, Kerala",₹3.0-4.5 LPA,0-1 Years,"Selenium, Java, SQL, Testing",Bachelor's Degree,Part-time,2026-08-09
+JOB0769,Foundit,Business Intelligence Analyst,Capgemini,Manufacturing,"Gurugram, Haryana",₹6.0-8.0 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Part-time,2026-07-19
+JOB0770,Foundit,AI Engineer,Amazon,Healthcare,"Bengaluru, Karnataka",₹3.5-5.0 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Contract,2026-07-13
+JOB0771,Indeed,Backend Developer,Mphasis,Healthcare,"Delhi, India",₹3.5-5.0 LPA,8+ Years,"Python, Java, Node.js, SQL",BCA/MCA,Part-time,2026-07-18
+JOB0772,Foundit,Talent Acquisition Specialist,EY,Healthcare,"Gurugram, Haryana",₹4.0-6.0 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Com,Full-time,2026-07-28
+JOB0773,LinkedIn Jobs,QA Engineer,Cognizant,Consulting,"Delhi, India",₹2.5-7.5 LPA,3-5 Years,"Selenium, Java, SQL, Testing",B.E./B.Tech,Internship,2026-07-05
+JOB0774,LinkedIn Jobs,Business Analyst,Genpact,Manufacturing,"Mumbai, Maharashtra",₹2.5-4.5 LPA,3-5 Years,"SQL, Excel, Power BI, Business Analysis",M.Sc,Contract,2026-08-06
+JOB0775,Glassdoor,Machine Learning Engineer,Flipkart,E-Commerce,"Jaipur, Rajasthan",₹2.5-5.5 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Part-time,2026-08-03
+JOB0776,Naukri,Digital Marketing Executive,Zoho,Financial Services,"Chennai, Tamil Nadu",₹8.0-11.0 LPA,0-1 Years,"SEO, Google Ads, Social Media, Analytics",M.Com,Internship,2026-07-26
+JOB0777,Glassdoor,Python Developer,Mphasis,Manufacturing,"Mumbai, Maharashtra",₹5.0-7.0 LPA,5-8 Years,"Python, Django, REST API, SQL",M.Com,Part-time,2026-07-06
+JOB0778,Foundit,Data Analyst,TCS,Manufacturing,"Chennai, Tamil Nadu",₹5.0-7.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",Any Degree,Contract,2026-07-20
+JOB0779,LinkedIn Jobs,Frontend Developer,Freshworks,Telecommunications,"Mumbai, Maharashtra",₹6.0-7.5 LPA,5-8 Years,"HTML, CSS, JavaScript, React",Any Degree,Internship,2026-07-04
+JOB0780,Indeed,Machine Learning Engineer,Tech Mahindra,BPO,"Ahmedabad, Gujarat",₹4.0-7.0 LPA,1-2 Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Part-time,2026-07-20
+JOB0781,LinkedIn Jobs,Business Intelligence Analyst,Amazon,E-Commerce,"Jaipur, Rajasthan",₹4.0-7.0 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",M.Sc,Full-time,2026-07-30
+JOB0782,Naukri,Data Scientist,Infosys,Telecommunications,"Chennai, Tamil Nadu",₹7.0-9.0 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Internship,2026-07-31
+JOB0783,Foundit,Frontend Developer,Oracle,Healthcare,"Hyderabad, Telangana",₹8.0-12.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React",B.E./B.Tech,Internship,2026-07-29
+JOB0784,Foundit,QA Engineer,Cognizant,IT Services,"Jaipur, Rajasthan",₹3.0-5.0 LPA,1-2 Years,"Selenium, Java, SQL, Testing",M.Com,Full-time,2026-07-30
+JOB0785,Glassdoor,Project Coordinator,EY,Financial Services,"Bengaluru, Karnataka",₹3.0-4.5 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",B.E./B.Tech,Full-time,2026-07-24
+JOB0786,Foundit,AI Engineer,IBM,IT Services,"Hyderabad, Telangana",₹6.0-9.0 LPA,1-2 Years,"Python, Machine Learning, NLP, TensorFlow",M.Sc,Full-time,2026-07-19
+JOB0787,LinkedIn Jobs,Backend Developer,IBM,Software,"Kochi, Kerala",₹4.0-6.0 LPA,2-3 Years,"Python, Java, Node.js, SQL",Bachelor's Degree,Full-time,2026-08-01
+JOB0788,Indeed,DevOps Engineer,PwC,Healthcare,"Gurugram, Haryana",₹5.0-10.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",B.E./B.Tech,Part-time,2026-07-29
+JOB0789,Naukri,Talent Acquisition Specialist,Freshworks,Consulting,"Chennai, Tamil Nadu",₹8.0-12.0 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Internship,2026-07-29
+JOB0790,Foundit,Full Stack Developer,Genpact,Financial Services,"Ahmedabad, Gujarat",₹6.0-11.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Full-time,2026-07-03
+JOB0791,Glassdoor,Financial Analyst,Freshworks,Software,"Pune, Maharashtra",₹5.0-10.0 LPA,5-8 Years,"Excel, SQL, Financial Modeling, Power BI",Any Degree,Part-time,2026-07-08
+JOB0792,Naukri,HR Executive,Mphasis,IT Services,"Mumbai, Maharashtra",₹2.5-4.0 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Internship,2026-08-04
+JOB0793,LinkedIn Jobs,Data Scientist,LTIMindtree,Telecommunications,"Bengaluru, Karnataka",₹6.0-10.0 LPA,2-3 Years,"Python, SQL, Machine Learning, Pandas",M.Sc,Part-time,2026-08-07
+JOB0794,LinkedIn Jobs,DevOps Engineer,TCS,Software,"Chennai, Tamil Nadu",₹6.0-10.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",B.E./B.Tech,Contract,2026-07-17
+JOB0795,Indeed,Python Developer,HCLTech,Healthcare,"Ahmedabad, Gujarat",₹5.0-6.5 LPA,1-2 Years,"Python, Django, REST API, SQL",Any Degree,Contract,2026-07-10
+JOB0796,LinkedIn Jobs,Software Developer,TCS,Consulting,"Hyderabad, Telangana",₹2.5-5.5 LPA,3-5 Years,"Java, Python, Git, SQL",M.Com,Contract,2026-07-25
+JOB0797,Glassdoor,Cloud Engineer,Accenture,BPO,"Pune, Maharashtra",₹2.5-4.5 LPA,3-5 Years,"AWS, Azure, Linux, Networking",M.Sc,Full-time,2026-07-16
+JOB0798,Foundit,Frontend Developer,Infosys,Software,"Gurugram, Haryana",₹6.0-10.0 LPA,0-1 Years,"HTML, CSS, JavaScript, React",M.Sc,Part-time,2026-08-05
+JOB0799,Naukri,Data Analyst,Deloitte,Financial Services,"Coimbatore, Tamil Nadu",₹3.0-5.0 LPA,3-5 Years,"SQL, Excel, Power BI, Python",Master's Degree,Full-time,2026-08-05
+JOB0800,Naukri,Talent Acquisition Specialist,Capgemini,Banking,"Kochi, Kerala",₹3.5-6.5 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",Master's Degree,Full-time,2026-08-04
+JOB0801,LinkedIn Jobs,Data Analyst,KPMG,Telecommunications,"Mumbai, Maharashtra",₹5.0-7.0 LPA,5-8 Years,"SQL, Excel, Power BI, Python",MBA,Internship,2026-07-01
+JOB0802,Indeed,AI Engineer,Freshworks,IT Services,"Hyderabad, Telangana",₹4.0-9.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",Bachelor's Degree,Contract,2026-08-02
+JOB0803,Indeed,Data Scientist,Genpact,Healthcare,"Pune, Maharashtra",₹3.0-5.0 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",M.Com,Contract,2026-08-05
+JOB0804,Indeed,Frontend Developer,ICICI Bank,Consulting,"Pune, Maharashtra",₹8.0-11.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React",M.Com,Full-time,2026-07-16
+JOB0805,LinkedIn Jobs,Python Developer,Freshworks,IT Services,"Ahmedabad, Gujarat",₹2.5-7.5 LPA,1-2 Years,"Python, Django, REST API, SQL",M.Sc,Internship,2026-07-31
+JOB0806,LinkedIn Jobs,Cloud Engineer,LTIMindtree,Telecommunications,"Ahmedabad, Gujarat",₹3.0-4.5 LPA,0-1 Years,"AWS, Azure, Linux, Networking",M.Com,Internship,2026-08-04
+JOB0807,LinkedIn Jobs,Project Coordinator,Flipkart,Telecommunications,"Delhi, India",₹7.0-9.0 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Full-time,2026-07-01
+JOB0808,Naukri,Full Stack Developer,HDFC Bank,Software,"Coimbatore, Tamil Nadu",₹2.5-5.5 LPA,8+ Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Part-time,2026-07-23
+JOB0809,Foundit,Full Stack Developer,PwC,BPO,"Pune, Maharashtra",₹6.0-7.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React, Node.js",BCA/MCA,Internship,2026-07-18
+JOB0810,Naukri,Business Intelligence Analyst,Deloitte,BPO,"Ahmedabad, Gujarat",₹8.0-10.0 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Full-time,2026-08-05
+JOB0811,Glassdoor,Financial Analyst,Cognizant,Banking,"Kochi, Kerala",₹3.0-5.0 LPA,8+ Years,"Excel, SQL, Financial Modeling, Power BI",MBA,Part-time,2026-07-17
+JOB0812,LinkedIn Jobs,Data Analyst,Concentrix,Healthcare,"Ahmedabad, Gujarat",₹5.0-10.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",Any Degree,Contract,2026-07-30
+JOB0813,Foundit,DevOps Engineer,EY,Telecommunications,"Delhi, India",₹5.0-6.5 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Part-time,2026-08-03
+JOB0814,Indeed,Business Analyst,Deloitte,IT Services,"Noida, Uttar Pradesh",₹7.0-12.0 LPA,1-2 Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Full-time,2026-07-29
+JOB0815,Naukri,Financial Analyst,TCS,Banking,"Hyderabad, Telangana",₹4.0-8.0 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",MBA,Full-time,2026-07-05
+JOB0816,Glassdoor,Business Intelligence Analyst,TCS,Consulting,"Mumbai, Maharashtra",₹8.0-12.0 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Internship,2026-07-02
+JOB0817,Naukri,Full Stack Developer,Amazon,Software,"Coimbatore, Tamil Nadu",₹2.5-5.5 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Full-time,2026-08-03
+JOB0818,LinkedIn Jobs,QA Engineer,Oracle,Healthcare,"Delhi, India",₹3.0-4.5 LPA,8+ Years,"Selenium, Java, SQL, Testing",Bachelor's Degree,Part-time,2026-07-04
+JOB0819,Foundit,Business Analyst,KPMG,Software,"Chennai, Tamil Nadu",₹2.5-5.5 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",Any Degree,Full-time,2026-08-09
+JOB0820,Foundit,Backend Developer,Genpact,Banking,"Coimbatore, Tamil Nadu",₹7.0-8.5 LPA,8+ Years,"Python, Java, Node.js, SQL",Any Degree,Internship,2026-08-09
+JOB0821,LinkedIn Jobs,Cloud Engineer,KPMG,Consulting,"Ahmedabad, Gujarat",₹7.0-12.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",Any Degree,Internship,2026-08-09
+JOB0822,LinkedIn Jobs,Talent Acquisition Specialist,Amazon,BPO,"Jaipur, Rajasthan",₹4.0-5.5 LPA,0-1 Years,"Recruitment, Sourcing, LinkedIn, Communication",BCA/MCA,Part-time,2026-07-07
+JOB0823,Glassdoor,Talent Acquisition Specialist,Deloitte,Telecommunications,"Hyderabad, Telangana",₹6.0-10.0 LPA,1-2 Years,"Recruitment, Sourcing, LinkedIn, Communication",B.E./B.Tech,Full-time,2026-07-31
+JOB0824,Glassdoor,Business Analyst,Cognizant,Consulting,"Mumbai, Maharashtra",₹5.0-10.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",B.E./B.Tech,Part-time,2026-07-28
+JOB0825,LinkedIn Jobs,HR Executive,IBM,Manufacturing,"Coimbatore, Tamil Nadu",₹6.0-9.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Full-time,2026-07-24
+JOB0826,Naukri,Full Stack Developer,Mphasis,Banking,"Ahmedabad, Gujarat",₹2.5-6.5 LPA,1-2 Years,"HTML, CSS, JavaScript, React, Node.js",Bachelor's Degree,Contract,2026-07-23
+JOB0827,Indeed,Java Developer,WNS,BPO,"Coimbatore, Tamil Nadu",₹8.0-12.0 LPA,2-3 Years,"Java, Spring Boot, SQL, Git",MBA,Internship,2026-08-08
+JOB0828,Foundit,Machine Learning Engineer,HCLTech,Banking,"Bengaluru, Karnataka",₹3.0-7.0 LPA,8+ Years,"Python, Machine Learning, TensorFlow, SQL",BCA/MCA,Part-time,2026-07-03
+JOB0829,Indeed,QA Engineer,Zoho,Healthcare,"Pune, Maharashtra",₹4.0-6.0 LPA,3-5 Years,"Selenium, Java, SQL, Testing",B.E./B.Tech,Full-time,2026-07-31
+JOB0830,Glassdoor,AI Engineer,TCS,Software,"Hyderabad, Telangana",₹3.0-6.0 LPA,2-3 Years,"Python, Machine Learning, NLP, TensorFlow",Master's Degree,Part-time,2026-07-02
+JOB0831,Naukri,Financial Analyst,ICICI Bank,Banking,"Mumbai, Maharashtra",₹6.0-7.5 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Contract,2026-07-02
+JOB0832,LinkedIn Jobs,Software Developer,Amazon,E-Commerce,"Mumbai, Maharashtra",₹4.0-6.0 LPA,0-1 Years,"Java, Python, Git, SQL",Any Degree,Part-time,2026-07-13
+JOB0833,Indeed,Cloud Engineer,Freshworks,Telecommunications,"Pune, Maharashtra",₹3.0-6.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",M.Com,Part-time,2026-07-14
+JOB0834,Naukri,Talent Acquisition Specialist,Zoho,E-Commerce,"Pune, Maharashtra",₹7.0-8.5 LPA,1-2 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Contract,2026-07-08
+JOB0835,Glassdoor,Machine Learning Engineer,Zoho,BPO,"Pune, Maharashtra",₹7.0-9.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Part-time,2026-07-03
+JOB0836,Glassdoor,Machine Learning Engineer,Tech Mahindra,BPO,"Gurugram, Haryana",₹2.5-5.5 LPA,1-2 Years,"Python, Machine Learning, TensorFlow, SQL",Bachelor's Degree,Internship,2026-07-09
+JOB0837,Glassdoor,Project Coordinator,Wipro,Consulting,"Gurugram, Haryana",₹3.5-8.5 LPA,5-8 Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Part-time,2026-07-25
+JOB0838,Foundit,Machine Learning Engineer,Concentrix,Telecommunications,"Mumbai, Maharashtra",₹6.0-11.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Full-time,2026-07-31
+JOB0839,Foundit,Java Developer,Tech Mahindra,Banking,"Mumbai, Maharashtra",₹4.0-8.0 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",M.Sc,Part-time,2026-07-16
+JOB0840,Indeed,AI Engineer,Deloitte,Telecommunications,"Kochi, Kerala",₹3.0-5.0 LPA,2-3 Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Full-time,2026-07-06
+JOB0841,Foundit,QA Engineer,Mphasis,Healthcare,"Noida, Uttar Pradesh",₹6.0-10.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",Master's Degree,Contract,2026-07-29
+JOB0842,Naukri,Frontend Developer,Genpact,Financial Services,"Ahmedabad, Gujarat",₹2.5-4.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React",M.Com,Full-time,2026-07-29
+JOB0843,LinkedIn Jobs,Backend Developer,Mphasis,Software,"Chennai, Tamil Nadu",₹3.0-6.0 LPA,2-3 Years,"Python, Java, Node.js, SQL",Any Degree,Part-time,2026-07-15
+JOB0844,Indeed,Machine Learning Engineer,Capgemini,Banking,"Jaipur, Rajasthan",₹6.0-9.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",B.E./B.Tech,Contract,2026-07-20
+JOB0845,Foundit,Data Analyst,ICICI Bank,Healthcare,"Coimbatore, Tamil Nadu",₹5.0-8.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",Any Degree,Internship,2026-07-23
+JOB0846,Naukri,Talent Acquisition Specialist,ICICI Bank,Banking,"Gurugram, Haryana",₹3.5-7.5 LPA,1-2 Years,"Recruitment, Sourcing, LinkedIn, Communication",Master's Degree,Internship,2026-07-15
+JOB0847,Foundit,Machine Learning Engineer,Wipro,Banking,"Gurugram, Haryana",₹6.0-8.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",Any Degree,Contract,2026-07-28
+JOB0848,Foundit,Python Developer,Oracle,Consulting,"Delhi, India",₹3.5-6.5 LPA,1-2 Years,"Python, Django, REST API, SQL",M.Sc,Internship,2026-07-01
+JOB0849,LinkedIn Jobs,Cloud Engineer,ICICI Bank,BPO,"Bengaluru, Karnataka",₹5.0-8.0 LPA,1-2 Years,"AWS, Azure, Linux, Networking",B.E./B.Tech,Contract,2026-08-07
+JOB0850,Foundit,Financial Analyst,Freshworks,Software,"Kochi, Kerala",₹7.0-11.0 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Internship,2026-07-14
+JOB0851,Naukri,Business Intelligence Analyst,Amazon,Software,"Ahmedabad, Gujarat",₹8.0-11.0 LPA,5-8 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Full-time,2026-07-06
+JOB0852,LinkedIn Jobs,Project Coordinator,PwC,Healthcare,"Mumbai, Maharashtra",₹2.5-4.5 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",BCA/MCA,Contract,2026-07-13
+JOB0853,Glassdoor,Talent Acquisition Specialist,Wipro,IT Services,"Hyderabad, Telangana",₹8.0-9.5 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Internship,2026-07-24
+JOB0854,Foundit,Software Developer,Accenture,Software,"Noida, Uttar Pradesh",₹3.5-8.5 LPA,1-2 Years,"Java, Python, Git, SQL",B.E./B.Tech,Part-time,2026-07-27
+JOB0855,Glassdoor,Backend Developer,EY,Financial Services,"Coimbatore, Tamil Nadu",₹8.0-10.0 LPA,1-2 Years,"Python, Java, Node.js, SQL",Master's Degree,Contract,2026-08-08
+JOB0856,Foundit,Java Developer,TCS,BPO,"Pune, Maharashtra",₹3.5-7.5 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",M.Com,Internship,2026-07-05
+JOB0857,Foundit,QA Engineer,KPMG,Consulting,"Jaipur, Rajasthan",₹2.5-4.0 LPA,8+ Years,"Selenium, Java, SQL, Testing",MBA,Internship,2026-07-19
+JOB0858,Glassdoor,Project Coordinator,HCLTech,Healthcare,"Gurugram, Haryana",₹7.0-9.0 LPA,3-5 Years,"Excel, Project Management, Communication, MS Office",B.E./B.Tech,Full-time,2026-07-12
+JOB0859,Indeed,Cloud Engineer,Concentrix,Manufacturing,"Mumbai, Maharashtra",₹2.5-4.5 LPA,8+ Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Part-time,2026-07-11
+JOB0860,LinkedIn Jobs,HR Executive,EY,Manufacturing,"Delhi, India",₹3.0-6.0 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",Master's Degree,Part-time,2026-07-05
+JOB0861,LinkedIn Jobs,Frontend Developer,Capgemini,Telecommunications,"Noida, Uttar Pradesh",₹2.5-6.5 LPA,2-3 Years,"HTML, CSS, JavaScript, React",M.Sc,Part-time,2026-07-02
+JOB0862,Naukri,Cloud Engineer,Infosys,Consulting,"Ahmedabad, Gujarat",₹2.5-5.5 LPA,8+ Years,"AWS, Azure, Linux, Networking",Master's Degree,Internship,2026-07-08
+JOB0863,Foundit,QA Engineer,Wipro,E-Commerce,"Gurugram, Haryana",₹3.0-8.0 LPA,2-3 Years,"Selenium, Java, SQL, Testing",B.E./B.Tech,Part-time,2026-07-16
+JOB0864,LinkedIn Jobs,Data Analyst,Zoho,Manufacturing,"Jaipur, Rajasthan",₹3.0-5.0 LPA,3-5 Years,"SQL, Excel, Power BI, Python",B.E./B.Tech,Full-time,2026-07-19
+JOB0865,Indeed,Data Analyst,WNS,E-Commerce,"Pune, Maharashtra",₹5.0-7.0 LPA,8+ Years,"SQL, Excel, Power BI, Python",Any Degree,Part-time,2026-07-29
+JOB0866,Foundit,QA Engineer,Concentrix,Financial Services,"Gurugram, Haryana",₹2.5-7.5 LPA,0-1 Years,"Selenium, Java, SQL, Testing",Any Degree,Full-time,2026-07-07
+JOB0867,Naukri,Cloud Engineer,ICICI Bank,Banking,"Chennai, Tamil Nadu",₹4.0-6.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",M.Sc,Full-time,2026-07-24
+JOB0868,LinkedIn Jobs,Data Analyst,Amazon,E-Commerce,"Jaipur, Rajasthan",₹4.0-5.5 LPA,1-2 Years,"SQL, Excel, Power BI, Python",Any Degree,Internship,2026-07-15
+JOB0869,Naukri,Talent Acquisition Specialist,Accenture,BPO,"Pune, Maharashtra",₹6.0-9.0 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Internship,2026-08-05
+JOB0870,Indeed,Business Intelligence Analyst,Tech Mahindra,E-Commerce,"Bengaluru, Karnataka",₹4.0-5.5 LPA,3-5 Years,"SQL, Power BI, Tableau, Excel",M.Com,Full-time,2026-07-23
+JOB0871,Indeed,Cloud Engineer,Capgemini,BPO,"Delhi, India",₹8.0-10.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Part-time,2026-07-05
+JOB0872,Glassdoor,DevOps Engineer,IBM,E-Commerce,"Mumbai, Maharashtra",₹8.0-9.5 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",M.Com,Internship,2026-08-04
+JOB0873,LinkedIn Jobs,Python Developer,Amazon,Consulting,"Bengaluru, Karnataka",₹3.5-6.5 LPA,5-8 Years,"Python, Django, REST API, SQL",Master's Degree,Internship,2026-07-31
+JOB0874,LinkedIn Jobs,Talent Acquisition Specialist,Freshworks,Banking,"Bengaluru, Karnataka",₹4.0-9.0 LPA,5-8 Years,"Recruitment, Sourcing, LinkedIn, Communication",Bachelor's Degree,Contract,2026-08-07
+JOB0875,LinkedIn Jobs,Full Stack Developer,HDFC Bank,IT Services,"Hyderabad, Telangana",₹7.0-9.0 LPA,2-3 Years,"HTML, CSS, JavaScript, React, Node.js",Master's Degree,Contract,2026-08-09
+JOB0876,Naukri,Java Developer,Cognizant,BPO,"Gurugram, Haryana",₹7.0-9.0 LPA,8+ Years,"Java, Spring Boot, SQL, Git",M.Com,Part-time,2026-07-03
+JOB0877,Indeed,Frontend Developer,Amazon,IT Services,"Pune, Maharashtra",₹2.5-7.5 LPA,8+ Years,"HTML, CSS, JavaScript, React",M.Com,Contract,2026-07-27
+JOB0878,Glassdoor,Full Stack Developer,Capgemini,Healthcare,"Kochi, Kerala",₹2.5-4.5 LPA,2-3 Years,"HTML, CSS, JavaScript, React, Node.js",B.E./B.Tech,Internship,2026-07-15
+JOB0879,LinkedIn Jobs,Data Analyst,Wipro,E-Commerce,"Pune, Maharashtra",₹8.0-9.5 LPA,1-2 Years,"SQL, Excel, Power BI, Python",Bachelor's Degree,Part-time,2026-07-13
+JOB0880,LinkedIn Jobs,Financial Analyst,LTIMindtree,Healthcare,"Jaipur, Rajasthan",₹4.0-6.0 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",MBA,Part-time,2026-08-02
+JOB0881,Naukri,Java Developer,Tech Mahindra,Financial Services,"Mumbai, Maharashtra",₹7.0-9.0 LPA,5-8 Years,"Java, Spring Boot, SQL, Git",Master's Degree,Part-time,2026-08-08
+JOB0882,Foundit,Frontend Developer,PwC,E-Commerce,"Gurugram, Haryana",₹3.0-6.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React",M.Sc,Internship,2026-07-26
+JOB0883,LinkedIn Jobs,Python Developer,PwC,Financial Services,"Coimbatore, Tamil Nadu",₹2.5-6.5 LPA,5-8 Years,"Python, Django, REST API, SQL",B.E./B.Tech,Part-time,2026-07-28
+JOB0884,Indeed,Frontend Developer,Genpact,Healthcare,"Kochi, Kerala",₹8.0-11.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React",Master's Degree,Full-time,2026-07-30
+JOB0885,Naukri,Machine Learning Engineer,Cognizant,IT Services,"Bengaluru, Karnataka",₹8.0-10.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",M.Com,Internship,2026-07-10
+JOB0886,Foundit,Cloud Engineer,EY,Financial Services,"Ahmedabad, Gujarat",₹7.0-10.0 LPA,5-8 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Internship,2026-07-25
+JOB0887,Naukri,Business Analyst,Accenture,Healthcare,"Mumbai, Maharashtra",₹7.0-12.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Internship,2026-07-11
+JOB0888,Naukri,AI Engineer,Concentrix,Banking,"Gurugram, Haryana",₹2.5-6.5 LPA,0-1 Years,"Python, Machine Learning, NLP, TensorFlow",M.Com,Full-time,2026-07-28
+JOB0889,Naukri,Python Developer,Deloitte,BPO,"Coimbatore, Tamil Nadu",₹8.0-10.0 LPA,8+ Years,"Python, Django, REST API, SQL",B.E./B.Tech,Full-time,2026-07-17
+JOB0890,Glassdoor,Business Intelligence Analyst,ICICI Bank,Software,"Kochi, Kerala",₹3.0-7.0 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",M.Sc,Part-time,2026-07-26
+JOB0891,Foundit,DevOps Engineer,Deloitte,BPO,"Mumbai, Maharashtra",₹5.0-10.0 LPA,8+ Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Full-time,2026-08-04
+JOB0892,Naukri,Business Intelligence Analyst,Freshworks,Healthcare,"Jaipur, Rajasthan",₹6.0-8.0 LPA,2-3 Years,"SQL, Power BI, Tableau, Excel",Any Degree,Part-time,2026-07-18
+JOB0893,Glassdoor,HR Executive,TCS,Healthcare,"Ahmedabad, Gujarat",₹3.0-4.5 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",M.Sc,Part-time,2026-07-27
+JOB0894,Foundit,Software Developer,Flipkart,E-Commerce,"Kochi, Kerala",₹3.5-5.5 LPA,0-1 Years,"Java, Python, Git, SQL",Master's Degree,Part-time,2026-07-13
+JOB0895,Indeed,Software Developer,Capgemini,Healthcare,"Gurugram, Haryana",₹2.5-4.5 LPA,8+ Years,"Java, Python, Git, SQL",Bachelor's Degree,Part-time,2026-07-13
+JOB0896,Indeed,Data Scientist,IBM,Software,"Delhi, India",₹3.0-7.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Internship,2026-07-08
+JOB0897,Indeed,HR Executive,WNS,IT Services,"Ahmedabad, Gujarat",₹3.0-4.5 LPA,5-8 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Full-time,2026-07-04
+JOB0898,Glassdoor,Java Developer,Mphasis,Financial Services,"Gurugram, Haryana",₹2.5-6.5 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",M.Com,Internship,2026-08-08
+JOB0899,Indeed,Machine Learning Engineer,Flipkart,Healthcare,"Noida, Uttar Pradesh",₹6.0-9.0 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",Any Degree,Contract,2026-07-16
+JOB0900,Naukri,Machine Learning Engineer,Accenture,IT Services,"Coimbatore, Tamil Nadu",₹2.5-6.5 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Part-time,2026-07-26
+JOB0901,Naukri,AI Engineer,KPMG,IT Services,"Ahmedabad, Gujarat",₹8.0-13.0 LPA,2-3 Years,"Python, Machine Learning, NLP, TensorFlow",Any Degree,Contract,2026-07-27
+JOB0902,Glassdoor,Business Analyst,HDFC Bank,Telecommunications,"Noida, Uttar Pradesh",₹6.0-10.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",Bachelor's Degree,Contract,2026-07-15
+JOB0903,Glassdoor,DevOps Engineer,PwC,Banking,"Jaipur, Rajasthan",₹3.0-7.0 LPA,1-2 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Part-time,2026-07-19
+JOB0904,Naukri,HR Executive,Wipro,Telecommunications,"Chennai, Tamil Nadu",₹5.0-10.0 LPA,3-5 Years,"Recruitment, HRMS, Excel, Communication",BCA/MCA,Part-time,2026-07-30
+JOB0905,LinkedIn Jobs,Java Developer,HCLTech,E-Commerce,"Delhi, India",₹3.0-4.5 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",MBA,Part-time,2026-07-28
+JOB0906,Glassdoor,Frontend Developer,WNS,Telecommunications,"Chennai, Tamil Nadu",₹8.0-9.5 LPA,8+ Years,"HTML, CSS, JavaScript, React",M.Com,Part-time,2026-07-09
+JOB0907,Foundit,Financial Analyst,ICICI Bank,Manufacturing,"Noida, Uttar Pradesh",₹3.0-6.0 LPA,1-2 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Contract,2026-07-25
+JOB0908,Indeed,Business Intelligence Analyst,IBM,BPO,"Pune, Maharashtra",₹3.0-4.5 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Contract,2026-07-06
+JOB0909,Indeed,Python Developer,Amazon,IT Services,"Coimbatore, Tamil Nadu",₹7.0-12.0 LPA,5-8 Years,"Python, Django, REST API, SQL",BCA/MCA,Internship,2026-07-01
+JOB0910,Glassdoor,DevOps Engineer,Amazon,BPO,"Pune, Maharashtra",₹6.0-8.0 LPA,0-1 Years,"Docker, Kubernetes, AWS, Jenkins",M.Sc,Full-time,2026-08-03
+JOB0911,Naukri,Digital Marketing Executive,KPMG,Telecommunications,"Ahmedabad, Gujarat",₹6.0-8.0 LPA,3-5 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Contract,2026-07-19
+JOB0912,Indeed,Python Developer,HDFC Bank,Manufacturing,"Jaipur, Rajasthan",₹2.5-7.5 LPA,0-1 Years,"Python, Django, REST API, SQL",MBA,Internship,2026-07-21
+JOB0913,Indeed,Java Developer,PwC,E-Commerce,"Jaipur, Rajasthan",₹5.0-9.0 LPA,1-2 Years,"Java, Spring Boot, SQL, Git",BCA/MCA,Full-time,2026-07-04
+JOB0914,LinkedIn Jobs,Software Developer,PwC,Manufacturing,"Noida, Uttar Pradesh",₹7.0-10.0 LPA,2-3 Years,"Java, Python, Git, SQL",M.Sc,Internship,2026-07-11
+JOB0915,Glassdoor,AI Engineer,ICICI Bank,Financial Services,"Mumbai, Maharashtra",₹7.0-11.0 LPA,8+ Years,"Python, Machine Learning, NLP, TensorFlow",BCA/MCA,Internship,2026-07-05
+JOB0916,Indeed,Business Intelligence Analyst,Cognizant,Telecommunications,"Ahmedabad, Gujarat",₹6.0-11.0 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",B.E./B.Tech,Internship,2026-07-04
+JOB0917,Naukri,HR Executive,IBM,IT Services,"Delhi, India",₹3.5-5.5 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Part-time,2026-07-14
+JOB0918,Indeed,Cloud Engineer,EY,Telecommunications,"Hyderabad, Telangana",₹3.5-5.0 LPA,0-1 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Contract,2026-07-07
+JOB0919,LinkedIn Jobs,Financial Analyst,EY,Software,"Pune, Maharashtra",₹3.5-7.5 LPA,3-5 Years,"Excel, SQL, Financial Modeling, Power BI",Master's Degree,Contract,2026-07-16
+JOB0920,Foundit,Project Coordinator,HCLTech,Financial Services,"Ahmedabad, Gujarat",₹7.0-8.5 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Master's Degree,Contract,2026-07-30
+JOB0921,Foundit,Data Analyst,Accenture,Manufacturing,"Pune, Maharashtra",₹3.0-4.5 LPA,0-1 Years,"SQL, Excel, Power BI, Python",Master's Degree,Contract,2026-07-08
+JOB0922,Foundit,Business Intelligence Analyst,Oracle,Financial Services,"Coimbatore, Tamil Nadu",₹3.5-7.5 LPA,1-2 Years,"SQL, Power BI, Tableau, Excel",Bachelor's Degree,Contract,2026-07-31
+JOB0923,Foundit,Data Scientist,Concentrix,Manufacturing,"Kochi, Kerala",₹3.5-7.5 LPA,5-8 Years,"Python, SQL, Machine Learning, Pandas",Master's Degree,Full-time,2026-07-02
+JOB0924,Naukri,Talent Acquisition Specialist,Oracle,BPO,"Jaipur, Rajasthan",₹3.0-5.0 LPA,1-2 Years,"Recruitment, Sourcing, LinkedIn, Communication",Any Degree,Internship,2026-07-08
+JOB0925,Naukri,Machine Learning Engineer,Accenture,E-Commerce,"Chennai, Tamil Nadu",₹2.5-4.5 LPA,5-8 Years,"Python, Machine Learning, TensorFlow, SQL",MBA,Full-time,2026-08-06
+JOB0926,Naukri,Data Scientist,Accenture,Healthcare,"Ahmedabad, Gujarat",₹5.0-8.0 LPA,0-1 Years,"Python, SQL, Machine Learning, Pandas",BCA/MCA,Contract,2026-08-04
+JOB0927,Naukri,Business Analyst,Mphasis,BPO,"Gurugram, Haryana",₹5.0-10.0 LPA,8+ Years,"SQL, Excel, Power BI, Business Analysis",M.Com,Contract,2026-07-29
+JOB0928,Naukri,Project Coordinator,LTIMindtree,IT Services,"Pune, Maharashtra",₹4.0-5.5 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",MBA,Part-time,2026-07-03
+JOB0929,Indeed,Python Developer,Zoho,E-Commerce,"Jaipur, Rajasthan",₹4.0-9.0 LPA,5-8 Years,"Python, Django, REST API, SQL",M.Sc,Full-time,2026-07-23
+JOB0930,Foundit,Digital Marketing Executive,Deloitte,Telecommunications,"Chennai, Tamil Nadu",₹5.0-9.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",M.Sc,Part-time,2026-07-11
+JOB0931,Naukri,Digital Marketing Executive,Capgemini,Consulting,"Coimbatore, Tamil Nadu",₹3.0-6.0 LPA,8+ Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Internship,2026-08-10
+JOB0932,Glassdoor,Python Developer,Amazon,Banking,"Chennai, Tamil Nadu",₹7.0-11.0 LPA,2-3 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Full-time,2026-07-02
+JOB0933,LinkedIn Jobs,Digital Marketing Executive,EY,Consulting,"Delhi, India",₹3.0-6.0 LPA,2-3 Years,"SEO, Google Ads, Social Media, Analytics",B.E./B.Tech,Part-time,2026-08-10
+JOB0934,Foundit,Frontend Developer,TCS,Software,"Chennai, Tamil Nadu",₹3.0-7.0 LPA,1-2 Years,"HTML, CSS, JavaScript, React",MBA,Internship,2026-07-15
+JOB0935,Glassdoor,Business Intelligence Analyst,Mphasis,Financial Services,"Coimbatore, Tamil Nadu",₹6.0-11.0 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",Any Degree,Part-time,2026-07-19
+JOB0936,Glassdoor,Machine Learning Engineer,ICICI Bank,Manufacturing,"Coimbatore, Tamil Nadu",₹7.0-9.0 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Part-time,2026-07-23
+JOB0937,Foundit,Frontend Developer,TCS,BPO,"Jaipur, Rajasthan",₹3.5-5.5 LPA,2-3 Years,"HTML, CSS, JavaScript, React",Any Degree,Contract,2026-07-10
+JOB0938,Foundit,Full Stack Developer,WNS,Consulting,"Gurugram, Haryana",₹7.0-11.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",MBA,Contract,2026-07-12
+JOB0939,LinkedIn Jobs,DevOps Engineer,Mphasis,Financial Services,"Noida, Uttar Pradesh",₹4.0-7.0 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",Bachelor's Degree,Full-time,2026-08-10
+JOB0940,Glassdoor,Data Scientist,HDFC Bank,IT Services,"Chennai, Tamil Nadu",₹4.0-5.5 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",MBA,Internship,2026-07-11
+JOB0941,Glassdoor,Data Analyst,EY,Manufacturing,"Jaipur, Rajasthan",₹3.5-7.5 LPA,0-1 Years,"SQL, Excel, Power BI, Python",M.Sc,Full-time,2026-08-01
+JOB0942,Indeed,Project Coordinator,Capgemini,Banking,"Jaipur, Rajasthan",₹2.5-6.5 LPA,8+ Years,"Excel, Project Management, Communication, MS Office",Any Degree,Internship,2026-08-04
+JOB0943,Indeed,Software Developer,WNS,E-Commerce,"Kochi, Kerala",₹4.0-6.0 LPA,2-3 Years,"Java, Python, Git, SQL",Any Degree,Internship,2026-07-05
+JOB0944,Indeed,HR Executive,Genpact,Banking,"Kochi, Kerala",₹3.5-6.5 LPA,0-1 Years,"Recruitment, HRMS, Excel, Communication",MBA,Contract,2026-07-08
+JOB0945,Glassdoor,HR Executive,IBM,Healthcare,"Pune, Maharashtra",₹5.0-7.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",Any Degree,Internship,2026-07-01
+JOB0946,Glassdoor,Project Coordinator,PwC,Telecommunications,"Delhi, India",₹2.5-5.5 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",M.Com,Full-time,2026-07-01
+JOB0947,LinkedIn Jobs,Data Analyst,Flipkart,Software,"Noida, Uttar Pradesh",₹3.5-7.5 LPA,3-5 Years,"SQL, Excel, Power BI, Python",BCA/MCA,Full-time,2026-07-23
+JOB0948,Foundit,Talent Acquisition Specialist,Mphasis,IT Services,"Hyderabad, Telangana",₹3.5-7.5 LPA,8+ Years,"Recruitment, Sourcing, LinkedIn, Communication",MBA,Part-time,2026-07-08
+JOB0949,Foundit,HR Executive,Genpact,E-Commerce,"Kochi, Kerala",₹6.0-9.0 LPA,2-3 Years,"Recruitment, HRMS, Excel, Communication",Bachelor's Degree,Internship,2026-07-24
+JOB0950,LinkedIn Jobs,QA Engineer,HCLTech,Consulting,"Jaipur, Rajasthan",₹3.5-6.5 LPA,1-2 Years,"Selenium, Java, SQL, Testing",Bachelor's Degree,Part-time,2026-07-28
+JOB0951,Indeed,Backend Developer,Infosys,IT Services,"Hyderabad, Telangana",₹3.5-7.5 LPA,8+ Years,"Python, Java, Node.js, SQL",BCA/MCA,Internship,2026-07-27
+JOB0952,Foundit,Frontend Developer,Accenture,E-Commerce,"Delhi, India",₹7.0-11.0 LPA,3-5 Years,"HTML, CSS, JavaScript, React",M.Sc,Part-time,2026-08-05
+JOB0953,Indeed,Business Intelligence Analyst,Accenture,Manufacturing,"Bengaluru, Karnataka",₹2.5-4.5 LPA,8+ Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Full-time,2026-07-10
+JOB0954,Indeed,Machine Learning Engineer,EY,Financial Services,"Gurugram, Haryana",₹2.5-6.5 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Part-time,2026-07-31
+JOB0955,LinkedIn Jobs,Project Coordinator,Cognizant,Financial Services,"Jaipur, Rajasthan",₹3.5-5.5 LPA,1-2 Years,"Excel, Project Management, Communication, MS Office",M.Sc,Part-time,2026-07-18
+JOB0956,Naukri,HR Executive,Concentrix,Banking,"Coimbatore, Tamil Nadu",₹3.0-8.0 LPA,8+ Years,"Recruitment, HRMS, Excel, Communication",B.E./B.Tech,Part-time,2026-08-09
+JOB0957,Naukri,Business Intelligence Analyst,Cognizant,E-Commerce,"Noida, Uttar Pradesh",₹7.0-8.5 LPA,0-1 Years,"SQL, Power BI, Tableau, Excel",BCA/MCA,Full-time,2026-07-18
+JOB0958,Naukri,Business Analyst,Genpact,Banking,"Delhi, India",₹7.0-12.0 LPA,3-5 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Full-time,2026-07-20
+JOB0959,Indeed,Talent Acquisition Specialist,EY,Consulting,"Mumbai, Maharashtra",₹2.5-5.5 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",M.Sc,Part-time,2026-07-08
+JOB0960,LinkedIn Jobs,Machine Learning Engineer,Infosys,Consulting,"Pune, Maharashtra",₹3.5-5.0 LPA,2-3 Years,"Python, Machine Learning, TensorFlow, SQL",Master's Degree,Contract,2026-07-01
+JOB0961,Foundit,Project Coordinator,Accenture,Consulting,"Delhi, India",₹7.0-9.0 LPA,2-3 Years,"Excel, Project Management, Communication, MS Office",Bachelor's Degree,Full-time,2026-07-17
+JOB0962,Indeed,Data Analyst,WNS,BPO,"Kochi, Kerala",₹3.5-6.5 LPA,5-8 Years,"SQL, Excel, Power BI, Python",M.Com,Part-time,2026-07-24
+JOB0963,Naukri,Frontend Developer,Capgemini,BPO,"Chennai, Tamil Nadu",₹7.0-8.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React",BCA/MCA,Part-time,2026-07-07
+JOB0964,Indeed,QA Engineer,Accenture,Financial Services,"Jaipur, Rajasthan",₹3.0-8.0 LPA,3-5 Years,"Selenium, Java, SQL, Testing",BCA/MCA,Part-time,2026-08-09
+JOB0965,Indeed,Business Analyst,Cognizant,Manufacturing,"Delhi, India",₹4.0-8.0 LPA,2-3 Years,"SQL, Excel, Power BI, Business Analysis",Master's Degree,Full-time,2026-08-05
+JOB0966,Glassdoor,DevOps Engineer,Wipro,IT Services,"Hyderabad, Telangana",₹8.0-12.0 LPA,5-8 Years,"Docker, Kubernetes, AWS, Jenkins",MBA,Part-time,2026-08-03
+JOB0967,Foundit,Backend Developer,Infosys,Manufacturing,"Kochi, Kerala",₹2.5-4.5 LPA,0-1 Years,"Python, Java, Node.js, SQL",B.E./B.Tech,Internship,2026-07-26
+JOB0968,Indeed,Talent Acquisition Specialist,Genpact,Banking,"Hyderabad, Telangana",₹7.0-11.0 LPA,0-1 Years,"Recruitment, Sourcing, LinkedIn, Communication",B.E./B.Tech,Part-time,2026-08-08
+JOB0969,Glassdoor,Financial Analyst,Concentrix,Manufacturing,"Mumbai, Maharashtra",₹2.5-7.5 LPA,2-3 Years,"Excel, SQL, Financial Modeling, Power BI",BCA/MCA,Contract,2026-07-30
+JOB0970,LinkedIn Jobs,Frontend Developer,LTIMindtree,Manufacturing,"Pune, Maharashtra",₹3.0-5.0 LPA,2-3 Years,"HTML, CSS, JavaScript, React",Any Degree,Part-time,2026-07-15
+JOB0971,Naukri,Frontend Developer,Cognizant,Manufacturing,"Chennai, Tamil Nadu",₹5.0-6.5 LPA,0-1 Years,"HTML, CSS, JavaScript, React",M.Com,Contract,2026-07-16
+JOB0972,Glassdoor,Machine Learning Engineer,Wipro,Financial Services,"Delhi, India",₹5.0-7.0 LPA,0-1 Years,"Python, Machine Learning, TensorFlow, SQL",Any Degree,Contract,2026-07-27
+JOB0973,LinkedIn Jobs,Full Stack Developer,HDFC Bank,Manufacturing,"Ahmedabad, Gujarat",₹5.0-7.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React, Node.js",Bachelor's Degree,Internship,2026-07-17
+JOB0974,Indeed,Frontend Developer,Freshworks,Financial Services,"Pune, Maharashtra",₹4.0-8.0 LPA,5-8 Years,"HTML, CSS, JavaScript, React",M.Sc,Part-time,2026-07-15
+JOB0975,Foundit,QA Engineer,Tech Mahindra,Software,"Gurugram, Haryana",₹7.0-10.0 LPA,1-2 Years,"Selenium, Java, SQL, Testing",Master's Degree,Part-time,2026-07-10
+JOB0976,LinkedIn Jobs,Software Developer,Capgemini,Financial Services,"Hyderabad, Telangana",₹8.0-10.0 LPA,1-2 Years,"Java, Python, Git, SQL",M.Sc,Part-time,2026-07-19
+JOB0977,Foundit,Data Scientist,Cognizant,Healthcare,"Chennai, Tamil Nadu",₹3.0-7.0 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",B.E./B.Tech,Full-time,2026-07-16
+JOB0978,LinkedIn Jobs,Project Coordinator,Accenture,IT Services,"Ahmedabad, Gujarat",₹7.0-11.0 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",B.E./B.Tech,Part-time,2026-07-02
+JOB0979,LinkedIn Jobs,Data Scientist,Deloitte,Software,"Kochi, Kerala",₹3.5-8.5 LPA,8+ Years,"Python, SQL, Machine Learning, Pandas",M.Com,Full-time,2026-07-01
+JOB0980,Naukri,Java Developer,Cognizant,Financial Services,"Delhi, India",₹8.0-13.0 LPA,3-5 Years,"Java, Spring Boot, SQL, Git",B.E./B.Tech,Part-time,2026-07-29
+JOB0981,LinkedIn Jobs,Business Analyst,LTIMindtree,IT Services,"Chennai, Tamil Nadu",₹5.0-10.0 LPA,5-8 Years,"SQL, Excel, Power BI, Business Analysis",MBA,Full-time,2026-07-08
+JOB0982,LinkedIn Jobs,Talent Acquisition Specialist,EY,Banking,"Noida, Uttar Pradesh",₹3.5-5.0 LPA,3-5 Years,"Recruitment, Sourcing, LinkedIn, Communication",B.E./B.Tech,Contract,2026-07-15
+JOB0983,Naukri,Backend Developer,Tech Mahindra,Software,"Pune, Maharashtra",₹7.0-8.5 LPA,0-1 Years,"Python, Java, Node.js, SQL",MBA,Contract,2026-08-01
+JOB0984,LinkedIn Jobs,Data Scientist,Zoho,IT Services,"Coimbatore, Tamil Nadu",₹6.0-7.5 LPA,1-2 Years,"Python, SQL, Machine Learning, Pandas",B.E./B.Tech,Internship,2026-07-24
+JOB0985,Indeed,Talent Acquisition Specialist,Amazon,BPO,"Mumbai, Maharashtra",₹3.5-7.5 LPA,2-3 Years,"Recruitment, Sourcing, LinkedIn, Communication",Bachelor's Degree,Contract,2026-07-10
+JOB0986,LinkedIn Jobs,HR Executive,WNS,E-Commerce,"Ahmedabad, Gujarat",₹6.0-9.0 LPA,1-2 Years,"Recruitment, HRMS, Excel, Communication",M.Com,Part-time,2026-07-05
+JOB0987,Glassdoor,Cloud Engineer,KPMG,Healthcare,"Jaipur, Rajasthan",₹8.0-9.5 LPA,2-3 Years,"AWS, Azure, Linux, Networking",B.E./B.Tech,Full-time,2026-07-08
+JOB0988,Indeed,Machine Learning Engineer,Cognizant,Telecommunications,"Noida, Uttar Pradesh",₹3.5-7.5 LPA,3-5 Years,"Python, Machine Learning, TensorFlow, SQL",M.Sc,Contract,2026-07-23
+JOB0989,Glassdoor,Python Developer,Freshworks,Telecommunications,"Kochi, Kerala",₹4.0-8.0 LPA,5-8 Years,"Python, Django, REST API, SQL",Master's Degree,Part-time,2026-07-27
+JOB0990,Naukri,Cloud Engineer,Wipro,Software,"Pune, Maharashtra",₹7.0-12.0 LPA,2-3 Years,"AWS, Azure, Linux, Networking",Any Degree,Part-time,2026-08-06
+JOB0991,LinkedIn Jobs,Data Analyst,Flipkart,Consulting,"Delhi, India",₹8.0-10.0 LPA,1-2 Years,"SQL, Excel, Power BI, Python",MBA,Internship,2026-07-08
+JOB0992,Naukri,Python Developer,LTIMindtree,IT Services,"Jaipur, Rajasthan",₹7.0-9.0 LPA,1-2 Years,"Python, Django, REST API, SQL",Bachelor's Degree,Part-time,2026-07-14
+JOB0993,LinkedIn Jobs,Cloud Engineer,HDFC Bank,Software,"Ahmedabad, Gujarat",₹2.5-6.5 LPA,5-8 Years,"AWS, Azure, Linux, Networking",Bachelor's Degree,Internship,2026-07-24
+JOB0994,Naukri,Project Coordinator,HCLTech,Software,"Pune, Maharashtra",₹2.5-4.5 LPA,0-1 Years,"Excel, Project Management, Communication, MS Office",Any Degree,Internship,2026-07-24
+JOB0995,Glassdoor,Python Developer,ICICI Bank,Financial Services,"Gurugram, Haryana",₹3.5-7.5 LPA,3-5 Years,"Python, Django, REST API, SQL",M.Com,Internship,2026-07-09
+JOB0996,LinkedIn Jobs,Data Analyst,IBM,BPO,"Hyderabad, Telangana",₹3.0-5.0 LPA,5-8 Years,"SQL, Excel, Power BI, Python",B.E./B.Tech,Full-time,2026-07-04
+JOB0997,Glassdoor,Cloud Engineer,EY,Manufacturing,"Mumbai, Maharashtra",₹8.0-13.0 LPA,8+ Years,"AWS, Azure, Linux, Networking",BCA/MCA,Internship,2026-07-17
+JOB0998,Naukri,Software Developer,Deloitte,Banking,"Noida, Uttar Pradesh",₹3.0-8.0 LPA,5-8 Years,"Java, Python, Git, SQL",Any Degree,Part-time,2026-07-25
+JOB0999,Indeed,Cloud Engineer,HCLTech,Healthcare,"Noida, Uttar Pradesh",₹3.0-7.0 LPA,1-2 Years,"AWS, Azure, Linux, Networking",Any Degree,Contract,2026-07-31
+JOB1000,LinkedIn Jobs,DevOps Engineer,Capgemini,Consulting,"Coimbatore, Tamil Nadu",₹5.0-6.5 LPA,2-3 Years,"Docker, Kubernetes, AWS, Jenkins",Any Degree,Part-time,2026-07-07
